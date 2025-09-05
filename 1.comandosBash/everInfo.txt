@@ -1,0 +1,90 @@
+#! /bin/bash
+
+echo "Hello World!"
+
+: 'Para ejecutar los programas bash
+ debemos darle permiso al archivo
+ con el comando: chmod +a nombre.sh'
+
+#! /bin/bash
+
+# Esto es un comentario
+
+echo "> Agrega texto al archivo..." >> text1.txt
+echo "> Remplaza texto del archivo..." > text2.txt
+
+: 'Esto es un comentario 
+ de ejmplo de varias 
+ lineas lineas'
+
+#! /bin/bash
+
+# Delimitar de  cat (cualquier nombre se le puede colocar)
+# Imprime un texto de varias lineas con cat
+cat << myText 
+Esto es un texto
+de varias lineas
+myText
+
+echo " [+] cual es tu edad: "
+read age
+echo " >>> Esta es tu edad: $age edad"
+
+#! /bin/bash
+age=10
+
+# -ge: >= : Mayor o igual a
+# -eq: == : Igual a 
+# -le: <= : Menor o igual a
+
+#if [ $age -eq 10 ]
+if (( $age == 10 ))
+then
+	echo "El numero es igual :)"
+elif (( $age >= 18 ))
+then
+	echo "Eres mayor de edad"
+else
+	echo "El numero no es igual :("
+fi
+
+# Editar archivo
+
+i: = Editar el archivo.
+
+Esc = Permite digital Comandos.
+:q! = Salir sin guardar.
+:w = Guardar los cambios.
+
+:wq! = Guardar y salir sin preguntar algo.
+:set nu! = Quita numeros de linea.
+
+:x = Guardar y salir.
+
+# Copiar - Cortar - Pegar
+
+yy = Copiar una linea de texto.
+y<numero>y = Copiar <numero> de lineas de texto.
+
+dd = Corta una linea de texto.
+y<numero>y = Cortar <numero> de lineas de texto.
+
+p = Pegar linea de texto.
+
+
+# Otros
+
+o = Crea una nueva linea de texto y activa modo insert.
+
+u = Retroceder.
+<Ctrl> + r = Rehacer.
+
+v = Entrar en modo Visual.
+
+/<texto> = Busca las <texto> en el archivo.
+n = ocurrencia siguente.
+<shift> + n = ocurrencia anterior.
+
+gg = Principio del archivo.
+G = Final del archivo.
+
