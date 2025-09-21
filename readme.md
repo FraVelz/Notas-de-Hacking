@@ -46,19 +46,25 @@ A continuacion el enlace al archivo:
 tiempo recomendado para tambien practicar, y crear tus 
 propios scripts, o mas si vez nesesario).
 
-Aprender a manejar linux (aprender comandos, y bash script).
-(crea un directorio y empieza a practicar y aprender bash).
-
-Escribe en youtube y elige algun curso (lo completas, 
-tomas notas, practica cada cosa que aprendes y listo) :
+Son 2 temas diferentes relacionados con Linux, para comenzar,
+tienes que empezar como utilizar linux y comandos en terminal,
+busca en youtube:
 
 ``` 
-curso de bash desde cero
+curso de linux desde cero
 ```
 
-Tambien si quieres leer el archivo que toma temas basicos 
-de linux y bash script, en la misma carpeta hay archivos 
-.sh con diferentes cosas en bash:
+Despues de haber terminado el anterior curso escribe en 
+youtube y elige algun curso (lo completas, tomas notas, 
+practica cada cosa que aprendes y listo) :
+
+``` 
+curso de bash script desde cero
+```
+
+Tambien si quieres leer algunos conceptos introductorios,
+y conocer el conocimiento, basico y sintaxis de bash, puedes
+leer el siguiente archivo del git:
 
 [Ir al archivo ./1.comandosBash/1.comandosLinux.md](./1.comandosBash/1.comandosLinux.md)
 
@@ -66,14 +72,23 @@ de linux y bash script, en la misma carpeta hay archivos
 
 2. Aprender sobre redes (todo lo teorico, ten un cuaderno
 y escribe todo lo importante sobre redes para ciberseguridad,
-toma notas y practicas)
+toma notas y practicas) :
 
 Escribe en youtube y elige algun curso:
+
 ``` 
 curso de redes para ciberseguridad desde cero
 ```
 
+es importante que escribas para ciberseguridad para no aprender 
+teoria que pueda que no es nesesaria en ciberseguridad, porque 
+en la practica olvidaras lo que no utilizes.
+
 # Informacion
+
+> Nota(ignorar): Maximo uso de caracteres por linea, es de 70 
+caracteres, con epxeciones de lineas que no se pueden dividir en 
+varios caracteres. (estandar).
 
 **Update:** 0.0.3
 
