@@ -1,8 +1,8 @@
 # Repositorio para aprender Ciberseguridad.
 
-1ro que nada, de le estrella al Repositorio no te 
-cuesta nada y asi apoyas al creador, del Repositorio 
-:)
+1ro que nada, para apoyar al creador dennos estrella(like) al 
+Repositorio no te cuesta nada y asi apoyas al creador, 
+del Repositorio :)
 
 Antes de comenzar es importante saber que esto es un 
 camino largo, que llevara tiempo, en aprender y que 
@@ -49,7 +49,7 @@ desde la tienda de aplicaciones).
 
 **Nota:** Es importante que tengas en cuenta de las 
 siguientes parte teorica para aprender es nesesario 
-no encerrarse tanto en esta sino tener un nivel 
+no encerrarse tanto en la teoria sino tener un nivel 
 aceptable y comenzar a practicar el conocimiento 
 en practica real.
 
