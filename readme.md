@@ -17,9 +17,9 @@ de la ciberseguridad**:
 
 [Ir a desmintiendo mitos de hacking :v](./_mitos.md)
 
-> pido disculpas si no utilizo tildes, estoy actualmente utilizando
-teclado ingles, de ser nesesario actualizare los textos con tildes
-y errores, ortograficos solucionados.
+> Pido disculpas si no utilizo tildes, estoy actualmente utilizando
+teclado ingles, habran archivos con errores ortograficos y sin 
+tildes que se estaran solucionando.
 
 ---
 
