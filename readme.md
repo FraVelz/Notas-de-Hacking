@@ -27,14 +27,14 @@ tildes que se estaran solucionando.
 
 Pasos previos: 
 * [Ir a Requisitos Generales](#requisitos-generales) 
-* [Ir a Conceptos Básicos](#conceptos-basicos-leer-archivo)
+* [Ir a Conceptos Básicos](#0-conceptos-básicos-leer-archivo)
 
 Temario para aprender: 
-1. [Ir a Linux](#linux) 
-2. [Ir a Redes](#redes) 
-3. [Ir a otros](#otros)
+1. [Ir a Linux](#1-linux-comandos-y-bash-script) 
+2. [Ir a Redes](#2-redes-en-ciberseguridad) 
+3. [Ir a otros](#3-otros)
 
-Información: [Ir a información](#informacion)
+Información: [Ir a información](#información)
 
 ---
 
