@@ -65,3 +65,4 @@ if test 10 -eq 10; then
 	echo "10 es igual a 10"
 fi
 
+# Author: Fravelz

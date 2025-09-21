@@ -1,10 +1,17 @@
-# 1 Repository Learning Cybersecurity.
+# Repositorio para aprender Ciberseguridad.
 
 Antes de comenzar es importante saber que esto es un 
 camino largo, que llevara tiempo, en aprender y que 
 tu determinacion, disiplina, y tiempo dedicado sera 
 lo que te ayudara a cada vez estar mas cerca de tu
 objectivo en ciberseguridad.
+
+Es importante que sepas que el hacking y la 
+ciberseguridad no es como lo pintan, en las peliculas 
+o medios de comunicacion, si no conoces bien el mundo 
+de la ciberseguridad te recomendaria leer el siguiente 
+git, para que tengas una idea de lo que hacen las 
+personas que se dedican a la profesion:
 
 > pido disculpas si no utilizo tildes, estoy 
 actualmente utilizando teclado ingles, de ser nesesario
@@ -13,7 +20,7 @@ ortograficos solucionados.
 
 ---
 
-Nota: Es importante que tengas en cuenta de las 
+**Nota:** Es importante que tengas en cuenta de las 
 siguientes parte teorica para aprender es nesesario 
 no encerrarse tanto en esta sino tener un nivel 
 aceptable y comenzar a practicar el conocimiento 
@@ -86,9 +93,10 @@ en la practica olvidaras lo que no utilizes.
 
 # Informacion
 
-> Nota(ignorar): Maximo uso de caracteres por linea, es de 70 
+> Nota (ignorar): Maximo uso de caracteres por linea, es de 70 
 caracteres, con epxeciones de lineas que no se pueden dividir en 
-varios caracteres. (estandar).
+varios palabras para la division, este es el maximo para una 
+mejor lectura al actualizar datos. (estandar).
 
 **Update:** 0.0.3
 

@@ -238,3 +238,4 @@ cat archivo2.txt >> archivo1.txt
 Si quieres, también puedo explicarte cómo hacerlo en otros lenguajes de programación (como Python, C++, etc.).
 ¿Quieres que lo haga?
 
+

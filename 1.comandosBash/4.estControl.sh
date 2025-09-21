@@ -66,3 +66,5 @@ case $num in
 		;;
 esac
 
+# Author: Fravelz
+
