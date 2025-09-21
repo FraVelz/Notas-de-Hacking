@@ -35,12 +35,13 @@ Pasos previos:
 
 
 Temario para aprender:
-1. [Ir a Generales](#requisitos-generales)
-2. [Ir a Generales](#requisitos-generales)
-3. [Ir a Generales](#requisitos-generales)
-4. [Ir a Generales](#requisitos-generales)
+1. [Ir a Linux](#linux)
+2. [Ir a Redes](#redes)
+3. [Ir a otros](#otros)
 
 Informacion: [Ir a Informacion](#informacion)
+
+---
 
 ## Requisitos Generales
 
