@@ -74,7 +74,7 @@ A continuacion el enlace al archivo:
 
 ---
 
-## 2. Linux (comandos y Bash Script)
+## 1. Linux (comandos y Bash Script)
 
 **Duracion:** 1 semana aproximadamente (1-2 horas diarias
 tiempo recomendado para tambien practicar, y crear tus 
@@ -104,9 +104,13 @@ leer el siguiente archivo del git:
 
 ---
 
-2. Aprender sobre redes (todo lo teorico, ten un cuaderno
+## 2. Redes (en ciberseguridad)
+
+**Duracion:** 5 dias (aproximadamente, con 1-2 horas diarias).
+
+Aprender sobre redes (todo lo teorico, ten un cuaderno
 y escribe todo lo importante sobre redes para ciberseguridad,
-toma notas y practicas) :
+toma notas y practicas su implentaciones en linux) :
 
 Escribe en youtube y elige algun curso:
 
@@ -117,6 +121,14 @@ curso de redes para ciberseguridad desde cero
 es importante que escribas para ciberseguridad para no aprender 
 teoria que pueda que no es nesesaria en ciberseguridad, porque 
 en la practica olvidaras lo que no utilizes.
+
+---
+
+# 3. Otros...
+
+Actualizacion proximamente.......
+
+---
 
 # Aportaciones
 
