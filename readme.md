@@ -20,6 +20,10 @@ se utiliza mucho estos terminos en el campo de la
 ciberseguridad (son unos terminos basicos muy importante 
 a tener en cuenta).
 
+A continuacion el enlace al archivo:
+
+[Ir al archivo conceptosBasicos.md](./0.conceptosBasicos.md)
+
 ---
 
 ## 2. Linux (comandos y Bash Script)
