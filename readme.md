@@ -10,8 +10,10 @@ Es importante que sepas que el hacking y la
 ciberseguridad no es como lo pintan, en las peliculas 
 o medios de comunicacion, si no conoces bien el mundo 
 de la ciberseguridad te recomendaria leer el siguiente 
-git, para que tengas una idea de lo que hacen las 
-personas que se dedican a la profesion:
+git, para que tengas una idea de mitos desmentidos de 
+la programacion:
+
+[Ir a desmintiendo Mitos de hacking :v](./0.conceptosBasicos.md)
 
 > pido disculpas si no utilizo tildes, estoy 
 actualmente utilizando teclado ingles, de ser nesesario
