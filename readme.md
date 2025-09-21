@@ -12,7 +12,13 @@ actualizare los textos con tildes y errores,
 ortograficos solucionados.
 
 ---
-Nota: Es importante que tengas en cuenta todo lo anterior
+
+Nota: Es importante que tengas en cuenta de las 
+siguientes parte teorica para aprender es nesesario 
+no encerrarse tanto en esta sino tener un nivel 
+aceptable y comenzar a practicar el conocimiento 
+en practica real.
+
 ---
 
 ## 0. Conceptos Basicos (Leer archivo)
