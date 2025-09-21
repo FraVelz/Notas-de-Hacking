@@ -49,7 +49,9 @@ propios scripts, o mas si vez nesesario).
 Aprender a manejar linux (aprender comandos, y bash script).
 (crea un directorio y empieza a practicar y aprender bash).
 
-Escribe en youtube y elige algun curso (lo completas y):
+Escribe en youtube y elige algun curso (lo completas, 
+tomas notas, practica cada cosa que aprendes y listo) :
+
 ``` 
 curso de bash desde cero
 ```
