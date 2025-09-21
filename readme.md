@@ -6,7 +6,15 @@ tu determinacion, disiplina, y tiempo dedicado sera
 lo que te ayudara a cada vez estar mas cerca de tu
 objectivo en ciberseguridad.
 
+> pido disculpas si no utilizo tildes, estoy 
+actualmente utilizando teclado ingles, de ser nesesario
+actualizare los textos con tildes y errores, 
+ortograficos solucionados.
+
 ---
+Nota: Es importante que tengas en cuenta todo lo anterior
+---
+
 ## 0. Conceptos Basicos (Leer archivo)
 
 **Duracion:** 10min aproximadamente :)
@@ -35,7 +43,7 @@ si vez nesesario).
 Aprender a manejar linux (aprender comandos, y bash script).
 (crea un directorio y empieza a practicar y aprender bash).
 
-Copia en youtube y elige algun curso (lo completas y):
+Escribe en youtube y elige algun curso (lo completas y):
 ``` 
 curso de bash desde cero
 ```
@@ -46,7 +54,7 @@ curso de bash desde cero
 y escribe todo lo importante sobre redes para ciberseguridad,
 toma notas y practicas)
 
-Copia en youtube y elige algun curso:
+Escribe en youtube y elige algun curso:
 ``` 
 curso de redes para ciberseguridad desde cero
 ```
