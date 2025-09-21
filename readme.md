@@ -10,8 +10,8 @@ Es importante que sepas que el hacking y la
 ciberseguridad no es como lo pintan, en las peliculas 
 o medios de comunicacion, si no conoces bien el mundo 
 de la ciberseguridad te recomendaria leer el siguiente 
-git, para que tengas una idea de mitos desmentidos de 
-la programacion:
+git, para que tengas una idea de **mitos desmentidos de 
+la ciberseguridad**:
 
 [Ir a desmintiendo Mitos de hacking :v](./0.conceptosBasicos.md)
 
@@ -19,6 +19,24 @@ la programacion:
 actualmente utilizando teclado ingles, de ser nesesario
 actualizare los textos con tildes y errores, 
 ortograficos solucionados.
+
+---
+
+# Requisitos Generales
+
+Esto es lo mas importante, los requisitos, son 
+los siguientes para comenzar a aprender:
+
+* Conexion a internet (hay cosas que puedes hacer
+sin internet, es decir se puede aprender pero se 
+complica, lo principal si no tienes internet seria, 
+clonar este Repositorio, en tu maquina local para 
+acceder cuando no tengas internet y aprender de 
+las guias ya incorporadas en este Repositorio).
+
+* computadora (utilizar, una maquina virtual que es 
+lo mas recomendado), o movil (instalando termux, 
+desde la tienda de aplicaciones).
 
 ---
 
@@ -92,6 +110,15 @@ curso de redes para ciberseguridad desde cero
 es importante que escribas para ciberseguridad para no aprender 
 teoria que pueda que no es nesesaria en ciberseguridad, porque 
 en la practica olvidaras lo que no utilizes.
+
+# Aportaciones
+
+Si quieres aportar a el git, con tus propias experiencias y 
+aprendizajes puedes leer el siguiente manual para enviarme 
+aportaciones y enriquecer mas este Repositorio de conocimiento,
+con el siguiente enlace:
+
+
 
 # Informacion
 
