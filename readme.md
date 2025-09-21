@@ -1,6 +1,6 @@
 # 1 Repository Learning Cybersecurity.
 
-antes de comenzar es importante saber que esto es un 
+Antes de comenzar es importante saber que esto es un 
 camino largo, que llevara tiempo, en aprender y que 
 tu determinacion, disiplina, y tiempo dedicado sera 
 lo que te ayudara a cada vez estar mas cerca de tu
@@ -42,9 +42,9 @@ A continuacion el enlace al archivo:
 
 ## 2. Linux (comandos y Bash Script)
 
-**Duracion:** 1 semana aproximadamente (tiempo recomendado
-para tambien practicar, y crear tus propios scripts, o mas
-si vez nesesario).
+**Duracion:** 1 semana aproximadamente (1-2 horas diarias
+tiempo recomendado para tambien practicar, y crear tus 
+propios scripts, o mas si vez nesesario).
 
 Aprender a manejar linux (aprender comandos, y bash script).
 (crea un directorio y empieza a practicar y aprender bash).
@@ -53,6 +53,12 @@ Escribe en youtube y elige algun curso (lo completas y):
 ``` 
 curso de bash desde cero
 ```
+
+Tambien si quieres leer el archivo que toma temas basicos 
+de linux y bash script, en la misma carpeta hay archivos 
+.sh con diferentes cosas en bash:
+
+[Ir al archivo ./1.comandosBash/1.comandosLinux.md](./1.comandosBash/1.comandosLinux.md)
 
 ---
 
