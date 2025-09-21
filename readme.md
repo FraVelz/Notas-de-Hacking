@@ -125,7 +125,7 @@ aprendizajes puedes leer el siguiente manual para enviarme
 aportaciones y enriquecer mas este Repositorio de conocimiento,
 con el siguiente enlace:
 
-
+[Ir a aportaciones :)](./_aportaciones.md)
 
 # Informacion
 
