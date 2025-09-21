@@ -4,10 +4,11 @@
 
 ## 1. Aportaciones Economicas
 
-Si llega a existir algun dia este repo con mas de 1k 
-de estrellas en git dejare un apartado de paypal 
-(u otro medio de envio) para las apartaciones 
-economicas :)
+bueno si estas viendo esto y quieres apoyar 
+economicamente aunque sea para un cafe, te lo 
+agradeceria :)
+
+[Ir a Paypal :)](https://paypal.me/fravelz)
 
 ---
 
@@ -73,6 +74,8 @@ git push origin mi-rama-nueva
     * Si lo aprueban, hacen merge (fusionar ramas).
 
     * ¡Tus cambios pasan al proyecto principal!
+
+[Volver a la guia principal](./readme.md)
 
 > Author: Fravelz
 
