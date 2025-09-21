@@ -14,9 +14,14 @@ Es importante que sepas que el hacking y la ciberseguridad no son, como lo pinta
 
 # Temario
 
-Pasos previos: * [Ir a Requisitos Generales](#requisitos-generales) * [Ir a Conceptos Básicos](#0-conceptos-basicos-leer-archivo)
+Pasos previos: 
+* [Ir a Requisitos Generales](#requisitos-generales) 
+* [Ir a Conceptos Básicos](#0-conceptos-basicos-leer-archivo)
 
-Temario para aprender: 1. [Ir a Linux](#linux) 2. [Ir a Redes](#redes) 3. [Ir a otros](#otros)
+Temario para aprender: 
+1. [Ir a Linux](#linux) 
+2. [Ir a Redes](#redes) 
+3. [Ir a otros](#otros)
 
 Información: [Ir a información](#informacion)
 
