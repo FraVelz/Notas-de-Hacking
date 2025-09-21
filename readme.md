@@ -1,5 +1,9 @@
 # Repositorio para aprender Ciberseguridad.
 
+1ro que nada, de le estrella al Repositorio no te 
+cuesta nada y asi apoyas al creador, del Repositorio 
+:)
+
 Antes de comenzar es importante saber que esto es un 
 camino largo, que llevara tiempo, en aprender y que 
 tu determinacion, disiplina, y tiempo dedicado sera 
@@ -13,7 +17,7 @@ de la ciberseguridad te recomendaria leer el siguiente
 git, para que tengas una idea de **mitos desmentidos de 
 la ciberseguridad**:
 
-[Ir a desmintiendo Mitos de hacking :v](./0.conceptosBasicos.md)
+[Ir a desmintiendo Mitos de hacking :v](./_mitos.md)
 
 > pido disculpas si no utilizo tildes, estoy 
 actualmente utilizando teclado ingles, de ser nesesario
@@ -37,6 +41,9 @@ las guias ya incorporadas en este Repositorio).
 * computadora (utilizar, una maquina virtual que es 
 lo mas recomendado), o movil (instalando termux, 
 desde la tienda de aplicaciones).
+
+* tiempo libre para aprender, minimo 1hora diaria 
+(es lo recomendable, si puedes mas mejor).
 
 ---
 
