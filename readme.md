@@ -26,7 +26,23 @@ ortograficos solucionados.
 
 ---
 
-# Requisitos Generales
+# Temario
+
+Pasos previos:
+* [Ir a Requisitos Generales](#requisitos-generales)
+* [Ir a Conceptos Básicos](#0-conceptos-basicos-leer-archivo)
+
+
+
+Temario para aprender:
+1. [Ir a Generales](#requisitos-generales)
+2. [Ir a Generales](#requisitos-generales)
+3. [Ir a Generales](#requisitos-generales)
+4. [Ir a Generales](#requisitos-generales)
+
+Informacion: [Ir a Informacion](#informacion)
+
+## Requisitos Generales
 
 Esto es lo mas importante, los requisitos, son 
 los siguientes para comenzar a aprender:
