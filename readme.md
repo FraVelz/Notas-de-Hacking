@@ -137,9 +137,10 @@ Actualización próximamente.......
 # Aportaciones
 
 Si quieres aportar al git, con tus propias experiencias y
-aprendizajes, puedes leer el siguiente manual para enviarme
-aportaciones y enriquecer más este Repositorio de conocimiento,
-con el siguiente enlace:
+aprendizajes, o economicamente, puedes leer el siguiente 
+manual para enviarme aportaciones y enriquecer más este 
+Repositorio de conocimiento, y ayudar al autor con el 
+siguiente enlace:
 
 [Ir a aportaciones :)](./_aportaciones.md)
 
