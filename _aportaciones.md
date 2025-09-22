@@ -62,7 +62,8 @@ git push origin mi-rama-nueva
 
     * Si no, ve a la pestaña Pull requests => New pull request.
 
-    * Selecciona la rama base (main) y la rama donde hiciste tus cambios (mi-rama-nueva).
+    * Selecciona la rama base (main) y la rama donde hiciste 
+    tus cambios (mi-rama-nueva).
 
     * Escribe un titulo y una descripción de tus cambios.
 
