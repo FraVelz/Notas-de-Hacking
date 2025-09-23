@@ -4,27 +4,17 @@
 
 ## 1. "Hackear, redes sociales, aplicaciones y juegos"
 
-* **Mito:** Que los hackers son capaces de hackear redes sociales,
-aplicaciones y juegos.
+* **Mito:** Que los hackers son capaces de hackear redes sociales, aplicaciones y juegos.
 
-* **Realidad:** Es posible, y **eso esta legalmente penado**,
-estas vulnerabilizando, y rompiendo codigo o, entrando a un 
-servicio en el que no tienes acceso, y en casi todos los paises 
-de hablahispana, tiene leyes en contra de estas acciones, 
-antes de preguntar, y no andar pidiendo favores ilegales, en las 
-comunidades.
+* **Realidad:** Es posible, y **eso esta legalmente penado**, estas vulnerabilizando, y rompiendo codigo o, entrando a un servicio en el que no tienes acceso, y en casi todos los paises de hablahispana, tiene leyes en contra de estas acciones, antes de preguntar, y no andar pidiendo favores ilegales, en las comunidades.
 
 ---
 
 ## 2. "A mí no me van a hackear porque no soy importante"
 
-* **Mito**: Solo los famosos, empresas grandes o gobiernos son
-objetivo de ataque.
+* **Mito**: Solo los famosos, empresas grandes o gobiernos son objetivo de ataque.
 
-* **Realidad**: Los ciberdelincuentes atacan a cualquiera. Muchas
-veces usan ataques masivos (phishing, malware) sin importar quién
-seas. Tu información personal siempre tiene valor tenlo siempre en 
-cuenta.
+* **Realidad**: Los ciberdelincuentes atacan a cualquiera. Muchas veces usan ataques masivos (phishing, malware) sin importar quién seas. Tu información personal siempre tiene valor tenlo siempre en cuenta.
 
 ---
 
@@ -32,9 +22,7 @@ cuenta.
 
 * **Mito**: Tener un antivirus instalado basta para estar protegido.
 
-* **Realidad**: El antivirus ayuda, pero no es infalible. Hoy los
-ataques incluyen ingeniería social, phishing y explotación de
-vulnerabilidades que el antivirus no detiene.
+* **Realidad**: El antivirus ayuda, pero no es infalible. Hoy los ataques incluyen ingeniería social, phishing y explotación de vulnerabilidades que el antivirus no detiene.
 
 ---
 
@@ -42,10 +30,7 @@ vulnerabilidades que el antivirus no detiene.
 
 * **Mito**: Solo Windows es vulnerable.
 
-* **Realidad**: Aunque Windows sea más atacado por ser popular,
-todos los sistemas operativos tienen vulnerabilidades. Mac y
-Linux también son objetivo, sobre todo en entornos empresariales
-y servidores.
+* **Realidad**: Aunque Windows sea más atacado por ser popular, todos los sistemas operativos tienen vulnerabilidades. Mac y Linux también son objetivo, sobre todo en entornos empresariales y servidores.
 
 ---
 
@@ -53,21 +38,15 @@ y servidores.
 
 * **Mito**: Una contraseña de muchas letras te hace invencible.
 
-* **Realidad**: Si la contraseña es predecible (`1234567890`,
-`qwertyuiop` o frases comunes), puede caer rápido ante ataques de
-diccionario o ingeniería social. Lo importante es que sea **única,
-larga y compleja**.
+* **Realidad**: Si la contraseña es predecible (`1234567890`, `qwertyuiop` o frases comunes), puede caer rápido ante ataques de diccionario o ingeniería social. Lo importante es que sea **única, larga y compleja**.
 
 ---
 
 ## 6. “El modo incógnito me hace anónimo”
 
-* **Mito**: Navegar en incógnito significa que nadie me puede
-rastrear.
+* **Mito**: Navegar en incógnito significa que nadie me puede rastrear.
 
-* **Realidad**: El modo incógnito solo evita que tu navegador
-guarde el historial localmente. Tu proveedor de internet, las
-páginas web y tu red aún pueden rastrear lo que haces.
+* **Realidad**: El modo incógnito solo evita que tu navegador guarde el historial localmente. Tu proveedor de internet, las páginas web y tu red aún pueden rastrear lo que haces.
 
 ---
 
@@ -75,9 +54,7 @@ páginas web y tu red aún pueden rastrear lo que haces.
 
 * **Mito**: Usar una VPN significa que nadie puede vigilarme.
 
-* **Realidad**: Una VPN cifra tu conexión y oculta tu IP, pero
-no evita malware, phishing ni que el proveedor de la VPN guarde
-registros de tu actividad.
+* **Realidad**: Una VPN cifra tu conexión y oculta tu IP, pero no evita malware, phishing ni que el proveedor de la VPN guarde registros de tu actividad.
 
 ---
 
@@ -85,10 +62,7 @@ registros de tu actividad.
 
 * **Mito**: Hacker = delincuente.
 
-* **Realidad**: Existen hackers éticos (white hats) que ayudan
-a encontrar fallos y mejorar la seguridad. El problema son los
-atacantes maliciosos (black hats), entonces todos los hackers 
-no son ciberdelincuente.
+* **Realidad**: Existen hackers éticos (white hats) que ayudan a encontrar fallos y mejorar la seguridad. El problema son los atacantes maliciosos (black hats), entonces todos los hackers no son ciberdelincuente.
 
 ---
 
@@ -96,9 +70,7 @@ no son ciberdelincuente.
 
 * **Mito**: Solo los expertos en TI deben preocuparse.
 
-* **Realidad**: La seguridad depende de todos. El error humano
-(dar clic en un link falso, usar contraseñas débiles, compartir
-información sensible) es la puerta más común para un ataque.
+* **Realidad**: La seguridad depende de todos. El error humano (dar clic en un link falso, usar contraseñas débiles, compartir información sensible) es la puerta más común para un ataque.
 
 ---
 
