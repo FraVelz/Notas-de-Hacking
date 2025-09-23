@@ -16,9 +16,14 @@ listo este curso por **ahora estara destinado** a las bases de la ciberseguridad
 
 # Temario
 
-Pasos previos: * [Ir a Requisitos Generales](#requisitos-generales) * [Ir a Conceptos Básicos](#0-conceptos-básicos-leer-archivo)
+Pasos previos: 
+* [Ir a Requisitos Generales](#requisitos-generales) 
+* [Ir a Conceptos Básicos](#0-conceptos-básicos-leer-archivo)
 
-Temario para aprender: 1. [Ir a Primeros Pasos](#1-primeros-pasos) 2. [Ir a Redes](#2-redes-en-ciberseguridad) 3. [Ir a otros](#3-otros)
+Temario para aprender: 
+1. [Ir a Primeros Pasos](#1-primeros-pasos) 
+2. [Ir a Redes](#2-redes-en-ciberseguridad) 
+3. [Ir a otros](#3-otros)
 
 Información: [Ir a información](#información)
 
@@ -61,6 +66,8 @@ porque:
 * La opción más recomendable es VirtualBox, sencilla y muy utilizada.
 
 * Tras instalar Ubuntu o Windows, crea un punto de restauración en VirtualBox (toma menos de un minuto) para recuperar tu sistema fácilmente si algo se rompe.
+
+![Imagen de VirtualBox](./images/image-virtualbox.png)
 
 ### 2) Linux basico
 
