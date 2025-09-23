@@ -1,15 +1,15 @@
 # Repositorio para aprender Ciberseguridad.
 
-1.º que nada, para apoyar al creador, dennos estrella (like)
+1.º que nada, para **apoyar al creador**, dennos estrella (like)
 al Repositorio, no te cuesta nada y así apoyas al creador, del
-Repositorio :)
+Repositorio estare muy agradecido :)
 
-Antes de comenzar, es importante saber que esto es un camino largo,
+Antes de comenzar, **es importante saber** que esto es un camino largo,
 que llevará tiempo, en aprender y que tu determinación, disciplina,
 y tiempo dedicado serán lo que te ayudarán a cada vez estar más
 cerca de tu objetivo en ciberseguridad.
 
-Es importante que sepas que el hacking y la ciberseguridad no son,
+Es importante que sepas que el **hacking y la ciberseguridad** no son,
 como lo pintan, en las películas o medios de comunicación. Si no
 conoces bien el mundo de la ciberseguridad, te recomendaría leer
 el siguiente git, para que tengas una idea de **mitos desmentidos
@@ -17,9 +17,16 @@ de la ciberseguridad**:
 
 [Ir a desmintiendo mitos de hacking :v](./_mitos.md)
 
-> Pido disculpas si no utilizo tildes, estoy actualmente utilizando
-teclado ingles, habran archivos con errores ortograficos y sin 
-tildes que se estaran solucionando.
+listo este curso por **ahora estara destinado** a las bases de la 
+ciberseguridad informática *si lo llegas a terminal tu siguiente 
+paso seria especializarte en el area de tu interes.*
+(posiblemente en esta guia podras observar en el futuro una guia 
+de la rama que me interese o posiblemente haga un nuevo repo para 
+aquello).
+
+> **Pido disculpas** si no utilizo tildes en algunos archivos, estoy 
+actualmente utilizando teclado ingles, habran archivos con errores 
+ortograficos y sin tildes, esto lo estare solucionando con el tiempo.
 
 ---
 
@@ -30,7 +37,7 @@ Pasos previos:
 * [Ir a Conceptos Básicos](#0-conceptos-básicos-leer-archivo)
 
 Temario para aprender: 
-1. [Ir a Linux](#1-linux-comandos-y-bash-script) 
+1. [Ir a Primeros Pasos](#1-primeros-pasos) 
 2. [Ir a Redes](#2-redes-en-ciberseguridad) 
 3. [Ir a otros](#3-otros)
 
@@ -40,28 +47,15 @@ Información: [Ir a información](#información)
 
 ## Requisitos Generales
 
-Esto es lo más importante. Los requisitos son los siguientes para
-comenzar a aprender:
+Estos requisitos son para toda esta guia que debes tener en 
+cuenta:
 
-* Conexión a internet (hay cosas que puedes hacer sin internet,
-es decir, se puede aprender, pero se complica. Lo principal, si
-no tienes internet seria, sería clonar este Repositorio, en tu
-máquina local para acceder cuando no tengas internet y aprender
-de las guías ya incorporadas en este Repositorio).
-
-* computadora (utilizar, una máquina virtual que es lo más
-recomendado), o móvil (instalando Termux, desde la tienda de
-aplicaciones).
-
-* tiempo libre para aprender, mínimo 1 hora diaria (es lo
+* tiempo libre para aprender, **mínimo 1 hora diaria** (es lo
 recomendable, si puedes más mejor).
 
----
+* Conexión a internet.
 
-**Nota:** Es importante que tengas en cuenta de las siguientes
-partes teóricas para aprender. Es necesario no encerrarse tanto
-en la teoría, sino tener un nivel aceptable y comenzar a practicar
-el conocimiento en práctica real.
+* Computadora.
 
 ---
 
@@ -83,27 +77,33 @@ A continuación, el enlace al archivo:
 
 ---
 
-## 1. Linux (comandos y Bash Script)
+## 1. Primeros pasos
 
-**Duración:** 1 semana aproximadamente (1-2 horas diarias, tiempo
-recomendado para también practicar, y crear tus propios scripts,
-o más si ves necesario).
+**Duración aproximada (1-2h diarias):** 7 dias :)
 
-Son 2 temas diferentes relacionados con Linux. Para comenzar,
-tienes que empezar a utilizar Linux y comandos en terminal. Busca
-en YouTube:
+### 1) Descargar en una maquina virtual, ubuntu y windows 
 
-``` curso de linux desde cero ```
+porque:
 
-Después de haber terminado el anterior curso, escribe en YouTube
-y elige algún curso (lo completas, tomas notas, practica cada cosa
-que aprendes y listo):
+* Sin importar tu sistema, usa una máquina virtual 
+para trabajar sin dañar el original.
 
-``` curso de bash script desde cero ```
+* La opción más recomendable es VirtualBox, sencilla 
+y muy utilizada.
 
-También si quieres leer algunos conceptos introductorios, y conocer
-el conocimiento, básico y sintaxis de bash, puedes leer el siguiente
-archivo del git:
+* Tras instalar Ubuntu o Windows, crea un punto de 
+restauración en VirtualBox (toma menos de un minuto) 
+para recuperar tu sistema fácilmente si algo se rompe.
+
+### 2) Linux basico
+
+* No es nesesario ir por algo complejo desde que sepas,
+los comandos basicos.
+
+* tambien el uso del sudo y como funciona.
+
+si te interesa que especificamente nesesitas de linux, 
+estara todo en el siguiente archivo:
 
 [Ir al archivo
 ./1.comandosBash/1.comandosLinux.md](./1.comandosBash/1.comandosLinux.md)
@@ -151,8 +151,7 @@ caracteres, con epxceciones de lineas que no se pueden dividir en
 varios palabras para la division, este es el maximo para una mejor
 lectura al actualizar datos. (estandar).
 
-**Update:** 0.0.3
+**Update:** 0.0.4
 
 **Autor:** Fravelz
-
 

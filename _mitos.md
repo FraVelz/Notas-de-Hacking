@@ -5,27 +5,26 @@
 ## 1. "Hackear, redes sociales, aplicaciones y juegos"
 
 * **Mito:** Que los hackers son capaces de hackear redes sociales,
-aplicaciones u juegos.
+aplicaciones y juegos.
 
-* **Realidad:** Si es posible, pero esto son cosas, que legalmente,
-pueden llegar a estar penalizado, y también, que muchas veces es
-casi imposible, hay cosas que si son posibles, pero no son cosas en
-la mayoría de casos se necesita ser un hacker, para poder lograr,
-es importante informarse antes de preguntar, este tipo de cosas se
-considera perdida de tiempo porque no se puede, llegar a obtener
-siempre lo que la persona busca entonces si este tipo de peticiones
-s
+* **Realidad:** Es posible, y **eso esta legalmente penado**,
+estas vulnerabilizando, y rompiendo codigo o, entrando a un 
+servicio en el que no tienes acceso, y en casi todos los paises 
+de hablahispana, tiene leyes en contra de estas acciones, 
+antes de preguntar, y no andar pidiendo favores ilegales, en las 
+comunidades.
 
 ---
 
 ## 2. "A mí no me van a hackear porque no soy importante"
 
 * **Mito**: Solo los famosos, empresas grandes o gobiernos son
-objetivo.
+objetivo de ataque.
 
 * **Realidad**: Los ciberdelincuentes atacan a cualquiera. Muchas
 veces usan ataques masivos (phishing, malware) sin importar quién
-seas. Tu información personal siempre tiene valor.
+seas. Tu información personal siempre tiene valor tenlo siempre en 
+cuenta.
 
 ---
 
@@ -88,7 +87,8 @@ registros de tu actividad.
 
 * **Realidad**: Existen hackers éticos (white hats) que ayudan
 a encontrar fallos y mejorar la seguridad. El problema son los
-atacantes maliciosos (black hats).
+atacantes maliciosos (black hats), entonces todos los hackers 
+no son ciberdelincuente.
 
 ---
 
