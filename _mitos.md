@@ -74,7 +74,7 @@
 
 ---
 
-[Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main)
+[Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking)
 
 > Author: Fravelz
 

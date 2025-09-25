@@ -54,7 +54,7 @@ pero si quieres escribir algo que no este escrito con tus propias palabras a la 
 
   * ¡Tus cambios pasan al proyecto principal!
 
-[Volver a la guia principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main)
+[Volver a la guia principal](https://github.com/FraVelz/Curso-de-Hacking)
 
 > Author: Fravelz
 
