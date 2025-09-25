@@ -83,7 +83,7 @@ si te interesa que específicamente necesitas de linux, estará todo en el sigui
 
 ---
 
-## 2. Redes (en ciberseguridad)
+## 2. Redes (para ciberseguridad)
 
 **Duración:** 5 días (aproximadamente, con 1-2 horas diarias).
 
@@ -91,7 +91,9 @@ Aprender sobre redes (todo lo teórico, ten un cuaderno y escribe todo lo import
 
 Escribe en YouTube y elige algún curso:
 
-``` curso de redes para ciberseguridad desde cero ```
+``` YouTube
+curso de redes para ciberseguridad desde cero 
+```
 
 Es importante que escribas para ciberseguridad para no aprender teoría que pueda, que no es necesaria en ciberseguridad, porque en la práctica olvidarás lo que no utilizas.
 
