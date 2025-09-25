@@ -1,16 +1,16 @@
 # Repositorio para aprender Ciberseguridad.
 
-1.º que nada, para **apoyar al creador**, dennos estrella (like) al Repositorio, no te cuesta nada y así apoyas al creador, del Repositorio estare muy agradecido :)
+1.º que nada, para **apoyar al creador**, dennos estrella (like) al Repositorio, no te cuesta nada y así apoyas al creador, del Repositorio estaré muy agradecido :)
 
 Antes de comenzar, **es importante saber** que esto es un camino largo, que llevará tiempo, en aprender y que tu determinación, disciplina, y tiempo dedicado serán lo que te ayudarán a cada vez estar más cerca de tu objetivo en ciberseguridad.
 
-Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
+Es importante que sepas que el **hacinan y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
 
 [Ir a desmintiendo mitos de hacking :v](./_mitos.md)
 
-listo este curso por **ahora estara destinado** a las bases de la ciberseguridad informática *si lo llegas a terminal tu siguiente paso seria especializarte en el area de tu interes.* (posiblemente en esta guia podras observar en el futuro una guia de la rama que me interese o posiblemente haga un nuevo repo para aquello).
+listo este curso por **ahora estará destinado** a las bases de la ciberseguridad informática *si lo llegas a terminal tu siguiente paso seria especializarte en el área de tu interés.* (posiblemente en esta guía podrás observar en el futuro una guía de la rama que me interese o posiblemente haga un nuevo repositorio para aquello).
 
-> **Pido disculpas** si no utilizo tildes en algunos archivos, estoy actualmente utilizando teclado ingles, habran archivos con errores ortograficos y sin tildes, esto lo estare solucionando con el tiempo.
+> **Pido disculpas** si no utilizo tildes en algunos archivos, estoy actualmente utilizando teclado ingles, habrán archivos con errores ortográficos y sin tildes, esto lo estaré solucionando con el tiempo.
 
 ---
 
@@ -31,11 +31,11 @@ Información: [Ir a información](#información)
 
 ## Requisitos Generales
 
-Estos requisitos son para toda esta guia que debes tener en cuenta:
+Estos requisitos son para toda esta guía que debes tener en cuenta:
 
 * tiempo libre para aprender, **mínimo 1 hora diaria** (es lo recomendable, si puedes más mejor).
 
-* Conexión a internet.
+* Conexión a Internet.
 
 * Computadora.
 
@@ -55,7 +55,7 @@ A continuación, el enlace al archivo:
 
 ## 1. Primeros pasos
 
-**Duración aproximada (1-2h diarias):** 7 dias :)
+**Duración aproximada (1-2h diarias):** 7 días :)
 
 ### 1) Descargar en una maquina virtual, ubuntu y windows 
 
@@ -67,15 +67,17 @@ porque:
 
 * Tras instalar Ubuntu o Windows, crea un punto de restauración en VirtualBox (toma menos de un minuto) para recuperar tu sistema fácilmente si algo se rompe.
 
+todo lo deberías tener mas o menos así:
+
 ![Imagen de VirtualBox](./images/image-virtualbox.png)
 
-### 2) Linux basico
+### 2) Linux básico
 
-* No es nesesario ir por algo complejo desde que sepas, los comandos basicos.
+* No es necesario ir por algo complejo desde que sepas, los comandos básicos.
 
-* tambien el uso del sudo y como funciona.
+* también el uso del sudo y como funciona.
 
-si te interesa que especificamente nesesitas de linux, estara todo en el siguiente archivo:
+si te interesa que específicamente necesitas de linux, estará todo en el siguiente archivo:
 
 [Ir al archivo ./1.comandosBash/1.comandosLinux.md](./1.comandosBash/1.comandosLinux.md)
 
@@ -103,15 +105,13 @@ Actualización próximamente.......
 
 # Aportaciones
 
-Si quieres aportar al git, con tus propias experiencias y aprendizajes, o economicamente, puedes leer el siguiente manual para enviarme aportaciones y enriquecer más este Repositorio de conocimiento, y ayudar al autor con el siguiente enlace:
+Si quieres aportar al git, con tus propias experiencias y aprendizajes, o económicamente, puedes leer el siguiente manual para enviarme aportaciones y enriquecer más este Repositorio de conocimiento, y ayudar al autor con el siguiente enlace:
 
 [Ir a aportaciones :)](./_aportaciones.md)
 
 # Información
 
-> Nota (ignorar): Maximo uso de caracteres por linea, es de 70 caracteres, con epxceciones de lineas que no se pueden dividir en varios palabras para la division, este es el maximo para una mejor lectura al actualizar datos. (estandar).
-
-**Update:** 0.0.4
+**Actualización:** 0.0.5
 
 **Autor:** Fravelz
 
