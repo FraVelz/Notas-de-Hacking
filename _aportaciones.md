@@ -2,9 +2,9 @@
 
 ---
 
-## 1. Aportaciones Economicas
+## 1. Aportaciones Económicas
 
-bueno si estas viendo esto y quieres apoyar economicamente aunque sea para un cafe, te lo agradeceria :)
+bueno si estas viendo esto y quieres apoyar económicamente aunque sea para un café, te lo agradecería :)
 
 [Ir a Paypal :)](https://paypal.me/fravelz)
 
@@ -34,25 +34,27 @@ pero si quieres escribir algo que no este escrito con tus propias palabras a la 
 
 ``` sh git push origin mi-rama-nueva ```
 
-6. Abre el Pull Request en GitHub. * Entra al repositorio en GitHub.
+6. Abre el Pull Request en GitHub. 
+  * Entra al repositorio en GitHub.
 
- * Veras un aviso que dice algo como: “Compare & pull request” => haz clic ahi.
+  * Veras un aviso que dice algo como: “Compare & pull request” => haz clic ahi.
 
- * Si no, ve a la pestaña Pull requests => New pull request.
+  * Si no, ve a la pestaña Pull requests => New pull request.
 
- * Selecciona la rama base (main) y la rama donde hiciste tus cambios (mi-rama-nueva).
+  * Selecciona la rama base (main) y la rama donde hiciste tus cambios (mi-rama-nueva).
 
- * Escribe un titulo y una descripción de tus cambios.
+  * Escribe un titulo y una descripción de tus cambios.
 
- * Haz clic en Create pull request.
+  * Haz clic en Create pull request.
 
-7. Revision y Merge: * Los colaboradores estaran viendo el pull request.
+7. Revision y Merge:
+  * Los colaboradores estaran viendo el pull request.
 
- * Si lo aprueban, hacen merge (fusionar ramas).
+  * Si lo aprueban, hacen merge (fusionar ramas).
 
- * ¡Tus cambios pasan al proyecto principal!
+  * ¡Tus cambios pasan al proyecto principal!
 
-[Volver a la guia principal](./readme.md)
+[Volver a la guia principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main)
 
 > Author: Fravelz
 

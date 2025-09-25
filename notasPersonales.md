@@ -1,11 +1,11 @@
 # Notas Personales 
-En lo personal este proyecto es para crear una guia completa para los que recien empiezan en el mundo de la ciberseguridad y no voy a mentir yo tambien estoy a nivel basico, conforme lo que yo voy aprendiendo y investigando mi plan es documentarlo como una guia para que pueda ayudar a alguien quien lo nesesite :v 
+En lo personal este proyecto es para crear una guía completa para los que recién empiezan en el mundo de la ciberseguridad y no voy a mentir yo también estoy a nivel básico, conforme lo que yo voy aprendiendo y investigando mi plan es documentarlo como una guía para que pueda ayudar a alguien quien lo necesite :v 
 
 ---
 
 # Nota 0 (2025-09-4)
 
-La creacion del git, pero en ese momento nada serio.
+La creación del git, pero en ese momento nada serio.
 
 ---
 
@@ -17,18 +17,18 @@ actualizaciones diarias, desde el 20 del mes 09.
 
 # Nota 2 (2025-09-23)
 
-En lo personal uffff, hermano estoy dedicandole tiempo a esta documentacion, a prueba y error, nunca antes habia aprendido a documentar y sobre todo en espa;ol se complica mas la cosas por la ortografia.
+En lo personal uffff, hermano estoy dedicándole tiempo a esta documentación, a prueba y error, nunca antes había aprendido a documentar y sobre todo en español se complica mas la cosas por la ortografía.
 
-Me habia aconstumbrado a separar mi documentacion por varias lineas para ser mas visible mi forma de editar el archivo pero no, eso me perjudica sobre todo en la revision de la gramatica con programas externos entonces me toca hacer esto asi pero bueno.
+Me había acostumbrado a separar mi documentación por varias lineas para ser mas visible mi forma de editar el archivo pero no, eso me perjudica sobre todo en la revisión de la gramática con programas externos entonces me toca hacer esto así pero bueno.
 
-espero que ma;ana pueda hacer mas trabajo que hoy :)
+espero que mañana pueda hacer mas trabajo que hoy :)
 
 ---
 
 # Nota 3 (2025-09-24) 
-No chambie :( estube actualizando mi perfil de git, sobre todo el reamde.md.
+No chambie :( estuve actualizando mi perfil de git, sobre todo el readme.md.
 
 # Nota 4 (2025-09-25) 
-Estoy actualizando la ortografia y agregando simbolos para una mejor lectura :)
+Estoy actualizando la ortografía y agregando símbolos para una mejor lectura :)
 
-> **Author:** Fravelz
+> **Autor:** Fravelz
