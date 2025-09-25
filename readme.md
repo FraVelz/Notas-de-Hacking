@@ -111,6 +111,10 @@ Si quieres aportar al git, con tus propias experiencias y aprendizajes, o econó
 
 # Información
 
+Notas que hago todos los dias para las Actualizaciones:
+
+[Ir a notasPersonales.md](./notasPersonales.md)
+
 **Actualización:** 0.0.5
 
 **Autor:** Fravelz

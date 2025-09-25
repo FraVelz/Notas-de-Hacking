@@ -31,4 +31,8 @@ No chambie :( estuve actualizando mi perfil de git, sobre todo el readme.md.
 # Nota 4 (2025-09-25) 
 Estoy actualizando la ortografía y agregando símbolos para una mejor lectura :)
 
+[Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main?tab=readme-ov-file#informaci%C3%B3n)
+
+
+
 > **Autor:** Fravelz
