@@ -6,7 +6,7 @@
 
 * **Mito:** Que los hackers son capaces de hackear redes sociales, aplicaciones y juegos.
 
-* **Realidad:** Es posible, y **eso esta legalmente penado**, estas vulnerabilizando, y rompiendo codigo o, entrando a un servicio en el que no tienes acceso, y en casi todos los paises de hablahispana, tiene leyes en contra de estas acciones, antes de preguntar, y no andar pidiendo favores ilegales, en las comunidades.
+* **Realidad:** Es posible, y **eso esta legalmente penado**, estas vulnerabilizando, y rompiendo codigo o, entrado a un servicio en el que no tienes acceso, y en casi todos los paises de hablahispana, tiene leyes en contra de estas acciones, antes de preguntar, y no andar pidiendo favores ilegales, en las comunidades.
 
 ---
 

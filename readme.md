@@ -22,7 +22,7 @@ Pasos previos:
 
 Temario para aprender: 
 1. [Ir a Primeros Pasos](#1-primeros-pasos) 
-2. [Ir a Redes](#2-redes-en-ciberseguridad) 
+2. [Ir a Redes](#2-redes-para-ciberseguridad) 
 3. [Ir a otros](#3-otros)
 
 Información: [Ir a información](#información)
@@ -65,7 +65,7 @@ porque:
 
 * La opción más recomendable es VirtualBox, sencilla y muy utilizada.
 
-* Tras instalar Ubuntu o Windows, crea un punto de restauración en VirtualBox (toma menos de un minuto) para recuperar tu sistema fácilmente si algo se rompe.
+* Tras instalar Ubuntu y Windows, crea un punto de restauración en VirtualBox para cada uno, (toma menos de un minuto) esto para recuperar tu sistema fácilmente si algo se rompe.
 
 todo lo deberías tener mas o menos así:
 
@@ -87,15 +87,13 @@ si te interesa que específicamente necesitas de linux, estará todo en el sigui
 
 **Duración:** 5 días (aproximadamente, con 1-2 horas diarias).
 
-Aprender sobre redes (todo lo teórico, ten un cuaderno y escribe todo lo importante sobre redes para ciberseguridad, toma notas y practicas sus implementaciones en Linux):
+Aprender sobre redes (todo lo teórico, ten un cuaderno y escribe todo lo importante sobre redes para ciberseguridad, toma notas y practicas sus complementaciones en Linux):
 
-Escribe en YouTube y elige algún curso:
 
-``` YouTube
-curso de redes para ciberseguridad desde cero 
-```
-
-Es importante que escribas para ciberseguridad para no aprender teoría que pueda, que no es necesaria en ciberseguridad, porque en la práctica olvidarás lo que no utilizas.
+| Curso de YouTube Recomendados                              | Enlace                                                                                                |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Quieres un curso técnico con teoría completa:              | [Ir curso de Youtube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
+| Quieres un curso de redes menos teórico, y mas practico :) | [Ir curso de Youtube Contando bits - Redes Informaticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
 
 ---
 
@@ -113,7 +111,7 @@ Si quieres aportar al git, con tus propias experiencias y aprendizajes, o econó
 
 # Información
 
-Notas que hago todos los dias para las Actualizaciones:
+Notas que hago todos los días para las Actualizaciones:
 
 [Ir a notasPersonales.md](./notasPersonales.md)
 
