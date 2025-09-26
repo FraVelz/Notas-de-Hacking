@@ -96,9 +96,11 @@ Aprender sobre redes (no es indispensable aprender como funciona, la parte teór
 | Quieres un curso técnico con teoría completa:              | [Ir curso de Youtube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
 | Quieres un curso de redes menos teórico, y mas practico :) | [Ir curso de Youtube Contando bits - Redes Informaticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
 
-Si quieres leer la parte teórica puedes hacer con el siguiente enlace: [Ir a 1.teoriaRedes.md](./2.redes/1.teoriaRedes.md)
+Archivos para leer de redes:
 
-Si quieres ver la parte practica comandos y herramientas: [Ir a 2.practica.md](./2.redes/2.practicaRedes.md)
+* Parte Teórica (conceptos, y mucho más): [Ir a 1.teoriaRedes.md](./2.redes/1.teoriaRedes.md)
+
+* Parte Práctica (comandos y herramientas): [Ir a 2.practica.md](./2.redes/2.practicaRedes.md)
 
 ---
 
