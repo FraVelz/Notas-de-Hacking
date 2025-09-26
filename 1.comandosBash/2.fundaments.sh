@@ -105,4 +105,3 @@ read -t 4 -p "Escribe algo en 4 seg.:" value
 echo "ingresaste $value"
 
 # Author: Fravelz
-

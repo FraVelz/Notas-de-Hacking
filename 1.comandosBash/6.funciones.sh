@@ -1,44 +1,31 @@
-¡Muy bien! 🚀 En **Bash** también puedes definir **funciones**, igual que en otros lenguajes, pero con una sintaxis más sencilla.
+#!/bin/bash
 
----
+# Funciones en Bash **************************************************
 
-## 🔹 Definición de una función
+## Definición de una función (hay 2 formas)
 
-Hay 2 formas válidas:
-
-```bash
 # Forma 1 (la más usada)
 mi_funcion() {
     echo "Hola desde la función"
 }
 
 # Forma 2 (menos usada, pero funciona)
-function mi_funcion {
+function mi_funcion2 {
     echo "Hola desde la función"
 }
-```
 
----
-
-## 🔹 Llamar una función
-
-Simplemente escribes su nombre:
-
-```bash
+## Llamar una función
 mi_funcion
-```
 
----
+## Funciones con parámetros
 
-## 🔹 Funciones con parámetros
-
+: '
 Dentro de una función, los argumentos se acceden como en los scripts:
 
 * `$1` → primer argumento
 * `$2` → segundo argumento
 * `$@` → todos los argumentos
-
-Ejemplo:
+'
 
 ```bash
 saludar() {
