@@ -27,23 +27,13 @@ Dentro de una función, los argumentos se acceden como en los scripts:
 * `$@` → todos los argumentos
 '
 
-```bash
 saludar() {
     echo "Hola $1 $2"
 }
 
-saludar "Francisco" "Vélez"
-```
+saludar "Francisco" "Vélez" # Hola Francisco Vélez
 
-👉 Salida:
-
-```
-Hola Francisco Vélez
-```
-
----
-
-## 🔹 Valores de retorno
+## Valores de retorno
 
 En Bash, una función no devuelve con `return` como en C, sino:
 
@@ -530,7 +520,7 @@ Se suele usar junto con un **while**:
 
 while [ $# -gt 0 ]; do
     echo "Argumento actual: $1"
-    shift   # pasa al siguiente argumento
+    shift  # pasa al siguiente argumento
 done
 ```
 
@@ -571,3 +561,4 @@ shift 2
 
 ¿Quieres que te prepare un **script ejemplo tipo parser** (como los de Linux: `./script.sh -a -b archivo.txt`) donde use `shift` para leer opciones y parámetros?
 
+# Autor: Fravelz

@@ -1,14 +1,32 @@
 # Repositorio para aprender Ciberseguridad
 
-1.º que nada, para **apoyar al creador**, dennos estrella (like) al Repositorio, no te cuesta nada y así apoyas al creador, del Repositorio estaría muy agradecido.
-
 Antes de comenzar, **es importante saber** que esto es un camino largo, que llevará tiempo, en aprender y que tu determinación, disciplina, y tiempo dedicado serán lo que te ayudarán a cada vez estar más cerca de tu objetivo en ciberseguridad.
 
 Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
 
 [Ir a desmintiendo mitos de hacking](./_mitos.md)
 
-Listo este curso por **ahora estará destinado** a las bases de la ciberseguridad informática *si lo llegas a terminal tu siguiente paso seria especializarte en el área de tu interés.* (posiblemente en esta guía podrás observar en el futuro una guía de la rama que me interese o posiblemente haga un nuevo repositorio para aquello).
+---
+
+## Materiales de Estudio
+
+Como este git no tiene propósito de imponer una ruta sino, que facilitar el aprendizaje a los lectores estará las siguientes formas de aprender ciberseguridad desde cero:
+
+| Pregunta | Mejor Curso | enlace |
+|----------|-------------|--------|
+| Si quieres invertir. | Academia de Savitar | https://hack4u.io/cursos/ |
+| Si no tienes plata. | Curso de Hixec | https://hixec.com/cursos/ |
+| Si quieres una ruta directa | **Este github** | *no olvides darle like al repo :)* |
+
+**Al decir** `una ruta directa` me refiero a que, aquí estaré colocando toda la ruta necesaria para aprender ciberseguridad, *-a base de mi experiencia en el aprendizaje que estaré llevando-* y sin ningún objetivo a cambio, **lo menos que puedes hacer es darle like al repo :v**
+
+---
+
+## Comenzamos
+
+No podre colocar todas las cosas que existen en este repo, pero si puedo dar una idea fundamental a los lectores para que vayan aprendiendo y sepan realmente que necesitan aprender cuáles temas son anteriores y **siguientes en sus pasos,** que estarán dando en este aprendizaje, para estar bien preparados.
+
+**¡Por cada tema principal buscaré dejar detalles en un archivo en el git**, y también enlazar un video de YouTube que hablen del tema, si puedes utilizar estos 2 recursos que yo te dejaría, serán lo recomendable porque en este repo me enfocaré más que todo en la parte teórica, y los videos de YouTube practicaras la parte práctica!
 
 > **Nota:** Hay mucha teoría léala con calma y no se preocupe por aprenderse todo de memoria, a medida, que vayas practicando, la teoría, útil la va adquiriendo poco a poco.
 
@@ -118,10 +136,12 @@ Si quieres aportar al git, con tus propias experiencias y aprendizajes, o econó
 
 ## Información
 
+Te agradecería mucho, que dieras una **estrella (like)** al Repositorio, no te cuesta nada y así apoyas al creador, del Repositorio estaría muy agradecido.
+
 Notas que hago todos los días para las Actualizaciones:
 
 [Ir a notasPersonales.md](./notasPersonales.md)
 
-**Actualización:** 0.0.6
+**Actualización:** 0.0.7
 
 **Autor:** Fravelz

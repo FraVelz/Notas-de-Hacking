@@ -52,9 +52,27 @@ Estoy actualizando la ortografía y agregando símbolos para una mejor lectura :
 
 * Agregar archivo de teoría de redes.
 
+la verdad siento que el dia de hoy fue muy productivo.
+
 **Herramientas nuevas en VS Code:**
 
 * Estoy utilizando markdownlint para escribir bien Markdown y ltex, para la ortografía en español, nvim para escribir cómodamente rápido, y cmake tools para visualizar el archivo .md y más herramientas útiles en VS Code para Markdown y escribir documentación cómodamente :v
+
+## Nota 6 (2025-09-26)
+
+**Día General:**
+
+* Bueno hoy estuve un poco más disperso, tuve problemas con algunas partes de configuración gráfica, de arch linux, y además que borre la información de configuración de mi waybar (estuve arreglando estas cosas, y agregando a mi git de **"Hyprdots"** algunos cambios de mi configuracion en arch linux).
+
+* Estaba revisando cosas prácticas, pero me doy cuenta de que mi github personal de curso de ciberseguridad se va a convertir en una biblioteca completa si, me pongo a escribir la parte práctica, completamente, entonces estaré colocando en este git parte teórica que es bueno leer y repasar a cuando es necesario y una serie de ruta definida con enlace a videos de YouTube de recomendaciones para aprender la teoría y los temas específicos, para tener un enfoque con más práctica.
+
+* Hoy fue un día tranquilo.
+
+**¿Qué cambios se hicieron hoy?**
+
+* Agregar una nueva sección de materiales de estudio en la guía principal el cual es el readme.md.
+
+Hoy hizo poco la verdad, pero ese poco que hizo hoy me da el parecer que fue información valiosa ya, no hago más porque voy a comer y dormir, entonces mañana será mi próxima sesión de trabajo.
 
 ---
 
