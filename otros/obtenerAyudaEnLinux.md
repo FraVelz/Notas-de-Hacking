@@ -6,10 +6,18 @@ Siempre nos encontraremos con herramientas cuyos parámetros opcionales desconoc
 
 ---
 
+## Temario
+
+1. [Ir a primer comando](#primer-comando)
+2. [Ir a ayuda rápida](#ayuda-rápida---help-y--h)
+3. [Ir a buscar comandos y documentación](#buscar-comandos-y-documentación-relacionada-apropos)
+
+---
+
 ## Primer comando
 
 ```bash
-bleon12@htb[/htb]$ ls
+fravelz@htb[/htb]$ ls
 cacert.der  Documents  Music     Public     Videos
 Desktop     Downloads  Pictures  Templates
 ```
@@ -19,7 +27,7 @@ El comando `ls` en sistemas Linux y Unix se utiliza para listar los archivos y d
 **Sintaxis:**
 
 ```bash
-bleon12@htb[/htb]$ man <tool>
+fravelz@htb[/htb]$ man <tool>
 ```
 
 Veamos un ejemplo y obtengamos ayuda para el comando `ls`:
@@ -27,7 +35,7 @@ Veamos un ejemplo y obtengamos ayuda para el comando `ls`:
 **Ejemplo:**
 
 ```bash
-bleon12@htb[/htb]$ man ls
+fravelz@htb[/htb]$ man ls
 ```
 
 ```
@@ -67,14 +75,14 @@ Tras ver algunos ejemplos, también podemos consultar rápidamente los parámetr
 
 ```bash
 # Obtener ayuda
-bleon12@htb[/htb]$ <tool> --help
+fravelz@htb[/htb]$ <tool> --help
 ```
 
 **Ejemplo:**
 
 ```bash
 # Obtener ayuda
-bleon12@htb[/htb]$ ls --help
+fravelz@htb[/htb]$ ls --help
 ```
 
 ```
@@ -106,13 +114,13 @@ Algunas herramientas proporcionan una versión corta de ayuda usando `-h` en lug
 
 ```bash
 # Obtener ayuda
-bleon12@htb[/htb]$ <tool> -h
+fravelz@htb[/htb]$ <tool> -h
 ```
 
 **Ejemplo:**
 
 ```bash
-bleon12@htb[/htb]$ curl -h
+fravelz@htb[/htb]$ curl -h
 ```
 
 ```
@@ -139,14 +147,14 @@ Otra herramienta útil al principio es `apropos`. Cada página del manual incluy
 
 ```bash
 # Obtener ayuda
-bleon12@htb[/htb]$ apropos <keyword>
+fravelz@htb[/htb]$ apropos <keyword>
 ```
 
 **Ejemplo:**
 
 ```bash
 # Obtener ayuda
-bleon12@htb[/htb]$ apropos sudo
+fravelz@htb[/htb]$ apropos sudo
 ```
 
 ```
@@ -167,3 +175,9 @@ Otro recurso útil cuando tenemos problemas para entender un comando largo es: [
 ## Conclusión
 
 A continuación cubriremos una gran cantidad de comandos, muchos de los cuales pueden ser nuevos para usted. Sin embargo, ahora sabe cómo buscar ayuda con cualquier comando que no conozca o con el que no esté seguro de sus opciones. Además, le animamos a explorar su curiosidad y a dedicar el tiempo que necesite para experimentar con las herramientas presentadas. Siempre será tiempo bien invertido.
+
+[Ir a la guía principal](https://github.com/FraVelz/Curso-de-Hacking?tab=readme-ov-file#0-conceptos-b%C3%A1sicos-leer-archivo)
+
+> **Autor:** Fravelz
+
+> **Colaborador:** @studentethical (Student Ethical)

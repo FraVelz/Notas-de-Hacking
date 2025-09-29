@@ -45,6 +45,8 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 
 * [Ir a Distribuciones de Linux](./otros/distribucionesDeLinux.md)
 
+* [Ir a Obtener ayuda en Linux](./otros/obtenerAyudaEnLinux.md)
+
 ---
 
 ## Requisitos Generales
