@@ -74,6 +74,14 @@ la verdad siento que el dia de hoy fue muy productivo.
 
 Hoy hizo poco la verdad, pero ese poco que hizo hoy me da el parecer que fue información valiosa ya, no hago más porque voy a comer y dormir, entonces mañana será mi próxima sesión de trabajo.
 
+## Nota 7,8 (2025-09-(26,27,28))
+
+No chambie en este repositorio :(
+
+Hice otras cosas enfrente algunos problemas de la PC, con hyprland arreglando algunas cosas, como la waybar y mi git de hyprdots, bueno ya puede arreglar todo lo que paso, y seguimos con este repo.
+
+## Nota 9 (2025-09-29)
+
 ---
 
 [Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main?tab=readme-ov-file#informaci%C3%B3n)

@@ -10,23 +10,17 @@ Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo p
 
 ## Materiales de Estudio
 
-Como este git no tiene propósito de imponer una ruta sino, que facilitar el aprendizaje a los lectores estará las siguientes formas de aprender ciberseguridad desde cero:
+Como este git no tiene propósito de imponer una ruta sino, que facilitar el aprendizaje a los lectores estará las siguientes formas como consejo de aprender ciberseguridad desde cero:
 
-| Pregunta | Mejor Curso | enlace |
-|----------|-------------|--------|
-| Si quieres invertir. | Academia de Savitar | https://hack4u.io/cursos/ |
-| Si no tienes plata. | Curso de Hixec | https://hixec.com/cursos/ |
-| Si quieres una ruta directa | **Este github** | *no olvides darle like al repo :)* |
+| Pregunta                    | Mejor Curso         | enlace                             |
+|-----------------------------|---------------------|------------------------------------|
+| Si quieres invertir.        | Academia de Savitar | https://hack4u.io/cursos/          |
+| Si no tienes plata.         | Curso de Hixec      | https://hixec.com/cursos/          |
+| Si quieres una ruta directa | **Este github**     | *no olvides darle like al repo :)* |
 
 **Al decir** `una ruta directa` me refiero a que, aquí estaré colocando toda la ruta necesaria para aprender ciberseguridad, *-a base de mi experiencia en el aprendizaje que estaré llevando-* y sin ningún objetivo a cambio, **lo menos que puedes hacer es darle like al repo :v**
 
 ---
-
-## Comenzamos
-
-No podre colocar todas las cosas que existen en este repo, pero si puedo dar una idea fundamental a los lectores para que vayan aprendiendo y sepan realmente que necesitan aprender cuáles temas son anteriores y **siguientes en sus pasos,** que estarán dando en este aprendizaje, para estar bien preparados.
-
-**¡Por cada tema principal buscaré dejar detalles en un archivo en el git**, y también enlazar un video de YouTube que hablen del tema, si puedes utilizar estos 2 recursos que yo te dejaría, serán lo recomendable porque en este repo me enfocaré más que todo en la parte teórica, y los videos de YouTube practicaras la parte práctica!
 
 > **Nota:** Hay mucha teoría léala con calma y no se preocupe por aprenderse todo de memoria, a medida, que vayas practicando, la teoría, útil la va adquiriendo poco a poco.
 
@@ -46,6 +40,10 @@ Temario para aprender:
 3. [Ir a otros](#3-otros)
 
 Información: [Ir a información](#información)
+
+Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
+
+* [Ir a Distribuciones de Linux](./otros/distribucionesDeLinux.md)
 
 ---
 
