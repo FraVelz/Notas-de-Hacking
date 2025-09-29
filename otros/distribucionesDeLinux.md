@@ -9,7 +9,19 @@ Aunque todas comparten los mismos **componentes (empleados dedicados)**, la mism
 
 ---
 
-## Ejemplos de distribuciones populares
+## Temario
+
+1. [Ir a Ejemplos de distribuciones populares](#1-ejemplos-de-distribuciones-populares)
+2. [Ir a Porque elegir Linux](#2-por-qué-elegir-linux)
+3. [Ir a Linux en ciberseguridad](#3-linux-en-ciberseguridad)
+4. [Ir a Distribuciones populares de Linux](#4-distribuciones-populares-en-ciberseguridad)
+5. [Ir a Principales diferencias entre distribuciones](#5-principales-diferencias-entre-distribuciones)
+6. [Ir a Debian](#6-debian)
+7. [Ir a Conclusión](#7-conclusión)
+
+---
+
+## 1. Ejemplos de distribuciones populares
 
 - **Ubuntu**
 - **Fedora**
@@ -19,7 +31,7 @@ Aunque todas comparten los mismos **componentes (empleados dedicados)**, la mism
 
 ---
 
-## ¿Por qué elegir Linux?
+## 2. ¿Por qué elegir Linux?
 
 Muchos usuarios eligen Linux para sus ordenadores de escritorio por su:
 
@@ -39,7 +51,7 @@ Además, ofrece **actualizaciones frecuentes y regulares**.
 
 ---
 
-## Linux en ciberseguridad
+## 3. Linux en ciberseguridad
 
 Como especialistas en **ciberseguridad**, preferimos Linux porque su **código fuente está disponible** para análisis y personalización.  
 Gracias a esto, podemos **optimizar y configurar nuestras distribuciones** según nuestras necesidades específicas.
@@ -52,7 +64,7 @@ Podemos usar estas distribuciones en muchos entornos:
 - Computación en la nube
 - Computación de escritorio
 
-### Distribuciones populares en ciberseguridad
+### 4. Distribuciones populares en ciberseguridad
 
 - **ParrotOS**
 - **Ubuntu**
@@ -65,7 +77,7 @@ Podemos usar estas distribuciones en muchos entornos:
 
 ---
 
-## Principales diferencias entre distribuciones
+## 5. Principales diferencias entre distribuciones
 
 Las diferencias entre las distintas distribuciones de Linux radican en:
 
@@ -81,7 +93,7 @@ Las diferencias entre las distintas distribuciones de Linux radican en:
 
 ---
 
-## Debian
+## 6. Debian
 
 **Debian** es una distribución de Linux ampliamente utilizada y respetada, conocida por su **estabilidad** y **fiabilidad**.  
 Se utiliza en diversos entornos: ordenadores de escritorio, servidores y sistemas embebidos.
@@ -117,7 +129,7 @@ Debian tiene un fuerte compromiso con la **seguridad** y la **privacidad**, y cu
 
 ---
 
-## Conclusión
+## 7. Conclusión
 
 **Debian** es una distribución de Linux **versátil y confiable**, ampliamente utilizada en múltiples entornos.  
 Su estabilidad, fiabilidad y compromiso con la seguridad la convierten en una opción muy atractiva, especialmente para el ámbito de la **ciberseguridad**.
