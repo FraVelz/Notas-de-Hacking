@@ -4,7 +4,7 @@ Antes de comenzar, **es importante saber** que esto es un camino largo, que llev
 
 Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
 
-[Ir a desmintiendo mitos de hacking](./_mitos.md)
+[Ir a desmintiendo mitos de hacking](./otros/_mitos.md)
 
 ---
 
@@ -37,7 +37,11 @@ Temario para aprender:
 
 1. [Ir a Primeros Pasos](#1-primeros-pasos)
 2. [Ir a Redes](#2-redes-para-ciberseguridad)
-3. [Ir a otros](#3-otros)
+3. [Ir a ramas y especialidades](#3-ramas-y-especialidades)
+4. [Ir a Pentesting](#4-pentesting)
+5. [Ir a OSINT](#5-osint)
+6. [Ir a Criptografía](#6-criptografia)
+7. [Ir a Forense](#7-forense)
 
 Información: [Ir a información](#información)
 
@@ -69,7 +73,7 @@ En el paso inicial antes de comenzar a investigar, te recomiendo, leer el archiv
 
 A continuación, el enlace al archivo:
 
-[Ir al archivo conceptosBasicos.md](./0.conceptosBasicos.md)
+[Ir al archivo conceptosBasicos.md](./otros/0.conceptosBasicos.md)
 
 ---
 
@@ -122,9 +126,173 @@ Archivos para leer de redes:
 
 ---
 
-## 3. Otros
+## 3. Ramas y Especialidades
 
-Actualización próximamente.......
+La **ciberseguridad** es un campo enorme y se divide en varias **ramas o especialidades**, cada una con su propio enfoque, herramientas y objetivos.
+Aquí tienes una **clasificación completa** y actualizada de las principales ramas de la ciberseguridad
+
+### **1) Seguridad Ofensiva (Ethical Hacking o Red Team)**
+
+Su objetivo es **atacar para proteger**. Los expertos en esta área piensan como los hackers para encontrar vulnerabilidades antes de que lo hagan los delincuentes.
+
+**Subramas:**
+
+* **Pentesting (Pruebas de penetración):** Simular ataques reales para detectar fallos.
+
+* **Red Teaming:** Ataques avanzados y coordinados contra toda la infraestructura.
+
+* **Ingeniería social:** Manipular a las personas para obtener información (phishing, pretexting, etc.).
+
+* **Explotación de vulnerabilidades:** Encontrar y aprovechar fallos en software o sistemas.
+
+* **Hacking físico:** Acceso no autorizado a lugares o dispositivos.
+
+*Herramientas comunes:* Metasploit, Burp Suite, Nmap, Wireshark, Hydra, Aircrack-ng.
+
+### **2) Seguridad Defensiva (Blue Team)**
+
+Su función es **detectar, detener y responder** ante los ataques.
+
+**Subramas:**
+
+* **Monitoreo de seguridad (SOC):** Vigilancia constante de redes y sistemas.
+
+* **Análisis de malware:** Estudio de programas maliciosos para entender su funcionamiento.
+
+* **Gestión de incidentes:** Responder ante ataques o brechas de seguridad.
+
+* **Caza de amenazas (Threat Hunting):** Buscar ataques ocultos o sofisticados antes de que causen daño.
+
+* **Fortificación de sistemas (Hardening):** Configurar y reforzar sistemas para minimizar riesgos.
+
+*Herramientas comunes:* Splunk, SIEM, Suricata, OSSEC, ELK Stack, Wireshark.
+
+### **3) Ciberinteligencia (Cyber Threat Intelligence)**
+
+Se centra en **recolectar, analizar y anticipar amenazas** cibernéticas.
+
+**Subramas:**
+
+* **Inteligencia de amenazas (CTI):** Estudio de grupos de hackers, sus tácticas y herramientas.
+
+* **Análisis forense digital:** Investigación después de un ataque (seguimiento, evidencia, trazas).
+
+* **OSINT (Open Source Intelligence):** Recolección de información pública útil para prevenir ataques.
+
+* **Contrainteligencia cibernética:** Detectar y neutralizar espionaje o desinformación.
+
+*Herramientas comunes:* Maltego, Shodan, TheHarvester, MISP, VirusTotal.
+
+### **4) Criptografía y Seguridad de la Información**
+
+Protege los **datos** mediante matemáticas, algoritmos y protocolos seguros.
+
+**Subramas:**
+
+* **Criptografía aplicada:** Uso de algoritmos para cifrar datos (AES, RSA, SHA).
+
+* **Gestión de claves y certificados digitales.**
+
+* **Firmas digitales y blockchain.**
+
+* **Seguridad en comunicaciones (VPN, SSL/TLS).**
+
+*Herramientas comunes:* OpenSSL, GPG, Hashcat, VeraCrypt.
+
+### **5) Seguridad en Redes**
+
+Asegura la **infraestructura** que conecta dispositivos y servidores.
+
+**Subramas:**
+
+* **Seguridad perimetral (firewalls, IDS/IPS).**
+* **Seguridad en routers y switches.**
+* **Segmentación y control de tráfico.**
+* **Seguridad en redes inalámbricas (Wi-Fi).**
+
+*Herramientas comunes:* pfSense, Cisco Security, Snort, Wireshark, Aircrack-ng.
+
+### **6) Seguridad en la Nube (Cloud Security)**
+
+Protege los servicios y datos alojados en plataformas como AWS, Azure o Google Cloud.
+
+**Subramas:**
+
+* **Configuración segura de entornos cloud.**
+* **Gestión de identidades y accesos (IAM).**
+* **Auditoría y cumplimiento normativo.**
+* **Cifrado y protección de datos en la nube.**
+
+*Herramientas comunes:* Prisma Cloud, AWS Security Hub, Azure Defender.
+
+### **7) Seguridad en Aplicaciones**
+
+Se enfoca en asegurar el **software** desde su desarrollo.
+
+**Subramas:**
+
+* **AppSec (Application Security):** Protección de aplicaciones web y móviles.
+* **DevSecOps:** Integrar la seguridad en el ciclo de desarrollo.
+* **Revisión de código y análisis estático.**
+* **Pruebas de seguridad automatizadas.**
+
+*Herramientas comunes:* OWASP ZAP, SonarQube, Burp Suite, Checkmarx.
+
+### **8) Gobernanza, Riesgo y Cumplimiento (GRC)**
+
+Enfocada en la **gestión estratégica de la seguridad**, políticas, normas y auditorías.
+
+**Subramas:**
+
+* **Políticas y normativas de seguridad (ISO 27001, NIST, GDPR).**
+* **Gestión de riesgos cibernéticos.**
+* **Auditorías de seguridad.**
+* **Concienciación y capacitación en ciberseguridad.**
+
+### **9) Seguridad Industrial y de Infraestructuras Críticas**
+
+Protege sistemas industriales y servicios esenciales (energía, transporte, agua, etc.).
+
+**Subramas:**
+
+* **Seguridad OT (Operational Technology).**
+* **SCADA y sistemas de control industrial.**
+* **Ciberseguridad en IoT (Internet of Things).**
+
+### **10) Ciberseguridad en IA y Datos**
+
+Campo nuevo y en crecimiento (la verdad no sabía que existía).
+
+**Subramas:**
+
+* **Seguridad en modelos de IA (ataques adversarios).**
+* **Protección de datos usados para entrenar IA.**
+* **Privacidad diferencial y anonimización.**
+* **Detección de deepfakes y manipulación de información.**
+
+---
+
+## 4. Pentesting
+
+Actualización pendiente...
+
+---
+
+## 5. OSINT
+
+Actualización pendiente...
+
+---
+
+## 6. Criptografia
+
+Actualización pendiente...
+
+---
+
+## 7. Forense
+
+Actualización pendiente...
 
 ---
 
@@ -132,7 +300,9 @@ Actualización próximamente.......
 
 Si quieres aportar al git, con tus propias experiencias y aprendizajes, o económicamente, puedes leer el siguiente manual para enviarme aportaciones y enriquecer más este Repositorio de conocimiento, y ayudar al autor con el siguiente enlace:
 
-[Ir a aportaciones :)](./_aportaciones.md)
+[Ir a aportaciones :)](./otros/_aportaciones.md)
+
+---
 
 ## Información
 
@@ -142,6 +312,6 @@ Notas que hago todos los días para las Actualizaciones:
 
 [Ir a notasPersonales.md](./notasPersonales.md)
 
-**Actualización:** 0.0.7
+**Actualización:** 0.0.8
 
 **Autor:** Fravelz
