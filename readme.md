@@ -4,7 +4,7 @@ Antes de comenzar, **es importante saber** que esto es un camino largo, que llev
 
 Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
 
-[Ir a leer desmintiendo mitos de hacking](./otros/_mitos.md)
+[Ir a leer desmintiendo Mitos de Hacking](./otros/_mitos.md)
 
 ---
 
@@ -37,19 +37,19 @@ Temario para aprender:
 
 1. [Ir a Primeros Pasos](#1-primeros-pasos)
 2. [Ir a Redes](#2-redes-para-ciberseguridad)
-3. [Ir a ramas y especialidades](#3-ramas-y-especializaciones-de-ciberseguridad)
+3. [Ir a Ramas y Especialidades](#3-ramas-y-especializaciones-de-ciberseguridad)
 4. [Ir a Pentesting](#4-pentesting)
 5. [Ir a OSINT](#5-osint)
 6. [Ir a Criptografía](#6-criptografia)
 7. [Ir a Forense](#7-forense)
 
-Información: [Ir a información](#información)
+Información: [Ir a Información](#información)
 
 Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
 
 * [Ir a Distribuciones de Linux](./otros/distribucionesDeLinux.md)
 
-* [Ir a Obtener ayuda en Linux](./otros/obtenerAyudaEnLinux.md)
+* [Ir a Obtener Ayuda en Linux](./otros/obtenerAyudaEnLinux.md)
 
 ---
 
@@ -69,17 +69,17 @@ Estos requisitos son para toda esta guía que debes tener en cuenta:
 
 **Duración:** 10 min aproximadamente :)
 
-En el paso inicial antes de comenzar a investigar, te recomiendo, leer el archivo ./0.conceptosBasicos.md que contienen los conceptos Básicos importantes en el mundo de la seguridad informática, es importante que tengas en cuenta toda la información del archivo porque se utiliza mucho estos términos en el campo de la ciberseguridad (son unos términos básicos muy importantes a tener en cuenta).
+Antes de investigar, te recomiendo leer `Conceptos Básicos`, donde se explican los términos fundamentales de la seguridad informática. Es importante entenderlos, ya que se usan constantemente en el campo de la ciberseguridad.
 
 A continuación, el enlace al archivo:
 
-[Ir a leer conceptosBasicos.md](./otros/0.conceptosBasicos.md)
+[Ir a leer Conceptos Básicos](./otros/0.conceptosBasicos.md)
 
 ---
 
 ## 1. Primeros pasos
 
-**Duración aproximada (1-2h diarias):** 14 días (para aprender lo básico).
+**Duración aproximada (1-2h diarias):** 10 días (para aprender lo básico).
 
 ### 1) Descargar en una máquina virtual, Ubuntu y Windows
 
@@ -89,7 +89,7 @@ porque:
 
 * La opción más recomendable es VirtualBox, sencilla y muy utilizada (otras personas prefieren WMware, u otras formas de virtualizar).
 
-Los siguientes links te dirigiran a los tutoriales respectivos, de cada cosa:
+Los siguientes links te dirigirán a los tutoriales respectivos, de cada cosa:
 
 * [Buscar como descargar Ubuntu en VirtualBox](https://www.youtube.com/results?search_query=descargar+ubuntu+en+virtualbox+en+windows)
 
@@ -111,7 +111,7 @@ Todo lo deberías tener más o menos así en VirtualBox:
 
 Si te interesa leer que específicamente necesitas de Linux, estará todo en el siguiente archivo:
 
-[Ir al archivo ./1.comandosBash/1.comandosLinux.md](./1.comandosBash/1.comandosLinux.md)
+[Ir a leer Comandos Linux](./1.comandosBash/1.comandosLinux.md)
 
 o si prefieres video de YouTube:
 
