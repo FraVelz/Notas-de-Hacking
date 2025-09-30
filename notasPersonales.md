@@ -74,13 +74,19 @@ la verdad siento que el dia de hoy fue muy productivo.
 
 Hoy hizo poco la verdad, pero ese poco que hizo hoy me da el parecer que fue información valiosa ya, no hago más porque voy a comer y dormir, entonces mañana será mi próxima sesión de trabajo.
 
-## Nota 7,8 (2025-09-(26,27,28))
+## Nota 7,8 (2025-09-(27,28))
 
 No chambie en este repositorio :(
 
 Hice otras cosas enfrente algunos problemas de la PC, con hyprland arreglando algunas cosas, como la waybar y mi git de hyprdots, bueno ya puede arreglar todo lo que paso, y seguimos con este repo.
 
 ## Nota 9 (2025-09-29)
+
+2 días en los que no había trabajado, ahora pues hoy busque reponer un poco mejor la sitúa.
+
+**¿Qué cambios se hicieron hoy?**
+
+* Se agregó un nuevo apartado en el readme.md es el apartado de 3. Ramas de la ciberseguridad, con su archivo correspondiente.
 
 ---
 
