@@ -164,6 +164,8 @@ Actualización pendiente...
 
 ## 5. OSINT
 
+temas y herramientas básicas OSINT: [Ir a OSINT basico](./5.osint/1.basic.md)
+
 Actualización pendiente...
 
 ---

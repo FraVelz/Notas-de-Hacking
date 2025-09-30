@@ -180,6 +180,6 @@ Campo nuevo y en crecimiento.
 * **Privacidad diferencial y anonimización.**
 * **Detección de deepfakes y manipulación de información.**
 
-[Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main?tab=readme-ov-file#informaci%C3%B3n)
+[Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main?tab=readme-ov-file#3-ramas-y-especializaciones-de-ciberseguridad)
 
 > **Autor:** Fravelz

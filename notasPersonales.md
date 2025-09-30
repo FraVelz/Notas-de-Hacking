@@ -2,6 +2,18 @@
 
 En lo personal este proyecto es para crear una guía completa para los que recién empiezan en el mundo de la ciberseguridad y no voy a mentir yo también estoy a nivel básico, conforme lo que yo voy aprendiendo y investigando mi plan es documentarlo como una guía para que pueda ayudar a alguien quien lo necesite :v
 
+--
+
+## Temario
+
+* [Ir a Anti penultima nota](#nota-6-2025-09-26)
+
+* [Ir a Penultima nota](#nota-78-2025-09-2728)
+
+* [Ir a Ultima nota](#nota-9-2025-09-29)
+
+A las 100 notas aproximadamente se creará nuevo archivo oficial de notas.
+
 ---
 
 ## Nota 0 (2025-09-4)
@@ -86,7 +98,34 @@ Hice otras cosas enfrente algunos problemas de la PC, con hyprland arreglando al
 
 **¿Qué cambios se hicieron hoy?**
 
-* Se agregó un nuevo apartado en el readme.md es el apartado de 3. Ramas de la ciberseguridad, con su archivo correspondiente.
+Completar información principal.
+
+* Nuevo apartado readme.md => 3.Ramas de ciberseguridad
+* Nuevo apartado readme.md => 4.Pentesting
+* Nuevo apartado readme.md => 5.OSINT
+* Nuevo apartado readme.md => 6.Criptografia
+* Nuevo apartado readme.md => 7.Forense
+
+* Nuevo archivo completo => _ramasCiberseguridad.md
+
+Mejor organización de directorios y archivos. (dentro de cada directorio ya contiene aunque sea 1 archivo con una estructura por defecto para algunos).
+
+* Nuevo directorio creado => otros
+* Nuevo directorio creado => 3.ramas
+* Nuevo directorio creado => 4.pentesting
+* Nuevo directorio creado => 5.osint
+* Nuevo directorio creado => 6.criptografia
+* Nuevo directorio creado => 7.forense
+
+Archivos creados dentro del directorio 3.ramas:
+
+* Me da pereza escribir cada nombre, pero son 10 archivos y cada uno ya tiene una estructura textual por defecto.
+
+Aparte se hicieron cambios pequeños como lo es agregar el apartado de osint de la guía principal enlazada con un link con el archivo de osint básico que previamente ya existía, entre otros cambios que se hicieron.
+
+## Nota 10 (2025-09-30)
+
+Mañana :)
 
 ---
 

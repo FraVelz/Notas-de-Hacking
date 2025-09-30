@@ -1,1 +1,0 @@
-{"rule":"PREP_VERB","sentence":"^\\QTambién el uso del sudo y como funciona.\\E$"}
