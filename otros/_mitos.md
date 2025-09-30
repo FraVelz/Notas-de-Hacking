@@ -74,6 +74,6 @@
 
 ---
 
-[Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking?tab=readme-ov-file#repositorio-para-aprender-ciberseguridad)
+[Regresar a la guía principal](./../readme.md#repositorio-para-aprender-ciberseguridad)
 
 > **Autor:** Fravelz

@@ -123,9 +123,7 @@ o si prefieres video de YouTube:
 
 Cuando ya sepas comandos Linux básicos, bash script te servirá para automatizar tareas repetitivas en Linux, muy importante saberlo para el uso en entornos Linux aunque sea entender la sintaxis básica esto te será de mucha ayuda.
 
-# En Desarroyo
-
-[ir a leer temario bash (completo)]()
+[Ir a leer temario bash (completo)](./_temarioBash.md)
 
 o si prefieres video de YouTube:
 
@@ -143,8 +141,8 @@ Aprender sobre redes (no es indispensable aprender como funciona, la parte teór
 
 | Curso de YouTube Recomendados                              | Enlace                                                                                                |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Quieres un curso técnico con teoría completa:              | [Ir curso de Youtube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
-| Quieres un curso de redes menos teórico, y mas practico :) | [Ir curso de Youtube Contando bits - Redes Informaticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
+| Quieres un curso técnico con teoría completa:              | [Ir curso de YouTube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
+| Quieres un curso de redes menos teórico, y más práctico :) | [Ir curso de YouTube Contando bits - Redes Informáticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
 
 Archivos para leer de redes:
 
