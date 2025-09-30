@@ -154,6 +154,8 @@ para más información y detalle de cada rama en el siguiente archivo:
 
 En este curso/guía vamos a elegir pentesting, osint, criptografia, forense hasta un nivel decente para aprender, sé que es demasiado pero que alegría :) (jajajajjajaj)
 
+> **Nota:** Si solo te interesa conseguir un trabajo sin tener tiempo que perder solo mira pentesting es relativamente fácil, no requiere tanto tiempo (como otras ramas de ciberseguridad), es muy demandado por empresas, no te distraigas con otras cosas si este es tu propósito, conseguir trabajo.
+
 ---
 
 ## 4. Pentesting
