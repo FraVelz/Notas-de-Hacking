@@ -152,7 +152,7 @@ para más información y detalle de cada rama en el siguiente archivo:
 
 [Ir al archivo de ramas de ciberseguridad](./otros/_ramasCiberseguridad.md)
 
-En este curso/guía vamos a elegir pentesting, osint, criptografia, forense hasta un nivel decente para aprender sé que es demasiado pero que alegría :) (jajajajjajaj)
+En este curso/guía vamos a elegir pentesting, osint, criptografia, forense hasta un nivel decente para aprender, sé que es demasiado pero que alegría :) (jajajajjajaj)
 
 ---
 
