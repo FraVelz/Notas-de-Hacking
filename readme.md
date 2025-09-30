@@ -4,7 +4,7 @@ Antes de comenzar, **es importante saber** que esto es un camino largo, que llev
 
 Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
 
-[Ir a desmintiendo mitos de hacking](./otros/_mitos.md)
+[Ir a leer desmintiendo mitos de hacking](./otros/_mitos.md)
 
 ---
 
@@ -18,7 +18,7 @@ Como este git no tiene propósito de imponer una ruta sino, que facilitar el apr
 | Si no tienes plata.         | Curso de Hixec      | https://hixec.com/cursos/          |
 | Si quieres una ruta directa | **Este github**     | *no olvides darle like al repo :)* |
 
-**Al decir** `una ruta directa` me refiero a que, aquí estaré colocando toda la ruta necesaria para aprender ciberseguridad, *-a base de mi experiencia en el aprendizaje que estaré llevando-* y sin ningún objetivo a cambio, **lo menos que puedes hacer es darle like al repo :v**
+Listo, comenzamos.
 
 ---
 
@@ -73,13 +73,13 @@ En el paso inicial antes de comenzar a investigar, te recomiendo, leer el archiv
 
 A continuación, el enlace al archivo:
 
-[Ir al archivo conceptosBasicos.md](./otros/0.conceptosBasicos.md)
+[Ir a leer conceptosBasicos.md](./otros/0.conceptosBasicos.md)
 
 ---
 
 ## 1. Primeros pasos
 
-**Duración aproximada (1-2h diarias):** 7 días :)
+**Duración aproximada (1-2h diarias):** 14 días (para aprender lo básico).
 
 ### 1) Descargar en una máquina virtual, Ubuntu y Windows
 
@@ -87,11 +87,19 @@ porque:
 
 * Sin importar tu sistema, usa una máquina virtual para trabajar sin dañar el original.
 
-* La opción más recomendable es VirtualBox, sencilla y muy utilizada.
+* La opción más recomendable es VirtualBox, sencilla y muy utilizada (otras personas prefieren WMware, u otras formas de virtualizar).
 
-* Tras instalar Ubuntu y Windows, crea un punto de restauración en VirtualBox para cada uno, (toma menos de un minuto) esto para recuperar tu sistema fácilmente si algo se rompe.
+Los siguientes links te dirigiran a los tutoriales respectivos, de cada cosa:
 
-Todo lo deberías tener más o menos así:
+* [Buscar como descargar Ubuntu en VirtualBox](https://www.youtube.com/results?search_query=descargar+ubuntu+en+virtualbox+en+windows)
+
+* [Buscar como descargar Windows en VirtualBox](https://www.youtube.com/results?search_query=descargar+windows+en+virtualbox+en+windows)
+
+Tras instalar Ubuntu y Windows, crea un punto de restauración, esto es muy importante.
+
+* [Buscar como crear un punto de restauración en VirtualBox](https://www.youtube.com/results?search_query=como+crear+un+punto+de+restauracion+en+virtualbox)
+
+Todo lo deberías tener más o menos así en VirtualBox:
 
 ![Imagen de VirtualBox](./images/image-virtualbox.png)
 
@@ -101,9 +109,29 @@ Todo lo deberías tener más o menos así:
 
 * También el uso del sudo y como funciona.
 
-Si te interesa que específicamente necesitas de Linux, estará todo en el siguiente archivo:
+Si te interesa leer que específicamente necesitas de Linux, estará todo en el siguiente archivo:
 
 [Ir al archivo ./1.comandosBash/1.comandosLinux.md](./1.comandosBash/1.comandosLinux.md)
+
+o si prefieres video de YouTube:
+
+* [Ir a Curso de Linux](https://www.youtube.com/watch?v=L906Kti3gzE)
+
+* [Buscar Curso de Linux](https://www.youtube.com/results?search_query=curso+de+linux+desde+cero)
+
+### 3) Bash Script
+
+Cuando ya sepas comandos Linux básicos, bash script te servirá para automatizar tareas repetitivas en Linux, muy importante saberlo para el uso en entornos Linux aunque sea entender la sintaxis básica esto te será de mucha ayuda.
+
+# En Desarroyo
+
+[ir a leer temario bash (completo)]()
+
+o si prefieres video de YouTube:
+
+* [Ir a curso de bash script desde cero (s4vitar)](https://www.youtube.com/watch?v=RUorAzaDftg)
+
+* [Buscar curso de bash script desde cero](https://www.youtube.com/results?search_query=curso+de+bash+script+desde+cero)
 
 ---
 
@@ -152,9 +180,9 @@ para más información y detalle de cada rama en el siguiente archivo:
 
 [Ir al archivo de ramas de ciberseguridad](./_ramasCiberseguridad.md)
 
-En este curso/guía vamos a elegir pentesting, osint, criptografia, forense hasta un nivel decente para aprender, sé que es demasiado pero que alegría :) (jajajajjajaj)
+En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u otro que será secreto para los lectores, pero será un bonus.
 
-> **Nota:** Si solo te interesa conseguir un trabajo sin tener tiempo que perder solo mira pentesting es relativamente fácil, no requiere tanto tiempo (como otras ramas de ciberseguridad), es muy demandado por empresas, no te distraigas con otras cosas si este es tu propósito, conseguir trabajo.
+> **Nota:** Si solo te interesa conseguir un trabajo sin tener tiempo que perder, concéntrate solo en `pentesting` es **fácil para conseguir trabajo, y es importante resaltar que es un campo muy teórico**, es muy demandado por empresas, no te distraigas con otras cosas si este es tu propósito, *conseguir trabajo.*
 
 ---
 
@@ -184,6 +212,14 @@ Actualización pendiente...
 
 ---
 
+## 8. Tema número 5 de especialización
+
+Un tema ya elegido, pero no se mostrará su nombre o significado hasta la completación las actualizaciones anteriores.
+
+Actualización pendiente...
+
+---
+
 ## Aportaciones
 
 Si quieres aportar al git, con tus propias experiencias y aprendizajes, o económicamente, puedes leer el siguiente manual para enviarme aportaciones y enriquecer más este Repositorio de conocimiento, y ayudar al autor con el siguiente enlace:
@@ -200,6 +236,6 @@ Notas que hago todos los días para las Actualizaciones:
 
 [Ir a notasPersonales.md](./notasPersonales.md)
 
-**Actualización:** 0.0.8
+**Actualización:** 0.0.9
 
 **Autor:** Fravelz

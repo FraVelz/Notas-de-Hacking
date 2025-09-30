@@ -16,6 +16,14 @@ A las 100 notas aproximadamente se creará nuevo archivo oficial de notas, o pos
 
 ---
 
+## Colabores más importantes
+
+1. Chatgpt **(Agradecimiento especial)**
+
+2. The Student ethical **(@thestudentethical)**
+
+---
+
 ## Nota 0 (2025-09-4)
 
 La creación del git, pero en ese momento nada serio.
@@ -70,6 +78,8 @@ la verdad siento que el dia de hoy fue muy productivo.
 
 * Estoy utilizando markdownlint para escribir bien Markdown y ltex, para la ortografía en español, nvim para escribir cómodamente rápido, y cmake tools para visualizar el archivo .md y más herramientas útiles en VS Code para Markdown y escribir documentación cómodamente :v
 
+---
+
 ## Nota 6 (2025-09-26)
 
 **Día General:**
@@ -86,11 +96,15 @@ la verdad siento que el dia de hoy fue muy productivo.
 
 Hoy hizo poco la verdad, pero ese poco que hizo hoy me da el parecer que fue información valiosa ya, no hago más porque voy a comer y dormir, entonces mañana será mi próxima sesión de trabajo.
 
+---
+
 ## Nota 7,8 (2025-09-(27,28))
 
 No chambie en este repositorio :(
 
 Hice otras cosas enfrente algunos problemas de la PC, con hyprland arreglando algunas cosas, como la waybar y mi git de hyprdots, bueno ya puede arreglar todo lo que paso, y seguimos con este repo.
+
+---
 
 ## Nota 9 (2025-09-29)
 
@@ -123,7 +137,19 @@ Archivos creados dentro del directorio 3.ramas:
 
 Aparte se hicieron cambios pequeños como lo es agregar el apartado de osint de la guía principal enlazada con un link con el archivo de osint básico que previamente ya existía, entre otros cambios que se hicieron.
 
+---
+
 ## Nota 10 (2025-09-30)
+
+Hoy fue un día de aprendizaje :)
+
+**¿Qué cambios se hicieron hoy?**
+
+* Aun nose.
+
+---
+
+## Nota 11 (2025-10-01)
 
 Mañana :)
 
