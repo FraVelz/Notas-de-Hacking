@@ -2,17 +2,17 @@
 
 En lo personal este proyecto es para crear una guía completa para los que recién empiezan en el mundo de la ciberseguridad y no voy a mentir yo también estoy a nivel básico, conforme lo que yo voy aprendiendo y investigando mi plan es documentarlo como una guía para que pueda ayudar a alguien quien lo necesite :v
 
---
+---
 
 ## Temario
 
-* [Ir a Anti penultima nota](#nota-6-2025-09-26)
+* [Ir a Anti penúltima nota](#nota-6-2025-09-26)
 
-* [Ir a Penultima nota](#nota-78-2025-09-2728)
+* [Ir a Penúltima nota](#nota-78-2025-09-2728)
 
-* [Ir a Ultima nota](#nota-9-2025-09-29)
+* [Ir a Última nota](#nota-9-2025-09-29)
 
-A las 100 notas aproximadamente se creará nuevo archivo oficial de notas.
+A las 100 notas aproximadamente se creará nuevo archivo oficial de notas, o posiblemente resuma la información por meses, cuando se esté descontrolando las notas.
 
 ---
 
