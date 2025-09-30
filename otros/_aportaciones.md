@@ -64,6 +64,6 @@ git push origin mi-rama-nueva
 
   * ¡Tus cambios pasan al proyecto principal!
 
-[Volver a la guía principal](https://github.com/FraVelz/Curso-de-Hacking?tab=readme-ov-file#aportaciones)
+[Volver a la guía principal](./../readme.md#aportaciones)
 
 > **Autor:** Fravelz
