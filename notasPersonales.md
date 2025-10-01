@@ -154,6 +154,8 @@ Hoy fue un trabajo algo repetitivo.
 
 * En el apartado de ramas de ciberseguridad del readme.md, actualicé todos los archivos conectados a esa rama, como lo son el temario, el temario detallado, y el curso de cada uno de los archivos.
 
+* Agregando nuevos archivos en la sección del readme.md, Google doorks.
+
 ---
 
 ## Nota 12 (2025-10-02)

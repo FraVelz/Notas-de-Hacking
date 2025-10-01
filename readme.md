@@ -192,13 +192,17 @@ Actualización pendiente...
 
 ## 5. OSINT
 
-temas y herramientas básicas OSINT: [Ir a OSINT basico](./5.osint/1.basic.md)
+**Temario:**
 
-Actualización pendiente...
+1. Cosas básicas a tener en cuenta: [Ir a OSINT básico](./5.osint/1.basic.md)
+
+2. Google doorks: [Ir a Google Doorks](./5.osint/1.basic.md)
+
+...
 
 ---
 
-## 6. Criptografia
+## 6. Criptografía
 
 Actualización pendiente...
 
