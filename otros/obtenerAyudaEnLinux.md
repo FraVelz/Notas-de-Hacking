@@ -176,8 +176,7 @@ Otro recurso útil cuando tenemos problemas para entender un comando largo es: [
 
 A continuación cubriremos una gran cantidad de comandos, muchos de los cuales pueden ser nuevos para usted. Sin embargo, ahora sabe cómo buscar ayuda con cualquier comando que no conozca o con el que no esté seguro de sus opciones. Además, le animamos a explorar su curiosidad y a dedicar el tiempo que necesite para experimentar con las herramientas presentadas. Siempre será tiempo bien invertido.
 
-[Ir a la guía principal](https://github.com/FraVelz/Curso-de-Hacking?tab=readme-ov-file#0-conceptos-b%C3%A1sicos-leer-archivo)
+[Ir a la guía principal](./../readme.md#0-conceptos-b%C3%A1sicos-leer-archivo)
 
-> **Autor:** Fravelz
-
+> **Autor:** Fravelz  
 > **Colaborador:** @studentethical (Student Ethical)

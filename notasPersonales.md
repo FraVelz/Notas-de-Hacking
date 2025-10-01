@@ -1,16 +1,13 @@
 # Notas Personales
-
-En lo personal este proyecto es para crear una guía completa para los que recién empiezan en el mundo de la ciberseguridad y no voy a mentir yo también estoy a nivel básico, conforme lo que yo voy aprendiendo y investigando mi plan es documentarlo como una guía para que pueda ayudar a alguien quien lo necesite :v
+En lo personal este proyecto es para crear una guía completa para los que recién empiezan en el mundo de la ciberseguridad y no voy a mentir yo también estoy a nivel básico, conforme lo que yo voy aprendiendo e investigando mi plan es documentarlo como una guía para que pueda ayudar a alguien quien lo necesite.
 
 ---
 
-## Temario
+## Enlace
 
-* [Ir a Anti penúltima nota](#nota-6-2025-09-26)
+1. [Ir a colaboradores más importantes](#colabores-más-importantes)
 
-* [Ir a Penúltima nota](#nota-78-2025-09-2728)
-
-* [Ir a Última nota](#nota-9-2025-09-29)
+2. [Ir a Última nota](#nota-9-2025-09-29)
 
 A las 100 notas aproximadamente se creará nuevo archivo oficial de notas, o posiblemente resuma la información por meses, cuando se esté descontrolando las notas.
 
@@ -100,7 +97,7 @@ Hoy hizo poco la verdad, pero ese poco que hizo hoy me da el parecer que fue inf
 
 ## Nota 7,8 (2025-09-(27,28))
 
-No chambie en este repositorio :(
+No chambie en este repositorio.
 
 Hice otras cosas enfrente algunos problemas de la PC, con hyprland arreglando algunas cosas, como la waybar y mi git de hyprdots, bueno ya puede arreglar todo lo que paso, y seguimos con este repo.
 
@@ -141,17 +138,27 @@ Aparte se hicieron cambios pequeños como lo es agregar el apartado de osint de 
 
 ## Nota 10 (2025-09-30)
 
-Hoy fue un día de aprendizaje :)
+Hoy fue un día de aprendizaje.
 
 **¿Qué cambios se hicieron hoy?**
 
-* Aun nose.
+* Cambios pequeños como arreglar algunos enlaces, nuevas secciones y organizar mejor los textos de diferentes archivos.
 
 ---
 
 ## Nota 11 (2025-10-01)
 
-Mañana :)
+Hoy fue un trabajo algo repetitivo.
+
+**¿Qué cambios se hicieron hoy?**
+
+* En el apartado de ramas de ciberseguridad del readme.md, actualicé todos los archivos conectados a esa rama, como lo son el temario, el temario detallado, y el curso de cada uno de los archivos.
+
+---
+
+## Nota 12 (2025-10-02)
+
+Mañana
 
 ---
 

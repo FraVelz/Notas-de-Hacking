@@ -234,6 +234,6 @@ Notas que hago todos los días para las Actualizaciones:
 
 [Ir a notasPersonales.md](./notasPersonales.md)
 
-**Actualización:** 0.0.9
+**Actualización:** 0.1.0
 
 **Autor:** Fravelz

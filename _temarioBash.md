@@ -1,4 +1,4 @@
-# Temario Bash
+# Temario Bash Script
 
 ---
 
@@ -6,12 +6,12 @@
 
 Actualizando...
 
-## Intermedio
+## Intermedio-Avanzado
 
 Actualizando...
 
 ---
 
-[Regresar a la guía principal](https://github.com/FraVelz/Curso-de-Hacking/tree/main?tab=readme-ov-file#3-bash-script)
+[Volver a la guía principal](./readme.md#3-bash-script)
 
 > **Autor:** Fravelz

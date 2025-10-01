@@ -1,5 +1,7 @@
 # Ramas y Especializaciones de ciberseguridad
 
+Indico cualquier cosa que antes vimos los temas de las bases de la ciberseguridad, como lo son redes, sistema Linux (bash script, y comandos bash), virtualización como terminologías importantes y conceptos importantes.
+
 ---
 
 ## Temario
@@ -202,7 +204,7 @@ Guía: [Ir a guía para aprender Seguridad en IA y Datos](./3.ramas/10.cibersegu
 
 ---
 
-Bueno, si quieres volver a la ruta de la guía principal:
+bueno, si quieres volver a la ruta de la guía principal:
 
 [Regresar a la guía principal](./readme.md#3-ramas-y-especializaciones-de-ciberseguridad)
 
