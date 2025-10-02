@@ -4,7 +4,7 @@ Antes de comenzar, **es importante saber** que esto es un camino largo, que llev
 
 Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
 
-[Ir a leer desmintiendo Mitos de Hacking](./otros/_mitos.md)
+[Ir a leer desmintiendo Mitos de Hacking](./otros/0.mitos.md)
 
 ---
 
@@ -47,9 +47,9 @@ Información: [Ir a Información](#información)
 
 Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
 
-* [Ir a Distribuciones de Linux](./otros/distribucionesDeLinux.md)
+* [Ir a Distribuciones de Linux](./0.no-fundamentales/1.distribucionesDeLinux.md)
 
-* [Ir a Obtener Ayuda en Linux](./otros/obtenerAyudaEnLinux.md)
+* [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
 
 ---
 
@@ -73,9 +73,9 @@ Antes de investigar, te recomiendo leer `Conceptos Básicos` y `legalidad del ha
 
 A continuación, el enlace al archivo:
 
-* [Ir a leer Conceptos Básicos](./otros/0.conceptosBasicos.md)
+* [Ir a leer Conceptos Básicos](./otros/1.conceptosBasicos.md)
 
-* [Ir a leer Legalidad del Hacking](./otros/0.legalidadHacking.md)
+* [Ir a leer Legalidad del Hacking](./otros/2.legalidadHacking.md)
 
 ---
 
@@ -148,9 +148,9 @@ Aprender sobre redes (no es indispensable aprender como funciona, la parte teór
 
 Archivos para leer de redes:
 
-* Parte Teórica (conceptos, y mucho más): [Ir a 1.teoriaRedes.md](./2.redes/1.teoriaRedes.md)
+* Parte Teórica (conceptos, y mucho más): [Ir a Teoría de Redes](./2.redes/1.teoriaRedes.md)
 
-* Parte Práctica (comandos y herramientas): [Ir a 2.practica.md](./2.redes/2.practicaRedes.md)
+* Parte Práctica (comandos y herramientas): [Ir a Práctica de Redes](./2.redes/2.practicaRedes.md)
 
 ---
 
@@ -178,7 +178,7 @@ Archivos para leer de redes:
 
 para más información y detalle de cada rama en el siguiente archivo:
 
-[Ir al archivo de ramas de ciberseguridad](./_ramasCiberseguridad.md)
+[Ir al archivo de ramas de ciberseguridad](./3.ramasCiberseguridad.md)
 
 En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u otro que será secreto para los lectores, pero será un bonus.
 
@@ -234,7 +234,7 @@ Actualización pendiente...
 
 Si quieres aportar al git, con tus propias experiencias y aprendizajes, o económicamente, puedes leer el siguiente manual para enviarme aportaciones y enriquecer más este Repositorio de conocimiento, y ayudar al autor con el siguiente enlace:
 
-[Ir a aportaciones :)](./otros/_aportaciones.md)
+[Ir a aportaciones :)](./otros/4.aportaciones.md)
 
 ---
 
@@ -244,8 +244,8 @@ Te agradecería mucho, que dieras una **estrella (like)** al Repositorio, no te 
 
 Notas de cada actualización, y mucho más:
 
-[Ir a notas de Actualización](./otros/notas-actualizaciones.md)
+[Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
 
-**Actualización:** 0.1.0
+**Actualización:** 0.1.1
 
 **Autor:** Fravelz
