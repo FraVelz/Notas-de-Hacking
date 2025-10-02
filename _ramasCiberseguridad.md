@@ -46,8 +46,6 @@ Su objetivo es **atacar para proteger**. Los expertos en esta área piensan como
 
 *Herramientas comunes:* Metasploit, Burp Suite, Nmap, Wireshark, Hydra, Aircrack-ng.
 
-Guía: [Ir a guía para aprender hacking Red Team](./3.ramas/1.seguridad-ofensiva.md)
-
 ---
 
 ## **2. Seguridad Defensiva (Blue Team)**
@@ -68,8 +66,6 @@ Su función es **detectar, detener y responder** ante los ataques.
 
 *Herramientas comunes:* Splunk, SIEM, Suricata, OSSEC, ELK Stack, Wireshark.
 
-Guía: [Ir a guía para aprender hacking Blue Team](./3.ramas/2.seguridad-defensiva.md)
-
 ---
 
 ## **3. Ciberinteligencia (Cyber Threat Intelligence)**
@@ -88,8 +84,6 @@ Se centra en **recolectar, analizar y anticipar amenazas** cibernéticas.
 
 *Herramientas comunes:* Maltego, Shodan, TheHarvester, MISP, VirusTotal.
 
-Guía: [Ir a guía para aprender Ciberinteligencia](./3.ramas/3.ciberinteligencia.md)
-
 ---
 
 ## **4. Criptografía y Seguridad de la Información**
@@ -104,8 +98,6 @@ Protege los **datos** mediante matemáticas, algoritmos y protocolos seguros.
 * **Seguridad en comunicaciones (VPN, SSL/TLS).**
 
 *Herramientas comunes:* OpenSSL, GPG, Hashcat, VeraCrypt.
-
-Guía: [Ir a guía para aprender Seguridad de la Informacion](./3.ramas/4.criptografia.md)
 
 ---
 
@@ -122,8 +114,6 @@ Asegura la **infraestructura** que conecta dispositivos y servidores.
 
 *Herramientas comunes:* pfSense, Cisco Security, Snort, Wireshark, Aircrack-ng.
 
-Guía: [Ir a guía para aprender Seguridad en Redes](./3.ramas/5.seguridad-redes.md)
-
 ---
 
 ## **6. Seguridad en la Nube (Cloud Security)**
@@ -138,8 +128,6 @@ Protege los servicios y datos alojados en plataformas como AWS, Azure o Google C
 * **Cifrado y protección de datos en la nube.**
 
 *Herramientas comunes:* Prisma Cloud, AWS Security Hub, Azure Defender.
-
-Guía: [Ir a guía para aprender Seguridad en la Nube](./3.ramas/6.seguridad-nube.md)
 
 ---
 
@@ -156,8 +144,6 @@ Se enfoca en asegurar el **software** desde su desarrollo.
 
 *Herramientas comunes:* OWASP ZAP, SonarQube, Burp Suite, Checkmarx.
 
-Guía: [Ir a guía para aprender Seguridad en Aplicaciones](./3.ramas/7.seguridad-aplicaciones.md)
-
 ---
 
 ## **8. Gobernanza, Riesgo y Cumplimiento (GRC)**
@@ -171,8 +157,6 @@ Enfocada en la **gestión estratégica de la seguridad**, políticas, normas y a
 * **Auditorías de seguridad.**
 * **Concienciación y capacitación en ciberseguridad.**
 
-Guía: [Ir a guía para aprender Gobernanza, Riesgo, y Cumplimiento](./3.ramas/8.leyes-ciberneticas.md)
-
 ---
 
 ## **9. Seguridad Industrial y de Infraestructuras Críticas**
@@ -184,8 +168,6 @@ Protege sistemas industriales y servicios esenciales (energía, transporte, agua
 * **Seguridad OT (Operational Technology).**
 * **SCADA y sistemas de control industrial.**
 * **Ciberseguridad en IoT (Internet of Things).**
-
-Guía: [Ir a guía para aprender Seguridad Cibernética Industrial](./3.ramas/9.seguridad-ciberindustrial.md)
 
 ---
 
@@ -200,11 +182,9 @@ Campo nuevo y en crecimiento.
 * **Privacidad diferencial y anonimización.**
 * **Detección de deepfakes y manipulación de información.**
 
-Guía: [Ir a guía para aprender Seguridad en IA y Datos](./3.ramas/10.ciberseguridad-datos-IA.md)
-
 ---
 
-bueno, si quieres volver a la ruta de la guía principal:
+Bueno, si quieres volver a la ruta de la guía principal:
 
 [Regresar a la guía principal](./readme.md#3-ramas-y-especializaciones-de-ciberseguridad)
 
