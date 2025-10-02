@@ -242,9 +242,9 @@ Si quieres aportar al git, con tus propias experiencias y aprendizajes, o econó
 
 Te agradecería mucho, que dieras una **estrella (like)** al Repositorio, no te cuesta nada y así apoyas al creador, del Repositorio estaría muy agradecido.
 
-Notas que hago todos los días para las Actualizaciones:
+Notas de cada actualización, y mucho más:
 
-[Ir a notasPersonales.md](./notasPersonales.md)
+[Ir a notas de Actualización](./otros/notas-actualizaciones.md)
 
 **Actualización:** 0.1.0
 
