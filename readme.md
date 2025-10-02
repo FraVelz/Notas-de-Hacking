@@ -14,9 +14,9 @@ Como este git no tiene propósito de imponer una ruta sino, que facilitar el apr
 
 | Pregunta                    | Mejor Curso         | enlace                             |
 |-----------------------------|---------------------|------------------------------------|
-| Si quieres invertir.        | Academia de Savitar | https://hack4u.io/cursos/          |
-| Si no tienes plata.         | Curso de Hixec      | https://hixec.com/cursos/          |
-| Si quieres una ruta directa | **Este github**     | *no olvides darle like al repo :)* |
+| 100% de pago.               | Academia de Savitar | https://hack4u.io/cursos/          |
+| 100% gratis + Versión Pago. | Curso de Hixec      | https://hixec.com/cursos/          |
+| Si quieres una ruta directa.| **Este github**     | *no olvides darle like al repo :)* |
 
 Listo, comenzamos.
 
@@ -40,7 +40,7 @@ Temario para aprender:
 3. [Ir a Ramas y Especialidades](#3-ramas-y-especializaciones-de-ciberseguridad)
 4. [Ir a Pentesting](#4-pentesting)
 5. [Ir a OSINT](#5-osint)
-6. [Ir a Criptografía](#6-criptografia)
+6. [Ir a Criptografía](#6-criptografía)
 7. [Ir a Forense](#7-forense)
 
 Información: [Ir a Información](#información)
@@ -69,11 +69,13 @@ Estos requisitos son para toda esta guía que debes tener en cuenta:
 
 **Duración:** 10 min aproximadamente :)
 
-Antes de investigar, te recomiendo leer `Conceptos Básicos`, donde se explican los términos fundamentales de la seguridad informática. Es importante entenderlos, ya que se usan constantemente en el campo de la ciberseguridad.
+Antes de investigar, te recomiendo leer `Conceptos Básicos` y `legalidad del hacking`, donde se explican los términos fundamentales, y reglas importantes de la seguridad informática. Es importante entenderlos, ya que se usan constantemente en el campo de la ciberseguridad y hacking.
 
 A continuación, el enlace al archivo:
 
-[Ir a leer Conceptos Básicos](./otros/0.conceptosBasicos.md)
+* [Ir a leer Conceptos Básicos](./otros/0.conceptosBasicos.md)
+
+* [Ir a leer Legalidad del Hacking](./otros/0.legalidadHacking.md)
 
 ---
 
@@ -186,7 +188,13 @@ En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u o
 
 ## 4. Pentesting
 
-Actualización pendiente...
+Temario:
+
+1. [Ir a Que es?, y fases del Pentesting](./4.pentesting/0.fases.md)
+
+2. [Ir a Cajas en el Pentesting](./4.pentesting/1.cajas.md)
+
+...
 
 ---
 
