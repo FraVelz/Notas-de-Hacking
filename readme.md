@@ -1,10 +1,6 @@
 # Repositorio para aprender Ciberseguridad
 
-Antes de comenzar, **es importante saber** que esto es un camino largo, que llevará tiempo, en aprender y que tu determinación, disciplina, y tiempo dedicado serán lo que te ayudarán a cada vez estar más cerca de tu objetivo en ciberseguridad.
-
-Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo pintan, en las películas o medios de comunicación. Si no conoces bien el mundo de la ciberseguridad, te recomendaría leer el siguiente git, para que tengas una idea de **mitos desmentidos de la ciberseguridad**:
-
-[Ir a leer desmintiendo Mitos de Hacking](./otros/0.mitos.md)
+¡Bienvenido y que tengas un buen viaje!
 
 ---
 
@@ -12,17 +8,13 @@ Es importante que sepas que el **hacking y la ciberseguridad** no son, como lo p
 
 Como este git no tiene propósito de imponer una ruta sino, que facilitar el aprendizaje a los lectores estará las siguientes formas como consejo de aprender ciberseguridad desde cero:
 
-| Pregunta                    | Mejor Curso         | enlace                             |
-|-----------------------------|---------------------|------------------------------------|
-| 100% de pago.               | Academia de Savitar | https://hack4u.io/cursos/          |
-| 100% gratis + Versión Pago. | Curso de Hixec      | https://hixec.com/cursos/          |
-| Si quieres una ruta directa.| **Este github**     | *no olvides darle like al repo :)* |
+| Pregunta                    | Mejor Curso         | Enlace                             | Enfoque                                  |
+|-----------------------------|---------------------|------------------------------------|------------------------------------------|
+| 100% de pago.               | Academia de Savitar | https://hack4u.io/cursos/          | Pentesting, y pentesting web             |
+| 100% gratis + Versión Pago. | Curso de Hixec      | https://hixec.com/cursos/          | Pentesting, osint y privacidad           |
+| Si quieres una ruta directa.| **Este github**     | *no olvides darle like al repo :)* | Pentesting, osint, criptografía, forense |
 
 Listo, comenzamos.
-
----
-
-> **Nota:** Hay mucha teoría léala con calma y no se preocupe por aprenderse todo de memoria, a medida, que vayas practicando, la teoría, útil la va adquiriendo poco a poco.
 
 ---
 
@@ -30,7 +22,6 @@ Listo, comenzamos.
 
 Pasos previos:
 
-* [Ir a Requisitos Generales](#requisitos-generales)
 * [Ir a Conceptos Básicos](#0-conceptos-básicos-leer-archivo)
 
 Temario para aprender:
@@ -47,27 +38,19 @@ Información: [Ir a Información](#información)
 
 Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
 
+* [Ir a Desmintiendo mitos de ciberseguridad](./0.no-fundamentales/0.mitos.md)
+
 * [Ir a Distribuciones de Linux](./0.no-fundamentales/1.distribucionesDeLinux.md)
 
 * [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
 
----
-
-## Requisitos Generales
-
-Estos requisitos son para toda esta guía que debes tener en cuenta:
-
-* Tiempo libre para aprender, **mínimo 1 hora diaria** (es lo recomendable, si puedes más mejor).
-
-* Conexión a Internet.
-
-* Computadora.
+Enlace para practicar Phishing en entornos laborales y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
 
 ---
 
 ## 0. Conceptos Básicos (Leer archivo)
 
-**Duración:** 10 min aproximadamente :)
+**Duración:** 10 min aproximadamente.
 
 Antes de investigar, te recomiendo leer `Conceptos Básicos` y `legalidad del hacking`, donde se explican los términos fundamentales, y reglas importantes de la seguridad informática. Es importante entenderlos, ya que se usan constantemente en el campo de la ciberseguridad y hacking.
 
@@ -85,7 +68,11 @@ A continuación, el enlace al archivo:
 
 ### 1) Descargar en una máquina virtual, Ubuntu y Windows
 
-porque:
+Si quieres ver un video de YouTube completo de virtualización con VirtualBox antes de empezar los siguientes pasos:
+
+[Ir a curso de Virtualización - Hixec](https://www.youtube.com/watch?v=CLdHQPyHeN0)
+
+porque descargar Ubuntu y Windows:
 
 * Sin importar tu sistema, usa una máquina virtual para trabajar sin dañar el original.
 
@@ -246,6 +233,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
 
-**Actualización:** 0.1.1
+**Actualización:** 0.1.2
 
 **Autor:** Fravelz
