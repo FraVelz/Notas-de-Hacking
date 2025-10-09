@@ -20,29 +20,30 @@ Listo, comenzamos.
 
 ## Temario
 
-Pasos previos:
-
-* [Ir a Conceptos Básicos](#0-conceptos-básicos-leer-archivo)
-
-Temario para aprender:
-
-1. [Ir a Primeros Pasos](#1-primeros-pasos)
-2. [Ir a Redes](#2-redes-para-ciberseguridad)
-3. [Ir a Ramas y Especialidades](#3-ramas-y-especializaciones-de-ciberseguridad)
-4. [Ir a Pentesting](#4-pentesting)
-5. [Ir a OSINT](#5-osint)
-6. [Ir a Criptografía](#6-criptografía)
-7. [Ir a Forense](#7-forense)
-
-Información: [Ir a Información](#información)
+- [Repositorio para aprender Ciberseguridad](#repositorio-para-aprender-ciberseguridad)
+  - [Materiales de Estudio](#materiales-de-estudio)
+  - [Temario](#temario)
+  - [0. Conceptos Básicos (Leer archivo)](#0-conceptos-básicos-leer-archivo)
+  - [1. Descargar en una máquina virtual, Ubuntu y Windows](#1-descargar-en-una-máquina-virtual-ubuntu-y-windows)
+  - [2. Linux básico](#2-linux-básico)
+  - [3. Bash Script](#3-bash-script)
+  - [4. Redes (para ciberseguridad)](#4-redes-para-ciberseguridad)
+  - [5. Ramas y Especializaciones de ciberseguridad](#5-ramas-y-especializaciones-de-ciberseguridad)
+  - [6. Pentesting](#6-pentesting)
+  - [7. OSINT](#7-osint)
+  - [8. Criptografía](#8-criptografía)
+  - [9. Forense](#9-forense)
+  - [10. Tema número 5 de especialización](#10-tema-número-5-de-especialización)
+  - [Aportaciones](#aportaciones)
+  - [Información](#información)
 
 Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
 
-* [Ir a Desmintiendo mitos de ciberseguridad](./0.no-fundamentales/0.mitos.md)
+- [Ir a Desmintiendo mitos de ciberseguridad](./0.no-fundamentales/0.mitos.md)
 
-* [Ir a Distribuciones de Linux](./0.no-fundamentales/1.distribucionesDeLinux.md)
+- [Ir a Distribuciones de Linux](./0.no-fundamentales/1.distribucionesDeLinux.md)
 
-* [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
+- [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
 
 Enlace para practicar Phishing en entornos laborales y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
 
@@ -56,17 +57,15 @@ Antes de investigar, te recomiendo leer `Conceptos Básicos` y `legalidad del ha
 
 A continuación, el enlace al archivo:
 
-* [Ir a leer Conceptos Básicos](./otros/1.conceptosBasicos.md)
+- [Ir a leer Conceptos Básicos](./otros/1.conceptosBasicos.md)
 
-* [Ir a leer Legalidad del Hacking](./otros/2.legalidadHacking.md)
+- [Ir a leer Legalidad del Hacking](./otros/2.legalidadHacking.md)
 
 ---
 
-## 1. Primeros pasos
+## 1. Descargar en una máquina virtual, Ubuntu y Windows
 
-**Duración aproximada (1-2h diarias):** 10 días (para aprender lo básico).
-
-### 1) Descargar en una máquina virtual, Ubuntu y Windows
+**Duración aproximada (1-2h diarias):** 2 días.
 
 Si quieres ver un video de YouTube completo de virtualización con VirtualBox antes de empezar los siguientes pasos:
 
@@ -74,29 +73,33 @@ Si quieres ver un video de YouTube completo de virtualización con VirtualBox an
 
 porque descargar Ubuntu y Windows:
 
-* Sin importar tu sistema, usa una máquina virtual para trabajar sin dañar el original.
+- Sin importar tu sistema, usa una máquina virtual para trabajar sin dañar el original.
 
-* La opción más recomendable es VirtualBox, sencilla y muy utilizada (otras personas prefieren WMware, u otras formas de virtualizar).
+- La opción más recomendable es VirtualBox, sencilla y muy utilizada (otras personas prefieren WMware, u otras formas de virtualizar).
 
 Los siguientes links te dirigirán a los tutoriales respectivos, de cada cosa:
 
-* [Buscar como descargar Ubuntu en VirtualBox](https://www.youtube.com/results?search_query=descargar+ubuntu+en+virtualbox+en+windows)
+- [Buscar como descargar Ubuntu en VirtualBox](https://www.youtube.com/results?search_query=descargar+ubuntu+en+virtualbox+en+windows)
 
-* [Buscar como descargar Windows en VirtualBox](https://www.youtube.com/results?search_query=descargar+windows+en+virtualbox+en+windows)
+- [Buscar como descargar Windows en VirtualBox](https://www.youtube.com/results?search_query=descargar+windows+en+virtualbox+en+windows)
 
 Tras instalar Ubuntu y Windows, crea un punto de restauración, esto es muy importante.
 
-* [Buscar como crear un punto de restauración en VirtualBox](https://www.youtube.com/results?search_query=como+crear+un+punto+de+restauracion+en+virtualbox)
+- [Buscar como crear un punto de restauración en VirtualBox](https://www.youtube.com/results?search_query=como+crear+un+punto+de+restauracion+en+virtualbox)
 
 Todo lo deberías tener más o menos así en VirtualBox:
 
 ![Imagen de VirtualBox](./images/image-virtualbox.png)
 
-### 2) Linux básico
+---
 
-* No es necesario ir por algo complejo desde que sepas, los comandos básicos.
+## 2. Linux básico
 
-* También el uso del sudo y como funciona.
+**Duración aproximada (1-2h diarias):** 3 días.
+
+- No es necesario ir por algo complejo desde que sepas, los comandos básicos.
+
+- También el uso del sudo y como funciona.
 
 Si te interesa leer que específicamente necesitas de Linux, estará todo en el siguiente archivo:
 
@@ -104,11 +107,15 @@ Si te interesa leer que específicamente necesitas de Linux, estará todo en el 
 
 o si prefieres video de YouTube:
 
-* [Ir a Curso de Linux](https://www.youtube.com/watch?v=L906Kti3gzE)
+- [Ir a Curso de Linux](https://www.youtube.com/watch?v=L906Kti3gzE)
 
-* [Buscar Curso de Linux](https://www.youtube.com/results?search_query=curso+de+linux+desde+cero)
+- [Buscar Curso de Linux](https://www.youtube.com/results?search_query=curso+de+linux+desde+cero)
 
-### 3) Bash Script
+---
+
+## 3. Bash Script
+
+**Duración aproximada (1-2h diarias):** 7 días.
 
 Cuando ya sepas comandos Linux básicos, bash script te servirá para automatizar tareas repetitivas en Linux, muy importante saberlo para el uso en entornos Linux aunque sea entender la sintaxis básica esto te será de mucha ayuda.
 
@@ -116,15 +123,15 @@ Cuando ya sepas comandos Linux básicos, bash script te servirá para automatiza
 
 o si prefieres video de YouTube:
 
-* [Ir a curso de bash script desde cero (s4vitar)](https://www.youtube.com/watch?v=RUorAzaDftg)
+- [Ir a curso de bash script desde cero (s4vitar)](https://www.youtube.com/watch?v=RUorAzaDftg)
 
-* [Buscar curso de bash script desde cero](https://www.youtube.com/results?search_query=curso+de+bash+script+desde+cero)
+- [Buscar curso de bash script desde cero](https://www.youtube.com/results?search_query=curso+de+bash+script+desde+cero)
 
 ---
 
-## 2. Redes (para ciberseguridad)
+## 4. Redes (para ciberseguridad)
 
-**Duración:** 5 días (aproximadamente, con 1-2 horas diarias).
+**Duración aproximada (1-2h diarias):** 5 días.
 
 Aprender sobre redes (no es indispensable aprender como funciona, la parte teórica te la puedes tomar con calma, lo realmente importante es saber usar las herramientas prácticas de Linux, la teoría te ayudara a entender mejor el funcionamiento de lo que usas):
 
@@ -135,13 +142,13 @@ Aprender sobre redes (no es indispensable aprender como funciona, la parte teór
 
 Archivos para leer de redes:
 
-* Parte Teórica (conceptos, y mucho más): [Ir a Teoría de Redes](./2.redes/1.teoriaRedes.md)
+- Parte Teórica (conceptos, y mucho más): [Ir a Teoría de Redes](./2.redes/1.teoriaRedes.md)
 
-* Parte Práctica (comandos y herramientas): [Ir a Práctica de Redes](./2.redes/2.practicaRedes.md)
+- Parte Práctica (comandos y herramientas): [Ir a Práctica de Redes](./2.redes/2.practicaRedes.md)
 
 ---
 
-## 3. Ramas y Especializaciones de ciberseguridad
+## 5. Ramas y Especializaciones de ciberseguridad
 
 1. **Seguridad Ofensiva (Ethical Hacking o Red Team)**
 
@@ -173,7 +180,7 @@ En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u o
 
 ---
 
-## 4. Pentesting
+## 6. Pentesting
 
 Temario:
 
@@ -185,7 +192,7 @@ Temario:
 
 ---
 
-## 5. OSINT
+## 7. OSINT
 
 **Temario:**
 
@@ -197,19 +204,19 @@ Temario:
 
 ---
 
-## 6. Criptografía
+## 8. Criptografía
 
 Actualización pendiente...
 
 ---
 
-## 7. Forense
+## 9. Forense
 
 Actualización pendiente...
 
 ---
 
-## 8. Tema número 5 de especialización
+## 10. Tema número 5 de especialización
 
 Un tema ya elegido, pero no se mostrará su nombre o significado hasta la completación las actualizaciones anteriores.
 
@@ -233,6 +240,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
 
-**Actualización:** 0.1.2
+**Actualización:** 0.1.3
 
 **Autor:** Fravelz
