@@ -8,11 +8,11 @@
 
 Como este git no tiene propósito de imponer una ruta sino, que facilitar el aprendizaje a los lectores estará las siguientes formas como consejo de aprender ciberseguridad desde cero:
 
-| Pregunta                    | Mejor Curso         | Enlace                             | Enfoque                                  |
-|-----------------------------|---------------------|------------------------------------|------------------------------------------|
-| 100% de pago.               | Academia de Savitar | https://hack4u.io/cursos/          | Pentesting, y pentesting web             |
-| 100% gratis + Versión Pago. | Curso de Hixec      | https://hixec.com/cursos/          | Pentesting, osint y privacidad           |
-| Si quieres una ruta directa.| **Este github**     | *no olvides darle like al repo :)* | Pentesting, osint, criptografía, forense |
+| Pregunta                     | Mejor Curso         | Enlace                             | Enfoque                                  |
+| ---------------------------- | ------------------- | ---------------------------------- | ---------------------------------------- |
+| 100% de pago.                | Academia de Savitar | https://hack4u.io/cursos/          | Pentesting, y pentesting web             |
+| 100% gratis + Versión Pago.  | Curso de Hixec      | https://hixec.com/cursos/          | Pentesting, osint y privacidad           |
+| Si quieres una ruta directa. | **Este github**     | *no olvides darle like al repo :)* | Pentesting, osint, criptografía, forense |
 
 Listo, comenzamos.
 
@@ -121,7 +121,7 @@ Cuando ya sepas comandos Linux básicos, bash script te servirá para automatiza
 
 [Ir a leer temario bash (completo)](./_temarioBash.md)
 
-o si prefieres video de YouTube:
+Si prefieres video de YouTube:
 
 - [Ir a curso de bash script desde cero (s4vitar)](https://www.youtube.com/watch?v=RUorAzaDftg)
 
@@ -135,10 +135,10 @@ o si prefieres video de YouTube:
 
 Aprender sobre redes (no es indispensable aprender como funciona, la parte teórica te la puedes tomar con calma, lo realmente importante es saber usar las herramientas prácticas de Linux, la teoría te ayudara a entender mejor el funcionamiento de lo que usas):
 
-| Curso de YouTube Recomendados                              | Enlace                                                                                                |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Quieres un curso técnico con teoría completa:              | [Ir curso de YouTube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
-| Quieres un curso de redes menos teórico, y más práctico :) | [Ir curso de YouTube Contando bits - Redes Informáticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
+| Curso de YouTube Recomendados                           | Enlace                                                                                                |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Quieres un curso técnico con teoría completa:           | [Ir curso de YouTube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
+| Quieres un curso de redes menos teórico, y más práctico | [Ir curso de YouTube Contando bits - Redes Informáticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
 
 Archivos para leer de redes:
 
@@ -172,7 +172,7 @@ Archivos para leer de redes:
 
 para más información y detalle de cada rama en el siguiente archivo:
 
-[Ir al archivo de ramas de ciberseguridad](./3.ramasCiberseguridad.md)
+[Ir al archivo de ramas de ciberseguridad](./otros/3.ramasCiberseguridad.md)
 
 En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u otro que será secreto para los lectores, pero será un bonus.
 
