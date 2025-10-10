@@ -240,6 +240,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
 
-**Actualización:** 0.1.3
+**Actualización:** 0.1.4
 
 **Autor:** Fravelz
