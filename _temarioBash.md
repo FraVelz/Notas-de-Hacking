@@ -9,7 +9,8 @@
 3. [Ir a Estructuras de Control](./1.comandosBash/4.estControl.md)
 4. [Ir a Entrada y Salida](./1.comandosBash/5.EntradaYSalida.md)
 5. [Ir a Funciones, variables locales y globales](./1.comandosBash/6.funciones.md)
-6. [Ir a arrays y string](./1.comandosBash/7.ArraysStrings.md)
+6. [Ir a Arrays](./1.comandosBash/7.Arrays.md)
+7. [Ir a Strings](./1.comandosBash/8.manipulacionDeStrings.md)
 
 ## Intermedio-Avanzado
 
