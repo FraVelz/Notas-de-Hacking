@@ -142,9 +142,9 @@ Aprender sobre redes (no es indispensable aprender como funciona, la parte teór
 
 Archivos para leer de redes:
 
-- Parte Teórica (conceptos, y mucho más): [Ir a Teoría de Redes](./2.redes/1.teoriaRedes.md)
+- Parte Teórica (conceptos, y mucho más): [Ir a Teoría de Redes](./2.redes/1.teoria.md)
 
-- Parte Práctica (comandos y herramientas): [Ir a Práctica de Redes](./2.redes/2.practicaRedes.md)
+- Parte Práctica (herramientas): [Ir a Herramientas de Redes](./2.redes/2.herramientas.md)
 
 ---
 
