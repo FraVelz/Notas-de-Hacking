@@ -135,16 +135,18 @@ Si prefieres video de YouTube:
 
 Aprender sobre redes (no es indispensable aprender como funciona, la parte teórica te la puedes tomar con calma, lo realmente importante es saber usar las herramientas prácticas de Linux, la teoría te ayudara a entender mejor el funcionamiento de lo que usas):
 
-| Curso de YouTube Recomendados                           | Enlace                                                                                                |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Quieres un curso técnico con teoría completa:           | [Ir curso de YouTube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
-| Quieres un curso de redes menos teórico, y más práctico | [Ir curso de YouTube Contando bits - Redes Informáticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
-
 Archivos para leer de redes:
 
 - Parte Teórica (conceptos, y mucho más): [Ir a Teoría de Redes](./2.redes/1.teoria.md)
 
 - Parte Práctica (herramientas): [Ir a Herramientas de Redes](./2.redes/2.herramientas.md)
+
+Cursos videos de youtube:
+
+| Curso de YouTube Recomendados                           | Enlace                                                                                                |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Quieres un curso técnico con teoría completa:           | [Ir curso de YouTube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
+| Quieres un curso de redes menos teórico, y más práctico | [Ir curso de YouTube Contando bits - Redes Informáticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
 
 ---
 
