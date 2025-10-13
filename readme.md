@@ -2,15 +2,17 @@
 
 ¡Bienvenido y que tengas un buen viaje!
 
+> **Nota:** Para cada tema que se mencione, se tratara de dejar material y enlaces de videos de YouTube, varios de diferentes creadores del mismo tema.
+
 ---
 
 ## Temario
 
 - [Repositorio para aprender Ciberseguridad](#repositorio-para-aprender-ciberseguridad)
   - [Temario](#temario)
-  - [0. Conceptos Básicos (Leer archivo)](#0-conceptos-básicos-leer-archivo)
-  - [1. Descargar en una máquina virtual, Ubuntu y Windows](#1-descargar-en-una-máquina-virtual-ubuntu-y-windows)
-  - [2. Linux básico](#2-linux-básico)
+  - [0. Conceptos Básicos](#0-conceptos-básicos)
+  - [1. Virtualización](#1-virtualización)
+  - [2. Linux](#2-linux)
   - [3. Bash Script](#3-bash-script)
   - [4. Redes (para ciberseguridad)](#4-redes-para-ciberseguridad)
   - [5. Ramas y Especializaciones de ciberseguridad](#5-ramas-y-especializaciones-de-ciberseguridad)
@@ -30,11 +32,11 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 
 - [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
 
-Enlace para practicar Phishing en entornos laborales y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
+Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
 
 ---
 
-## 0. Conceptos Básicos (Leer archivo)
+## 0. Conceptos Básicos
 
 **Duración:** 10 min aproximadamente.
 
@@ -48,13 +50,17 @@ A continuación, el enlace al archivo:
 
 ---
 
-## 1. Descargar en una máquina virtual, Ubuntu y Windows
+## 1. Virtualización
 
 **Duración aproximada (1-2h diarias):** 2 días.
 
 Si quieres ver un video de YouTube completo de virtualización con VirtualBox antes de empezar los siguientes pasos:
 
 [Ir a curso de Virtualización - Hixec](https://www.youtube.com/watch?v=CLdHQPyHeN0)
+
+[Ir a curso de Virtualización - xerosec](https://www.youtube.com/watch?v=bIoVtXiG9xc&feature=youtu.be)
+
+[Ir a curso de Máquinas Virtuales - HolaMundo](https://www.youtube.com/watch?v=uiFZUfmFAus)
 
 porque descargar Ubuntu y Windows:
 
@@ -78,21 +84,19 @@ Todo lo deberías tener más o menos así en VirtualBox:
 
 ---
 
-## 2. Linux básico
+## 2. Linux
 
 **Duración aproximada (1-2h diarias):** 3 días.
 
-- No es necesario ir por algo complejo desde que sepas, los comandos básicos.
-
-- También el uso del sudo y como funciona.
-
-Si te interesa leer que específicamente necesitas de Linux, estará todo en el siguiente archivo:
+Si te interesa leer algunas cosas de Linux, estará todo en el siguiente archivo:
 
 [Ir a leer Comandos Linux](./1.comandosBash/1.comandosLinux.md)
 
 o si prefieres video de YouTube:
 
-- [Ir a Curso de Linux](https://www.youtube.com/watch?v=L906Kti3gzE)
+- [Ir a Curso de Linux - HolaMundo](https://www.youtube.com/watch?v=L906Kti3gzE)
+
+- [Ir a Curso de Linux - Hixec](https://www.youtube.com/watch?v=8v1cR7-msQ0)
 
 - [Buscar Curso de Linux](https://www.youtube.com/results?search_query=curso+de+linux+desde+cero)
 
@@ -108,7 +112,7 @@ Cuando ya sepas comandos Linux básicos, bash script te servirá para automatiza
 
 Si prefieres video de YouTube:
 
-- [Ir a curso de bash script desde cero (s4vitar)](https://www.youtube.com/watch?v=RUorAzaDftg)
+- [Ir a curso de bash script desde cero - s4vitar](https://www.youtube.com/watch?v=RUorAzaDftg)
 
 - [Buscar curso de bash script desde cero](https://www.youtube.com/results?search_query=curso+de+bash+script+desde+cero)
 
@@ -126,12 +130,11 @@ Archivos para leer de redes:
 
 - Parte Práctica (herramientas): [Ir a Herramientas de Redes](./2.redes/2.herramientas.md)
 
-Cursos videos de youtube:
+Cursos videos de YouTube:
 
-| Curso de YouTube Recomendados                           | Enlace                                                                                                |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Quieres un curso técnico con teoría completa:           | [Ir curso de YouTube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)  |
-| Quieres un curso de redes menos teórico, y más práctico | [Ir curso de YouTube Contando bits - Redes Informáticas](https://www.youtube.com/watch?v=OLSKCWjI778) |
+- [Ir curso de YouTube Contando bits - Redes Informáticas](https://www.youtube.com/watch?v=OLSKCWjI778)
+
+- [Ir curso de YouTube Hixec - Redes para ciberseguridad](https://www.youtube.com/watch?v=7ejIdyu8hug)
 
 ---
 
