@@ -4,24 +4,9 @@
 
 ---
 
-## Materiales de Estudio
-
-Como este git no tiene propósito de imponer una ruta sino, que facilitar el aprendizaje a los lectores estará las siguientes formas como consejo de aprender ciberseguridad desde cero:
-
-| Pregunta                     | Mejor Curso         | Enlace                             | Enfoque                                  |
-| ---------------------------- | ------------------- | ---------------------------------- | ---------------------------------------- |
-| 100% de pago.                | Academia de Savitar | https://hack4u.io/cursos/          | Pentesting, y pentesting web             |
-| 100% gratis + Versión Pago.  | Curso de Hixec      | https://hixec.com/cursos/          | Pentesting, osint y privacidad           |
-| Si quieres una ruta directa. | **Este github**     | *no olvides darle like al repo :)* | Pentesting, osint, criptografía, forense |
-
-Listo, comenzamos.
-
----
-
 ## Temario
 
 - [Repositorio para aprender Ciberseguridad](#repositorio-para-aprender-ciberseguridad)
-  - [Materiales de Estudio](#materiales-de-estudio)
   - [Temario](#temario)
   - [0. Conceptos Básicos (Leer archivo)](#0-conceptos-básicos-leer-archivo)
   - [1. Descargar en una máquina virtual, Ubuntu y Windows](#1-descargar-en-una-máquina-virtual-ubuntu-y-windows)
@@ -242,6 +227,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
 
-**Actualización:** 0.1.4
+**Actualización:** 0.1.5
 
 **Autor:** Fravelz
