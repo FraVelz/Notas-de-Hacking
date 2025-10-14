@@ -33,6 +33,8 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 
 - [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
 
+- [Ir a recursos complementarios o principales para aprender ciberseguridad](./0.no-fundamentales/5.recursos.md)
+
 Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
 
 ---
