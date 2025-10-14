@@ -16,11 +16,12 @@
   - [3. Bash Script](#3-bash-script)
   - [4. Redes (para ciberseguridad)](#4-redes-para-ciberseguridad)
   - [5. Ramas y Especializaciones de ciberseguridad](#5-ramas-y-especializaciones-de-ciberseguridad)
-  - [6. Pentesting](#6-pentesting)
-  - [7. OSINT](#7-osint)
-  - [8. Criptografía](#8-criptografía)
-  - [9. Forense](#9-forense)
-  - [10. Tema número 5 de especialización](#10-tema-número-5-de-especialización)
+  - [6. Herramientas generales](#6-herramientas-generales)
+  - [7. Pentesting](#7-pentesting)
+  - [8. OSINT](#8-osint)
+  - [9. Criptografía](#9-criptografía)
+  - [10. Forense](#10-forense)
+  - [11. Privacidad y Anonimato](#11-privacidad-y-anonimato)
   - [Aportaciones](#aportaciones)
   - [Información](#información)
 
@@ -35,7 +36,6 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
 
 ---
-
 ## 0. Conceptos Básicos
 
 **Duración:** 10 min aproximadamente.
@@ -170,7 +170,27 @@ En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u o
 
 ---
 
-## 6. Pentesting
+## 6. Herramientas generales
+
+Herramientas generales básicas que toda, persona debe conocer en el mundo de la ciberseguridad y estas son:
+
+1. Virus total: ([Ir a VirusTotal](https://www.virustotal.com/gui/home/upload)) Sirve para escanear y detectar virus en urls (enlaces) o ficheros (archivos), tener en cuenta que cada archivo o enlace se comparte con las empresas de antivirus que trabajan con la web.
+
+2. Have I been pwned: ([Ir a HaveIbeenPwned](https://haveibeenpwned.com/)) Sirve para buscar si tu información ha sido filtrada por medio del correo electrónico.
+
+3. Conocer destino de URL acortada: ([Ir a conocer destino de Url](https://tools.hixec.com/tool/url-unshortener?_gl=1*nakthv*_ga*Mjk1NzUxNjQzLjE3NTgyODMxNzE.*_ga_FR4D49XYF9*czE3NjA0NDMwMzMkbzIxJGcxJHQxNzYwNDQ1MjQ0JGo1NCRsMCRoMA..)).
+
+4. Generación de contraseñas seguras: https://tools.hixec.com/tool/password-generator
+
+5. Comprobación si una contraseña es segura: https://tools.hixec.com/tool/password-strength-test 
+
+6. Gestor de contraseñas: [Ir a Bit Warden](https://bitwarden.com/es-la/go/business-password-manager/?utm_source=google&utm_medium=cpc&utm_campaign=AW_LATAM-ES_NU_CL_Bitwarden_es_GSN_DTMB_Brand_KW:Brand_Exact&utm_content=716354017577&utm_term=bitwarden|kwd-339416034454&hsa_acc=2567950947&hsa_cam=21783526743&hsa_grp=168776887579&hsa_ad=716354017577&hsa_src=g&hsa_tgt=kwd-339416034454&hsa_kw=bitwarden&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21783526743&gclid=Cj0KCQjw6bfHBhDNARIsAIGsqLh1GZSOVvi_vSn7GjngohEn2F0-EQ9qGxl1waCpYYSG7xM8cRUM1AEaAqgcEALw_wcB)
+
+7. Menú de más herramientas interesantes: https://tools.hixec.com/
+
+---
+
+## 7. Pentesting
 
 Temario:
 
@@ -182,35 +202,39 @@ Temario:
 
 ---
 
-## 7. OSINT
+## 8. OSINT
 
 **Temario:**
 
 1. Cosas básicas a tener en cuenta: [Ir a OSINT básico](./5.osint/1.basic.md)
 
-2. Google doorks: [Ir a Google Doorks](./5.osint/1.basic.md)
+2. Google Doorks: [Ir a Google Doorks](./5.osint/1.basic.md)
 
 ...
 
 ---
 
-## 8. Criptografía
+## 9. Criptografía
 
 Actualización pendiente...
 
 ---
 
-## 9. Forense
+## 10. Forense
 
 Actualización pendiente...
 
 ---
 
-## 10. Tema número 5 de especialización
+## 11. Privacidad y Anonimato
 
-Un tema ya elegido, pero no se mostrará su nombre o significado hasta la completación las actualizaciones anteriores.
+1. Definiciones y diferencias entre privacidad y anonimato: [Ir a definiciones](./11.anonimato/1.definicion.md)
 
-Actualización pendiente...
+2. Huella digital: [Ir a Huella Digital](./11.anonimato/2.huella-digital.md)
+
+3. User Agent: [Ir a user-agent](./11.anonimato/3.user-agent.md)
+
+4. Saber si están filtrados tus datos: [Ir a investigar](./11.anonimato/4.filtraciones.md)
 
 ---
 
@@ -230,6 +254,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
 
-**Actualización:** 0.1.5
+**Actualización:** 0.1.6
 
 **Autor:** Fravelz
