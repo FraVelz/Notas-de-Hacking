@@ -2,7 +2,7 @@
 
 ¡Bienvenido y que tengas un buen viaje!
 
-> **Nota:** Para cada tema que se mencione, se tratara de dejar material y enlaces de videos de YouTube, varios de diferentes creadores del mismo tema.
+> **Nota:** Para cada tema que se mencione, se tratara de dejar material y enlaces de videos de YouTube, y muchos más cosas como materiales de complemento a esta guía.
 
 ---
 
@@ -14,7 +14,7 @@
   - [1. Virtualización](#1-virtualización)
   - [2. Linux](#2-linux)
   - [3. Bash Script](#3-bash-script)
-  - [4. Redes (para ciberseguridad)](#4-redes-para-ciberseguridad)
+  - [4. Redes](#4-redes)
   - [5. Windows](#5-windows)
   - [6. Pentesting](#6-pentesting)
   - [7. OSINT](#7-osint)
@@ -38,13 +38,15 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 
 - [Ir a recursos complementarios o principales para aprender ciberseguridad](./0.no-fundamentales/5.recursos.md)
 
-Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
+Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales:
+
+- [Ir a Phishing Quiz With Google](https://phishingquiz.withgoogle.com/)
 
 ---
 
 ## 0. Conceptos Básicos
 
-**Duración:** 10 min aproximadamente.
+**Duración:** 15 min aproximadamente.
 
 Antes de investigar, te recomiendo leer `Conceptos Básicos` y `legalidad del hacking`, donde se explican los términos fundamentales, y reglas importantes de la seguridad informática. Es importante entenderlos, ya que se usan constantemente en el campo de la ciberseguridad y hacking.
 
@@ -124,7 +126,7 @@ Si prefieres video de YouTube:
 
 ---
 
-## 4. Redes (para ciberseguridad)
+## 4. Redes
 
 **Duración aproximada (1-2h diarias):** 5 días.
 
