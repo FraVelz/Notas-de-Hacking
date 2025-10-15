@@ -1,6 +1,6 @@
 # OSINT
 
-[Regresar a la guía principal](./../readme.md#6-osint)
+[Regresar a la guía principal](./../readme.md#7-osint)
 
 ---
 
@@ -73,6 +73,8 @@ Es una rama del osint, que se encarga de recopilar y analizar datos provenientes
 
 * Análisis de sentimientos y tendencias.
 
-[Regresar a la guía principal](./../readme.md#6-osint)
+---
+
+[Regresar a la guía principal](./../readme.md#7-osint)
 
 > **Autor:** Fravelz

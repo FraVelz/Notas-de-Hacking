@@ -133,6 +133,8 @@ Debian tiene un fuerte compromiso con la **seguridad** y la **privacidad**, y cu
 **Debian** es una distribución de Linux **versátil y confiable**, ampliamente utilizada en múltiples entornos.  
 Su estabilidad, fiabilidad y compromiso con la seguridad la convierten en una opción muy atractiva, especialmente para el ámbito de la **ciberseguridad**, como también su **gran comunidad**.
 
+---
+
 [Regresar a la guía principal](./../readme.md#temario)
 
 > **Autor:** Fravelz  

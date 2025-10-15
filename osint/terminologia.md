@@ -5,6 +5,6 @@ un sitio web en internet, como google.com.
 
 * ...
 
-[Regresar a la guía principal](./../readme.md#5-osint)
+[Regresar a la guía principal](./../readme.md#7-osint)
 
 > **Autor:** Fravelz

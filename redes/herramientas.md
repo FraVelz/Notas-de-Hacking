@@ -15,7 +15,7 @@
   - [Recursos oficiales y seguridad](#recursos-oficiales-y-seguridad)
   - [Recomendación de aprendizaje (práctico)](#recomendación-de-aprendizaje-práctico)
 
-[Regresar a la Guía Principal](./../readme.md#3-redes)
+[Regresar a la Guía Principal](./../readme.md#4-redes)
 
 ---
 
@@ -134,6 +134,6 @@ Metasploit es un framework modular orientado a pruebas de penetración y desarro
 
 ---
 
-[Regresar a la Guía Principal](./../readme.md#3-redes)
+[Regresar a la Guía Principal](./../readme.md#4-redes)
 
 > **Autor:** Fravelz

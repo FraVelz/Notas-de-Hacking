@@ -35,7 +35,7 @@
     - [**Funciones de la IP:**](#funciones-de-la-ip)
     - [**Relación con los protocolos de aplicación:**](#relación-con-los-protocolos-de-aplicación)
 
-[Regresar a la Guía Principal](./../readme.md#3-redes)
+[Regresar a la Guía Principal](./../readme.md#4-redes)
 
 ---
 
@@ -304,7 +304,7 @@ Una **dirección IP (Internet Protocol)** es un **identificador único** que per
 
 1. **IPv4:**
 
-   - Formato: `192.168.1.10` (4 números de 0 a 255).
+   - Formato: `192.168.1.10` (números de 0 a 255).
    - Ejemplo: `172.16.0.5`
    - Tiene espacio limitado (~4.000 millones de direcciones).
 2. **IPv6:**
@@ -336,6 +336,6 @@ Una **dirección IP (Internet Protocol)** es un **identificador único** que per
 
 ---
 
-[Regresar a la Guía Principal](./../readme.md#3-redes)
+[Regresar a la Guía Principal](./../readme.md#4-redes)
 
 > **Autor:** Fravelz

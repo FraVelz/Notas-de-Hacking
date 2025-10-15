@@ -162,7 +162,7 @@ Colombia → Bogotá
 - **Ordenar un array**:
 
   ``` bash
-  numeros=(5 3 8 1)
+  numeros=(3 8 1)
   sorted=($(printf "%s\n" "${numeros[@]}" | sort -n))
   echo "${sorted[@]}"   # 1 3 5 8
   ```

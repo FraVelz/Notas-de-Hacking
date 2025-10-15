@@ -1,7 +1,5 @@
 # Recursos para Aprender ciberseguridad
 
-[Regresar a la guía principal](./../readme.md#temario)
-
 ---
 
 ## Temario
@@ -11,6 +9,8 @@
   - [Video YouTube Temario completo](#video-youtube-temario-completo)
   - [Academia S4vitar](#academia-s4vitar)
   - [Academia Hixec](#academia-hixec)
+
+[Regresar a la guía principal](./../readme.md#temario)
 
 ---
 

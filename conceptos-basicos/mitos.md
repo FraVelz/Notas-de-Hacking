@@ -17,7 +17,7 @@
   - [9. "La ciberseguridad es solo cosa de técnicos"](#9-la-ciberseguridad-es-solo-cosa-de-técnicos)
   - [10. "Me pueden hackear si saben mi IP"](#10-me-pueden-hackear-si-saben-mi-ip)
 
-[Regresar a la guía principal](./../readme.md#temario)
+[Regresar a la guía principal](./../readme.md#0-conceptos-básicos)
 
 ---
 
@@ -101,6 +101,6 @@
 
 ---
 
-[Regresar a la guía principal](./../readme.md#temario)
+[Regresar a la guía principal](./../readme.md#0-conceptos-básicos)
 
 > **Autor:** Fravelz

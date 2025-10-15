@@ -75,7 +75,7 @@ saludar "Francisco" "Vélez"
 
 ## 3. Devolver valores
 
-En Bash, `return` solo devuelve **códigos de salida (0 = éxito, ≠0 = error)**.
+En Bash, `return` solo devuelve **códigos de salida (= éxito, ≠0 = error)**.
 Para devolver datos reales se usa `echo` y **captura de comandos**:
 
 ``` bash

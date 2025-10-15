@@ -13,8 +13,8 @@ Información general y amplia, de herramientas, colaboradores, actualizaciones, 
   - [Herramientas utilizadas](#herramientas-utilizadas)
   - [Colabores más importantes](#colabores-más-importantes)
   - [Actualización Existentes](#actualización-existentes)
-  - [Actualización (0.0.0v - 0.1.0v)](#actualización-000v---010v)
-  - [Actualización (0.1.0v - 0.2.0v)](#actualización-010v---020v)
+  - [Actualización (0.0v - 0.1.0v)](#actualización-00v---010v)
+  - [Actualización (1.0v - 0.2.0v)](#actualización-10v---020v)
 
 [Regresar a la guía principal](./../readme.md#informaci%c3%b3n)
 
@@ -75,7 +75,7 @@ Para rangos de fechas `-`, para fechas específicas `;`.
 
 ---
 
-## Actualización (0.0.0v - 0.1.0v)
+## Actualización (0.0v - 0.1.0v)
 
 **actualizaciones diarias desde:** 2025-09-20
 
@@ -106,7 +106,9 @@ Mejor organización de directorios y archivos. (dentro de cada directorio ya con
 
 - Agregando nuevos archivos en la sección del readme.md, google doorks.
 
-## Actualización (0.1.0v - 0.2.0v)
+---
+
+## Actualización (1.0v - 0.2.0v)
 
 **cosas implementadas:**
 

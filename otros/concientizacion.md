@@ -2,8 +2,6 @@
 
 La concientización en ciberseguridad es uno de los pilares más importantes para proteger una empresa, o uno mismo, de ataques cibernéticos. La mayoría los ataques no se basan en hackeos avanzados, sino en errores humanos, por ejemplo, dar clic en un enlace malicioso, usar una red pública sin protección o compartir información sensible sin pensarlo.
 
-[Regresar a la guía principal](./../readme.md#temario)
-
 ---
 
 ## Temario
@@ -21,6 +19,8 @@ La concientización en ciberseguridad es uno de los pilares más importantes par
   - [8. Dispositivos físicos](#8-dispositivos-físicos)
   - [Hábitos esenciales de ciberseguridad personal](#hábitos-esenciales-de-ciberseguridad-personal)
   - [En resumen](#en-resumen)
+
+[Regresar a la guía principal](./../readme.md#temario)
 
 ---
 

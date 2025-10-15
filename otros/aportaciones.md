@@ -1,5 +1,7 @@
 # Aportaciones
 
+[Volver a la guía principal](./../readme.md#aportaciones)
+
 ---
 
 ## 1. Aportaciones Económicas
@@ -63,6 +65,8 @@ git push origin mi-rama-nueva
 - Si lo aprueban, hacen merge (fusionar ramas).
 
 - ¡Tus cambios pasan al proyecto principal!
+
+---
 
 [Volver a la guía principal](./../readme.md#aportaciones)
 

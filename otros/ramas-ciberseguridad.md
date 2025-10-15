@@ -177,8 +177,6 @@ Campo nuevo y en crecimiento.
 
 ---
 
-Bueno, si quieres volver a la ruta de la guía principal:
-
 [Regresar a la guía principal](./../readme.md#3-ramas-y-especializaciones-de-ciberseguridad)
 
 > **Autor:** Fravelz
