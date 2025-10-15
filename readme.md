@@ -29,8 +29,6 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 
 - [Ir a Distribuciones de Linux](./otros/distribuciones-linux.md)
 
-- [Ir a Obtener Ayuda en Linux](./otros/ayuda-linux.md)
-
 - [Ir a Concientización](./otros/concientizacion.md)
 
 - [Herramientas Generales](./otros/herramientas.md)
@@ -97,7 +95,11 @@ Estos temas están relacionados porque los comandos que aprendes en Linux tambi�
 
 Primero tener los fundamentos de como utilizar la terminal de linux:
 
-[Ir a Comandos Linux](./1.linux/1.comandosLinux.md)
+- [Ir a Comandos básicos de Linux](./1.linux/1.comandos-linux.md)
+
+- [Ir a Obtener Ayuda en Linux](./1.linux/1.ayuda-linux.md)
+
+- [Ir a comandos de gestion de usuarios](./1.linux/)
 
 o si prefieres video de YouTube, puedes elegir alguno de estos:
 
@@ -115,14 +117,14 @@ Luego comenzar a aprender temas de bash script puedes leer las siguientes notas:
 2. [Ir a Condiciones](./1.linux/3.condiciones.md)
 3. [Ir a Estructuras de Control](./1.linux/4.estControl.md)
 4. [Ir a Funciones, variables locales y globales](./1.linux/5.funciones.md)
-5. [Ir a Funciones Externas](./1.linux/6.FuncionesExternas.md)
+5. [Ir a Funciones Externas](./1.linux/6.funciones-externas.md)
 
 **Intermedio-Avanzado:**
 
-1. [Ir a Arrays](./1.linux/7.Arrays.md)
-2. [Ir a Strings](./1.linux/8.manipulacionDeStrings.md)
-3. [Ir a Gestiones de Procesos](./1.linux/9.GestionDeProcesos.md)
-4. [Ir a Entrada y Salida](./1.linux/10.EntradaYSalida.md)
+1. [Ir a Arrays](./1.linux/7.arrays.md)
+2. [Ir a Strings](./1.linux/8.manipulacion-de-strings.md)
+3. [Ir a Gestiones de Procesos](./1.linux/9.gestion-de-procesos.md)
+4. [Ir a Entrada y Salida](./1.linux/10.entrada-y-salida.md)
 
 O si prefieres video de YouTube:
 
