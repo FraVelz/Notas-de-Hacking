@@ -15,13 +15,12 @@
   - [2. Linux](#2-linux)
   - [3. Bash Script](#3-bash-script)
   - [4. Redes (para ciberseguridad)](#4-redes-para-ciberseguridad)
-  - [5. Ramas y Especializaciones de ciberseguridad](#5-ramas-y-especializaciones-de-ciberseguridad)
-  - [6. Herramientas generales](#6-herramientas-generales)
-  - [7. Pentesting](#7-pentesting)
-  - [8. OSINT](#8-osint)
-  - [9. Criptografía](#9-criptografía)
-  - [10. Forense](#10-forense)
-  - [11. Privacidad y Anonimato](#11-privacidad-y-anonimato)
+  - [5. Windows](#5-windows)
+  - [6. Pentesting](#6-pentesting)
+  - [7. OSINT](#7-osint)
+  - [8. Criptografía](#8-criptografía)
+  - [9. Forense](#9-forense)
+  - [10. Privacidad y Anonimato](#10-privacidad-y-anonimato)
   - [Aportaciones](#aportaciones)
   - [Información](#información)
 
@@ -29,15 +28,20 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 
 - [Ir a Desmintiendo mitos de ciberseguridad](./0.no-fundamentales/0.mitos.md)
 
+- [Ir a Ramas de ciberseguridad](./otros/3.ramasCiberseguridad.md)
+
 - [Ir a Distribuciones de Linux](./0.no-fundamentales/1.distribucionesDeLinux.md)
 
 - [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
+
+- [Herramientas Generales](./otros/6.herramientas.md)
 
 - [Ir a recursos complementarios o principales para aprender ciberseguridad](./0.no-fundamentales/5.recursos.md)
 
 Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales: https://phishingquiz.withgoogle.com/
 
 ---
+
 ## 0. Conceptos Básicos
 
 **Duración:** 10 min aproximadamente.
@@ -140,59 +144,13 @@ Cursos videos de YouTube:
 
 ---
 
-## 5. Ramas y Especializaciones de ciberseguridad
+## 5. Windows
 
-1. **Seguridad Ofensiva (Ethical Hacking o Red Team)**
-
-2. **Seguridad Defensiva (Blue Team)**
-
-3. **Ciberinteligencia (Cyber Threat Intelligence)**
-
-4. **Criptografía y Seguridad de la Información**
-
-5. **Seguridad en Redes**
-
-6. **Seguridad en la Nube (Cloud Security)**
-
-7. **Seguridad en Aplicaciones**
-
-8. **Gobernanza, Riesgo y Cumplimiento (GRC)**
-
-9. **Seguridad Industrial y de Infraestructuras Críticas**
-
-10. **Ciberseguridad en IA y Datos**
-
-para más información y detalle de cada rama en el siguiente archivo:
-
-[Ir al archivo de ramas de ciberseguridad](./otros/3.ramasCiberseguridad.md)
-
-En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u otro que será secreto para los lectores, pero será un bonus.
-
-> **Nota:** Si solo te interesa conseguir un trabajo sin tener tiempo que perder, concéntrate solo en `pentesting` es **fácil para conseguir trabajo, y es importante resaltar que es un campo muy teórico**, es muy demandado por empresas, no te distraigas con otras cosas si este es tu propósito, *conseguir trabajo.*
+...
 
 ---
 
-## 6. Herramientas generales
-
-Herramientas generales básicas que toda, persona debe conocer en el mundo de la ciberseguridad y estas son:
-
-1. Virus total: ([Ir a VirusTotal](https://www.virustotal.com/gui/home/upload)) Sirve para escanear y detectar virus en urls (enlaces) o ficheros (archivos), tener en cuenta que cada archivo o enlace se comparte con las empresas de antivirus que trabajan con la web.
-
-2. Have I been pwned: ([Ir a HaveIbeenPwned](https://haveibeenpwned.com/)) Sirve para buscar si tu información ha sido filtrada por medio del correo electrónico.
-
-3. Conocer destino de URL acortada: ([Ir a conocer destino de Url](https://tools.hixec.com/tool/url-unshortener?_gl=1*nakthv*_ga*Mjk1NzUxNjQzLjE3NTgyODMxNzE.*_ga_FR4D49XYF9*czE3NjA0NDMwMzMkbzIxJGcxJHQxNzYwNDQ1MjQ0JGo1NCRsMCRoMA..)).
-
-4. Generación de contraseñas seguras: https://tools.hixec.com/tool/password-generator
-
-5. Comprobación si una contraseña es segura: https://tools.hixec.com/tool/password-strength-test 
-
-6. Gestor de contraseñas: [Ir a Bit Warden](https://bitwarden.com/es-la/go/business-password-manager/?utm_source=google&utm_medium=cpc&utm_campaign=AW_LATAM-ES_NU_CL_Bitwarden_es_GSN_DTMB_Brand_KW:Brand_Exact&utm_content=716354017577&utm_term=bitwarden|kwd-339416034454&hsa_acc=2567950947&hsa_cam=21783526743&hsa_grp=168776887579&hsa_ad=716354017577&hsa_src=g&hsa_tgt=kwd-339416034454&hsa_kw=bitwarden&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21783526743&gclid=Cj0KCQjw6bfHBhDNARIsAIGsqLh1GZSOVvi_vSn7GjngohEn2F0-EQ9qGxl1waCpYYSG7xM8cRUM1AEaAqgcEALw_wcB)
-
-7. Menú de más herramientas interesantes: https://tools.hixec.com/
-
----
-
-## 7. Pentesting
+## 6. Pentesting
 
 Temario:
 
@@ -202,9 +160,11 @@ Temario:
 
 ...
 
+> **Nota:** Si solo te interesa conseguir un trabajo sin tantas distracciones en otras cosas, el `pentesting` a profundidad es más que suficiente.
+
 ---
 
-## 8. OSINT
+## 7. OSINT
 
 **Temario:**
 
@@ -216,19 +176,19 @@ Temario:
 
 ---
 
-## 9. Criptografía
+## 8. Criptografía
 
 Actualización pendiente...
 
 ---
 
-## 10. Forense
+## 9. Forense
 
 Actualización pendiente...
 
 ---
 
-## 11. Privacidad y Anonimato
+## 10. Privacidad y Anonimato
 
 1. Definiciones y diferencias entre privacidad y anonimato: [Ir a definiciones](./11.anonimato/1.definicion.md)
 
@@ -256,6 +216,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
 
-**Actualización:** 0.1.6
+**Actualización:** 0.1.7
 
 **Autor:** Fravelz
