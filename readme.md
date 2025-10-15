@@ -26,17 +26,17 @@
 
 Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
 
-- [Ir a Desmintiendo mitos de ciberseguridad](./0.no-fundamentales/0.mitos.md)
+- [Ir a Ramas de ciberseguridad](./otros/ramas-ciberseguridad.md)
 
-- [Ir a Ramas de ciberseguridad](./otros/3.ramasCiberseguridad.md)
+- [Ir a Distribuciones de Linux](./otros/distribuciones-linux.md)
 
-- [Ir a Distribuciones de Linux](./0.no-fundamentales/1.distribucionesDeLinux.md)
+- [Ir a Obtener Ayuda en Linux](./otros/ayuda-linux.md)
 
-- [Ir a Obtener Ayuda en Linux](./0.no-fundamentales/2.obtenerAyudaEnLinux.md)
+- [Ir a Concientización](./otros/concientizacion.md)
 
-- [Herramientas Generales](./otros/6.herramientas.md)
+- [Herramientas Generales](./otros/herramientas.md)
 
-- [Ir a recursos complementarios o principales para aprender ciberseguridad](./0.no-fundamentales/5.recursos.md)
+- [Ir a recursos Adicionales](./otros/recursos.md)
 
 Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales:
 
@@ -48,13 +48,15 @@ Enlace para aprender a reconocer Phishing, y concientizar a las personas en ento
 
 **Duración:** 15 min aproximadamente.
 
-Antes de investigar, te recomiendo leer `Conceptos Básicos` y `legalidad del hacking`, donde se explican los términos fundamentales, y reglas importantes de la seguridad informática. Es importante entenderlos, ya que se usan constantemente en el campo de la ciberseguridad y hacking.
+Antes de investigar, te recomiendo leer los siguientes `desmintiendo mitos`, `Conceptos Básicos` y `legalidad del hacking`, donde se explican los términos fundamentales, y reglas importantes de la seguridad informática. Es importante entenderlos, ya que se usan constantemente en el campo de la ciberseguridad y hacking.
 
-A continuación, el enlace al archivo:
+A continuación, el enlace de cada archivo:
 
-- [Ir a leer Conceptos Básicos](./otros/1.conceptosBasicos.md)
+- [Ir a Desmintiendo mitos](./0.conceptos-basicos/0.mitos.md)
 
-- [Ir a leer Legalidad del Hacking](./otros/2.legalidadHacking.md)
+- [Ir a leer Conceptos Básicos](./0.conceptos-basicos/1.conceptos-basicos.md)
+
+- [Ir a leer Legalidad del Hacking](./0.conceptos-basicos/2.legalidad-hacking.md)
 
 ---
 
@@ -200,13 +202,17 @@ Actualización pendiente...
 
 4. Saber si están filtrados tus datos: [Ir a investigar](./11.anonimato/4.filtraciones.md)
 
+...
+
+Conceptos generales: [Ir a conceptos generales](./11.anonimato/0.conceptos-generales.md)
+
 ---
 
 ## Aportaciones
 
 Si quieres aportar al git, con tus propias experiencias y aprendizajes, o económicamente, puedes leer el siguiente manual para enviarme aportaciones y enriquecer más este Repositorio de conocimiento, y ayudar al autor con el siguiente enlace:
 
-[Ir a aportaciones :)](./otros/4.aportaciones.md)
+[Ir a aportaciones :)](./otros/1.aportaciones.md)
 
 ---
 
@@ -216,7 +222,7 @@ Te agradecería mucho, que dieras una **estrella (like)** al Repositorio, no te 
 
 Notas de cada actualización, y mucho más:
 
-[Ir a notas de Actualización](./otros/5.notas-actualizacion.md)
+[Ir a notas de Actualización](./otros/0.notas-actualizacion.md)
 
 **Actualización:** 0.1.7
 

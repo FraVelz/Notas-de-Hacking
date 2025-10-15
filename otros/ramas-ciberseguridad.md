@@ -1,42 +1,10 @@
 # Ramas y Especializaciones de ciberseguridad
 
-Indico cualquier cosa que antes vimos los temas de las bases de la ciberseguridad, como lo son redes, sistema Linux (bash script, y comandos bash), virtualización como terminologías importantes y conceptos importantes.
-
-## 5. Ramas y Especializaciones de ciberseguridad
-
-1. **Seguridad Ofensiva (Ethical Hacking o Red Team)**
-
-2. **Seguridad Defensiva (Blue Team)**
-
-3. **Ciberinteligencia (Cyber Threat Intelligence)**
-
-4. **Criptografía y Seguridad de la Información**
-
-5. **Seguridad en Redes**
-
-6. **Seguridad en la Nube (Cloud Security)**
-
-7. **Seguridad en Aplicaciones**
-
-8. **Gobernanza, Riesgo y Cumplimiento (GRC)**
-
-9. **Seguridad Industrial y de Infraestructuras Críticas**
-
-10. **Ciberseguridad en IA y Datos**
-
-para más información y detalle de cada rama en el siguiente archivo:
-
-[Ir al archivo de ramas de ciberseguridad](./otros/3.ramasCiberseguridad.md)
-
-En este curso/guía vamos a elegir pentesting, osint, criptografía, forense u otro que será secreto para los lectores, pero será un bonus.
-
--
 ---
 
 ## Temario
 
 - [Ramas y Especializaciones de ciberseguridad](#ramas-y-especializaciones-de-ciberseguridad)
-  - [5. Ramas y Especializaciones de ciberseguridad](#5-ramas-y-especializaciones-de-ciberseguridad)
   - [Temario](#temario)
   - [1. Seguridad Ofensiva (Ethical Hacking o Red Team)](#1-seguridad-ofensiva-ethical-hacking-o-red-team)
   - [2. Seguridad Defensiva (Blue Team)](#2-seguridad-defensiva-blue-team)
