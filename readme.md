@@ -40,7 +40,7 @@ Los siguientes artículos no son fundamentales, pero te pueden servir para enriq
 
 Enlace para aprender a reconocer Phishing, y concientizar a las personas en entornos laborales:
 
-- [Ir a Phishing Quiz With Google](https./phishingquiz.withgoogle.com/)
+- [Ir a Phishing Quiz With Google](https:/phishingquiz.withgoogle.com/)
 
 ---
 
@@ -66,11 +66,11 @@ A continuación, el enlace de cada archivo:
 
 Si quieres ver un video de YouTube completo de virtualización con VirtualBox antes de empezar los siguientes pasos, elige alguno para aprender a virtualizar y como aprender como funciona VirtualBox:
 
-[Ir a curso de Virtualización - Hixec (1h 50m)](https./www.youtube.com/watch?v=CLdHQPyHeN0)
+[Ir a curso de Virtualización - Hixec (1h 50m)](https:/www.youtube.com/watch?v=CLdHQPyHeN0)
 
-[Ir a curso de Virtualización - xerosec (2h)](https./www.youtube.com/watch?v=bIoVtXiG9xc&feature=youtu.be)
+[Ir a curso de Virtualización - xerosec (2h)](https:/www.youtube.com/watch?v=bIoVtXiG9xc&feature=youtu.be)
 
-[Ir a curso de Máquinas Virtuales - HolaMundo (30m)](https./www.youtube.com/watch?v=uiFZUfmFAus)
+[Ir a curso de Máquinas Virtuales - HolaMundo (30m)](https:/www.youtube.com/watch?v=uiFZUfmFAus)
 
 Porque descargar Ubuntu y Windows:
 
@@ -82,7 +82,7 @@ Porque descargar Ubuntu y Windows:
 
 Tras instalar Ubuntu y Windows, crea un punto de restauración, esto es muy importante.
 
-- [Buscar como crear un punto de restauración en VirtualBox](https./www.youtube.com/results?search_query=como+crear+un+punto+de+restauracion+en+virtualbox)
+- [Buscar como crear un punto de restauración en VirtualBox](https:/www.youtube.com/results?search_query=como+crear+un+punto+de+restauracion+en+virtualbox)
 
 Todo lo deberías tener más o menos así en VirtualBox:
 
@@ -102,15 +102,21 @@ Primero tener los fundamentos de como utilizar la terminal de linux:
 
 - [Ir a Obtener Ayuda en Linux](./linux/ayuda-linux.md)
 
+- [Ir a comandos de gestión de procesos](./linux/gestion-de-procesos.md)
+
 - [Ir a comandos de gestión de usuarios](./linux/grupos-y-usuarios.md)
+
+- [Ir a comandos de búsqueda](./linux/busqueda.md)
+
+- [Ir a atajos de teclado en linux](./linux/atajos-de-teclado.md)
 
 o si prefieres video de YouTube, puedes elegir alguno de estos:
 
-- [Ir a Curso de Linux - HolaMundo (35m)](https./www.youtube.com/watch?v=L906Kti3gzE)
+- [Ir a Curso de Linux - HolaMundo (35m)](https:/www.youtube.com/watch?v=L906Kti3gzE)
 
-- [Ir a Curso de Linux - Hixec (3h)](https./www.youtube.com/watch?v=8v1cR7-msQ0)
+- [Ir a Curso de Linux - Hixec (3h)](https:/www.youtube.com/watch?v=8v1cR7-msQ0)
 
-- [Buscar Curso de Linux](https./www.youtube.com/results?search_query=curso+de+linux+desde+cero)
+- [Buscar Curso de Linux](https:/www.youtube.com/results?search_query=curso+de+linux+desde+cero)
 
 Luego comenzar a aprender temas de bash script puedes leer las siguientes notas:
 
@@ -131,11 +137,11 @@ Luego comenzar a aprender temas de bash script puedes leer las siguientes notas:
 
 O si prefieres video de YouTube:
 
-- [Ir a curso de bash script desde cero - El pinguino de mario (30m)](https./www.youtube.com/watch?v=RUorAzaDftg)
+- [Ir a curso de bash script desde cero - El pinguino de mario (30m)](https:/www.youtube.com/watch?v=RUorAzaDftg)
 
-- [Ir a curso de bash script desde cero - Fazt (2h 23m)](https./www.youtube.com/watch?v=H4ayPYcZEfI)
+- [Ir a curso de bash script desde cero - Fazt (2h 23m)](https:/www.youtube.com/watch?v=H4ayPYcZEfI)
 
-- [Buscar curso de bash script desde cero](https./www.youtube.com/results?search_query=curso+de+bash+script+desde+cero)
+- [Buscar curso de bash script desde cero](https:/www.youtube.com/results?search_query=curso+de+bash+script+desde+cero)
 
 ---
 
@@ -161,9 +167,9 @@ Archivos para leer de redes:
 
 Cursos videos de YouTube:
 
-- [Ir curso de YouTube Contando bits - Redes Informáticas](https./www.youtube.com/watch?v=OLSKCWjI778)
+- [Ir curso de YouTube Contando bits - Redes Informáticas](https:/www.youtube.com/watch?v=OLSKCWjI778)
 
-- [Ir curso de YouTube Hixec - Redes para ciberseguridad](https./www.youtube.com/watch?v=7ejIdyu8hug)
+- [Ir curso de YouTube Hixec - Redes para ciberseguridad](https:/www.youtube.com/watch?v=7ejIdyu8hug)
 
 ---
 
@@ -243,6 +249,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.1.7
+**Actualización:** 0.1.8
 
 **Autor:** Fravelz
