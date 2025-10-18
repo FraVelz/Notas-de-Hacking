@@ -78,9 +78,7 @@ Porque descargar Ubuntu y Windows:
 
 - La opción más recomendable es VirtualBox, sencilla y muy utilizada (otras personas prefieren WMware, u otras formas de virtualizar).
 
-> No recomiendo Kali porque instala muchas herramientas de hacking por defecto que quizá no uses; eso obliga a actualizar todo constantemente. Es mejor usar Ubuntu e instalar e ir a actualizar solo las herramientas que necesitas.
-
-Tras instalar Ubuntu y Windows, crea un punto de restauración, esto es muy importante.
+Tras instalar Ubuntu (u otro sistema linux) y Windows, crea un punto de restauración en la máquina virtual, esto es muy importante para recuperar el sistema si se llega a romper.
 
 - [Buscar como crear un punto de restauración en VirtualBox](https:/www.youtube.com/results?search_query=como+crear+un+punto+de+restauracion+en+virtualbox)
 
@@ -149,7 +147,41 @@ O si prefieres video de YouTube:
 
 **Duración aproximada (2h diarias):** 2 semanas.
 
-...
+- [Ir a Historia](./windows/historia.md)
+
+- [Ir a Diferencia entre powershell y cmd](./windows/powershell-cmd.md)
+
+- [Ir a Directorios importantes](./windows/directorios.md)
+
+- [Ir a Comodines](./windows/comodines.md)
+
+- [Ir a Comandos y cmdlets de navegación](./windows/navegacion.md)
+
+- [Ir a variables de entorno](./windows/variables-entorno.md)
+
+- [Ir a Comandos y cmdlets de ayuda y soporte](./windows/ayuda-soporte.md)
+
+- [Ir a Comandos y cmdlets de gestión de usuarios](./windows/gestion-usuarios.md)
+
+- [Ir a Comandos y cmdlets de gestión de grupos](./windows/gestion-grupos.md)
+
+- [Ir a Comandos y cmdlets de gestión de grupos](./windows/gestion-grupos.md)
+
+- [Ir a Comandos y cmdlets de gestión de red](./windows/gestion-red.md)
+
+- [Ir a Comandos y cmdlets de gestión de permisos](./windows/gestion-permisos.md)
+
+- [Ir a Redirecciones en Powershell](./windows/redirecciones-powershell.md)
+
+- [Ir a Alias en Powershell](./windows/alias-powershell.md)
+
+Comandos y cmdlets de ayuda y soporte
+
+- [Ir a Comandos y cmdlets de ayuda y soporte](./windows/ayuda-soporte.md)
+
+O videos de YouTube:
+
+- [Ir a curso de Windows - Hixec (2h)](https://www.youtube.com/watch?v=sZ-i7yRZEaI)
 
 ---
 
