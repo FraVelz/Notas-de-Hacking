@@ -2,8 +2,6 @@
 
 ¡Bienvenido y que tengas un buen viaje!
 
-> **Nota:** Para cada tema que se mencione, se tratara de dejar material y enlaces de videos de YouTube, y muchos más cosas como materiales de complemento a esta guía.
-
 ---
 
 ## Temario
@@ -96,17 +94,17 @@ Estos temas están relacionados porque los comandos que aprendes en Linux tambi�
 
 Primero tener los fundamentos de como utilizar la terminal de linux:
 
-- [Ir a Comandos básicos de Linux](./linux/comandos-linux.md)
+1. [Ir a Comandos básicos de Linux](./linux/comandos-linux.md)
 
-- [Ir a Obtener Ayuda en Linux](./linux/ayuda-linux.md)
+2. [Ir a Obtener Ayuda en Linux](./linux/ayuda-linux.md)
 
-- [Ir a comandos de gestión de procesos](./linux/gestion-de-procesos.md)
+3. [Ir a comandos de gestión de procesos](./linux/gestion-de-procesos.md)
 
-- [Ir a comandos de gestión de usuarios](./linux/grupos-y-usuarios.md)
+4. [Ir a comandos de gestión de usuarios](./linux/grupos-y-usuarios.md)
 
-- [Ir a comandos de búsqueda](./linux/busqueda.md)
+5. [Ir a comandos de búsqueda](./linux/busqueda.md)
 
-- [Ir a atajos de teclado en linux](./linux/atajos-de-teclado.md)
+6. [Ir a atajos de teclado en linux](./linux/atajos-de-teclado.md)
 
 o si prefieres video de YouTube, puedes elegir alguno de estos:
 
@@ -147,33 +145,35 @@ O si prefieres video de YouTube:
 
 **Duración aproximada (2h diarias):** 2 semanas.
 
-- [Ir a Historia](./windows/historia.md)
+Todo acerca de windows, para el hacking:
 
-- [Ir a Diferencia entre powershell y cmd](./windows/powershell-cmd.md)
+1. [Ir a Historia](./windows/historia.md)
 
-- [Ir a Directorios importantes](./windows/directorios.md)
+2. [Ir a Diferencia entre powershell y cmd](./windows/powershell-cmd.md)
 
-- [Ir a Comodines](./windows/comodines.md)
+3. [Ir a Directorios importantes](./windows/directorios.md)
 
-- [Ir a Comandos y cmdlets de navegación](./windows/navegacion.md)
+4. [Ir a Comodines](./windows/comodines.md)
 
-- [Ir a variables de entorno](./windows/variables-entorno.md)
+5. [Ir a Comandos y cmdlets de navegación](./windows/navegacion.md)
 
-- [Ir a Comandos y cmdlets de ayuda y soporte](./windows/ayuda-soporte.md)
+6. [Ir a variables de entorno](./windows/variables-entorno.md)
 
-- [Ir a Comandos y cmdlets de gestión de usuarios](./windows/gestion-usuarios.md)
+7. [Ir a Comandos y cmdlets de ayuda y soporte](./windows/ayuda-soporte.md)
 
-- [Ir a Comandos y cmdlets de gestión de grupos](./windows/gestion-grupos.md)
+8. [Ir a Comandos y cmdlets de gestión de usuarios](./windows/gestion-usuarios.md)
 
-- [Ir a Comandos y cmdlets de gestión de grupos](./windows/gestion-grupos.md)
+9. [Ir a Comandos y cmdlets de gestión de grupos](./windows/gestion-grupos.md)
 
-- [Ir a Comandos y cmdlets de gestión de red](./windows/gestion-red.md)
+10. [Ir a Comandos y cmdlets de gestión de grupos](./windows/gestion-grupos.md)
 
-- [Ir a Comandos y cmdlets de gestión de permisos](./windows/gestion-permisos.md)
+11. [Ir a Comandos y cmdlets de gestión de red](./windows/gestion-red.md)
 
-- [Ir a Redirecciones en Powershell](./windows/redirecciones-powershell.md)
+12. [Ir a Comandos y cmdlets de gestión de permisos](./windows/gestion-permisos.md)
 
-- [Ir a Alias en Powershell](./windows/alias-powershell.md)
+13. [Ir a Redirecciones en Powershell](./windows/redirecciones-powershell.md)
+
+14. [Ir a Alias en Powershell](./windows/alias-powershell.md)
 
 Comandos y cmdlets de ayuda y soporte
 
@@ -206,6 +206,12 @@ Cursos videos de YouTube:
 ---
 
 ## 5. Python
+
+Video de YouTube:
+
+- [Ir a curso de Python Básico Completo - YoSoyDalto (8h)](https://www.youtube.com/watch?v=nKPbfIU442g)
+
+Biblioteca Scapy:
 
 ...
 
