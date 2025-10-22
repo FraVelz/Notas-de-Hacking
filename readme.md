@@ -18,10 +18,7 @@
   - [5. Python](#5-python)
   - [6. Pentesting](#6-pentesting)
   - [7. OSINT](#7-osint)
-  - [8. Criptografía](#8-criptografía)
-  - [9. Forense](#9-forense)
-  - [10. Privacidad y Anonimato](#10-privacidad-y-anonimato)
-  - [Aportaciones](#aportaciones)
+  - [8. Privacidad y Anonimato](#8-privacidad-y-anonimato)
   - [Información](#información)
 
 Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
@@ -102,9 +99,11 @@ Primero tener los fundamentos de como utilizar la terminal de linux:
 
 4. [Ir a comandos de gestión de usuarios](./linux/grupos-y-usuarios.md)
 
-5. [Ir a comandos de búsqueda](./linux/busqueda.md)
+5. [Ir a permisos en linux](./linux/permisos.md)
 
-6. [Ir a atajos de teclado en linux](./linux/atajos-de-teclado.md)
+6. [Ir a comandos de búsqueda](./linux/busqueda.md)
+
+7. [Ir a atajos de teclado en linux](./linux/atajos-de-teclado.md)
 
 o si prefieres video de YouTube, puedes elegir alguno de estos:
 
@@ -113,6 +112,10 @@ o si prefieres video de YouTube, puedes elegir alguno de estos:
 - [Ir a Curso de Linux - Hixec (3h)](https:/www.youtube.com/watch?v=8v1cR7-msQ0)
 
 - [Buscar Curso de Linux](https:/www.youtube.com/results?search_query=curso+de+linux+desde+cero)
+
+Recursos extras:
+
+- [Ir a /www.bonaval.com/ Comandos Basicos de Linux](https://www.bonaval.com/kb/cheats-chuletas/comandos-basicos-linux)
 
 Luego comenzar a aprender temas de bash script puedes leer las siguientes notas:
 
@@ -227,8 +230,6 @@ Temario:
 
 ...
 
-> **Nota:** Si solo te interesa conseguir un trabajo sin tantas distracciones en otras cosas, el `pentesting` a profundidad es más que suficiente.
-
 ---
 
 ## 7. OSINT
@@ -243,19 +244,7 @@ Temario:
 
 ---
 
-## 8. Criptografía
-
-Actualización pendiente...
-
----
-
-## 9. Forense
-
-Actualización pendiente...
-
----
-
-## 10. Privacidad y Anonimato
+## 8. Privacidad y Anonimato
 
 1. Definiciones y diferencias entre privacidad y anonimato: [Ir a definiciones](./nonimato/definicion.md)
 
@@ -271,14 +260,6 @@ Conceptos generales: [Ir a conceptos generales](./anonimato/conceptos-generales.
 
 ---
 
-## Aportaciones
-
-Si quieres aportar al git, con tus propias experiencias y aprendizajes, o económicamente, puedes leer el siguiente manual para enviarme aportaciones y enriquecer más este Repositorio de conocimiento, y ayudar al autor con el siguiente enlace:
-
-[Ir a aportaciones :)](./otros/aportaciones.md)
-
----
-
 ## Información
 
 Te agradecería mucho, que dieras una **estrella (like)** al Repositorio, no te cuesta nada y así apoyas al creador, del Repositorio estaría muy agradecido.
@@ -287,6 +268,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.1.8
+**Actualización:** 0.1.9
 
 **Autor:** Fravelz

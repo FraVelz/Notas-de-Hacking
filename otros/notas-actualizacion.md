@@ -40,7 +40,7 @@ Información general y amplia, de herramientas, colaboradores, actualizaciones, 
 
 ## Colabores más importantes
 
-1. the student ethical **(@thestudentethical)**
+1. Student Ethical **(@studentethical)**
 
 ...
 
