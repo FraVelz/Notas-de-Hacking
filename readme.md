@@ -228,14 +228,6 @@ Notas:
 
 - [Ir a decorador @property](./python/property.md)
 
-``` txt
-todo acerca os, re, shutil (manejo de archivos y directorios en python)
-comandos bash unidos:
-- less, tr, sep, xargs, grep, cut, man, file, find, sort, uniq, strings, tail, awk, base64 -d
-
-comando less en bash
-```
-
 Video de YouTube - python desde cero:
 
 - [Ir a curso de Python Básico Completo - YoSoyDalto (8h)](https://www.youtube.com/watch?v=nKPbfIU442g)
