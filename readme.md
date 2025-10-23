@@ -6,8 +6,6 @@
 
 ## Temario
 
-> **Ruta:** con enfoque principal pentesting, normalmente es lo que ayuda a conseguir unas buenas bases en ciberseguridad y trabajo es esta área.
-
 - [Repositorio para aprender Ciberseguridad](#repositorio-para-aprender-ciberseguridad)
   - [Temario](#temario)
   - [0. Conceptos Básicos](#0-conceptos-básicos)
@@ -20,6 +18,8 @@
   - [7. OSINT](#7-osint)
   - [8. Privacidad y Anonimato](#8-privacidad-y-anonimato)
   - [Información](#información)
+
+> **Ruta:** con enfoque principal pentesting, normalmente es lo que ayuda a conseguir unas buenas bases en ciberseguridad y trabajo es esta área.
 
 Los siguientes artículos no son fundamentales, pero te pueden servir para enriquecerte de conocimiento en el mundo de la ciberseguridad, y dentro del entorno Linux:
 
@@ -37,6 +37,8 @@ Enlace para aprender a reconocer Phishing, y concientizar a las personas en ento
 
 - [Ir a Phishing Quiz With Google](https:/phishingquiz.withgoogle.com/)
 
+---
+> Estas son notas de mi aprendizaje en hackin
 ---
 
 ## 0. Conceptos Básicos
@@ -89,7 +91,7 @@ Todo lo deberías tener más o menos así en VirtualBox:
 
 Estos temas están relacionados porque los comandos que aprendes en Linux también se pueden usar dentro de los archivos de Bash Script. En otras palabras, Bash actúa como una extensión del sistema que te permite automatizar esos comandos, combinarlos y ejecutarlos de forma secuencial o condicional sin tener que escribirlos uno por uno en la terminal.
 
-Primero tener los fundamentos de como utilizar la terminal de linux:
+**1. Primero tener los fundamentos de como utilizar la terminal de linux:**
 
 1. [Ir a Comandos básicos de Linux](./linux/comandos-linux.md)
 
@@ -117,7 +119,11 @@ Recursos extras:
 
 - [Ir a /www.bonaval.com/ Comandos Basicos de Linux](https://www.bonaval.com/kb/cheats-chuletas/comandos-basicos-linux)
 
-Luego comenzar a aprender temas de bash script puedes leer las siguientes notas:
+**2. Comandos linux Individuales:**
+
+- [Ir a comando less](./linux/comandos/less.md)
+
+**3. Luego comenzar a aprender temas de bash script puedes leer las siguientes notas:**
 
 **Básico:**
 
@@ -146,7 +152,7 @@ O si prefieres video de YouTube:
 
 ## 3. Windows
 
-**Duración aproximada (2h diarias):** 2 semanas.
+**Duración aproximada (2h diarias):** 1 mes.
 
 Todo acerca de windows, para el hacking:
 
@@ -210,7 +216,27 @@ Cursos videos de YouTube:
 
 ## 5. Python
 
-Video de YouTube:
+**Duración aproximada (2h diarias):** 1 mes.
+
+Notas:
+
+- [Ir a variables privadas y protegidas en clases](./python/variables-clases.md)
+
+- [Ir a Getters y Setters](./python/getter-setter.md)
+
+- [Ir a decorador @classmethod](./python/classmethod.md)
+
+- [Ir a decorador @property](./python/property.md)
+
+``` txt
+todo acerca os, re, shutil (manejo de archivos y directorios en python)
+comandos bash unidos:
+- less, tr, sep, xargs, grep, cut, man, file, find, sort, uniq, strings, tail, awk, base64 -d
+
+comando less en bash
+```
+
+Video de YouTube - python desde cero:
 
 - [Ir a curso de Python Básico Completo - YoSoyDalto (8h)](https://www.youtube.com/watch?v=nKPbfIU442g)
 
@@ -246,7 +272,7 @@ Temario:
 
 ## 8. Privacidad y Anonimato
 
-1. Definiciones y diferencias entre privacidad y anonimato: [Ir a definiciones](./nonimato/definicion.md)
+1. Definiciones y diferencias entre privacidad y anonimato: [Ir a definiciones](./anonimato/definicion.md)
 
 2. Huella digital: [Ir a Huella Digital](./anonimato/huella-digital.md)
 
@@ -268,6 +294,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.1.9
+**Actualización:** 0.2.0
 
 **Autor:** Fravelz

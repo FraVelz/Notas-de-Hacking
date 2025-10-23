@@ -1,12 +1,12 @@
-# Recursos para Aprender ciberseguridad
+# Recursos para Aprender Ciberseguridad
 
 ---
 
 ## Temario
 
-- [Recursos para Aprender ciberseguridad](#recursos-para-aprender-ciberseguridad)
+- [Recursos para Aprender Ciberseguridad](#recursos-para-aprender-ciberseguridad)
   - [Temario](#temario)
-  - [Video YouTube Temario completo](#video-youtube-temario-completo)
+  - [Video YouTube – Temario completo](#video-youtube--temario-completo)
   - [Academia S4vitar](#academia-s4vitar)
   - [Academia Hixec](#academia-hixec)
 
@@ -14,35 +14,51 @@
 
 ---
 
-## Video YouTube Temario completo
+## Video YouTube – Temario completo
 
-Este video **dura aproximadamente 1 hora** en YouTube, y habla acerca de todo el temario para aprender ciberseguridad completamente, de *este video hemos sido inspirados en ciertos temas para organizar estas notas*:
+**Duración:** Aproximadamente 1 hora
 
-https://www.youtube.com/watch?v=fUs1LM2b3JA&sttick=0
+**Canal:** [Xerosec](https://www.youtube.com/@Xerosec)
 
-Canal de YouTube: **Xerosec**
+**Título:** 📝 *Aprende Hacking Ético desde 0 GRATIS | Cómo empezar en Ciberseguridad | Guía de Aprendizaje 2025*
 
-Título: **📝 Aprende Hacking Ético desde 0 GRATIS | Cómo empezar en Ciberseguridad | Guía de Aprendizaje 2025**
+**Enlace directo:** [Ver video en YouTube](https://www.youtube.com/watch?v=fUs1LM2b3JA&sttick=0)
+
+Este video ofrece una guía completa para comenzar en ciberseguridad desde cero. Presenta un **temario bien estructurado** con los fundamentos básicos, incluyendo **conceptos iniciales, virtualización, y organización de áreas de estudio**. Varios apartados de estas notas están inspirados en la estructura y contenidos de dicho video.
 
 ---
 
 ## Academia S4vitar
 
-Tiene la **comunidad de ciberseguridad más grande en Discord.** Su curso para aprender ciberseguridad *pertenecen a su academia que es de pago*, y tiene muchos videos de YouTube resolviendo máquinas.
+La **Academia S4vitar (Hack4U)** es una de las más reconocidas en el mundo hispano. Ofrece formación completa en **pentesting y hacking ético**, con un enfoque práctico y progresivo.
 
-**Enlace:** https://hack4u.io/
+**Características principales:**
+
+- Comunidad activa de ciberseguridad (la más grande en Discord).
+
+- Sistema de aprendizaje por niveles: cada módulo incluye **exámenes** que deben aprobarse para avanzar.
+
+- Enfoque teórico-práctico con **laboratorios y máquinas vulnerables**.
+
+- Plataforma complementaria del mismo creador, **Hack Vault**, una plataforma para practicar con entornos, para prepararse para los certificados.
+
+- Numeroso contenido gratuito en su canal de YouTube, de **resolución de máquinas y mucho más**.
+
+**Sitio web y plataforma de práctica:**
+🔗 [https://hack4u.io/](https://hack4u.io/)
+
+> Algunos temas de Linux y Python presentes en este repositorio provienen de conceptos aprendidos en la Academia S4vitar y su canal de youtube, complementados con apuntes personales.
 
 ---
 
 ## Academia Hixec
 
-Los temas de notas, de este repositorio que hablan de privacidad, y anonimato como de algunos términos, **pertenecen a la academia de Hixec y su canal de YouTube**, que tiene videos con terminologías muy completas.
+La **Academia Hixec** ofrece una formación con enfoque **teórico y técnico** en áreas como **privacidad, anonimato, y seguridad en sistemas Windows**. Sus materiales son claros y están orientados a comprender los fundamentos de la ciberseguridad desde una perspectiva conceptual y profesional.
 
-*Por el momento que yo sepa su academia es gratuita, con una versión de pago*, con lo que veo, algunos cursos de su academia son gratuitos y otros solo accesibles con la inscripción a la academia.
+**Sitio web:**
+🔗 [https://hixec.com/](https://hixec.com/)
 
-*Sin embargo tiene contenido muy completo hasta en lo que por ahora he visto que es, privacidad y anonimato.*
-
-**Enlace:** https://hixec.com/
+> Los apuntes de este repositorio relacionados con privacidad, anonimato y seguridad en Windows están inspirados en contenidos aprendidos en la Academia Hixec y su canal de YouTube.
 
 ---
 
