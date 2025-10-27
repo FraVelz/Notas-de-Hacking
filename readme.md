@@ -38,8 +38,6 @@ Enlace para aprender a reconocer Phishing, y concientizar a las personas en ento
 - [Ir a Phishing Quiz With Google](https:/phishingquiz.withgoogle.com/)
 
 ---
-> Estas son notas de mi aprendizaje en hackin
----
 
 ## 0. Conceptos Básicos
 
@@ -220,6 +218,8 @@ Cursos videos de YouTube:
 
 Notas:
 
+- [Ir a resumen de Python básico](./python/todo-python.md)
+
 - [Ir a variables privadas y protegidas en clases](./python/variables-clases.md)
 
 - [Ir a Getters y Setters](./python/getter-setter.md)
@@ -227,6 +227,18 @@ Notas:
 - [Ir a decorador @classmethod](./python/classmethod.md)
 
 - [Ir a decorador @property](./python/property.md)
+
+Módulos y librerías resumen corto de cada uno:
+
+- [Ir a Os](./python/modulos/os.md)
+
+- [Ir a Subprocess](./python/modulos/subprocess.md)
+
+- [Ir a Sys](./python/modulos/sys.md)
+
+- [Ir a Sockets](./python/modulos/sockets.md)
+
+- [Ir a Threading](./python/modulos/threading.md)
 
 Video de YouTube - python desde cero:
 
@@ -286,6 +298,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.2.0
+**Actualización:** 0.2.1
 
 **Autor:** Fravelz
