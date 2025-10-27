@@ -6,236 +6,122 @@
 
 - [Python](#python)
   - [Temario](#temario)
-  - [1. ¿Qué es Python?](#1-qué-es-python)
-  - [2. Sintaxis básica](#2-sintaxis-básica)
-    - [Variables y tipos de datos](#variables-y-tipos-de-datos)
-    - [Operadores](#operadores)
-  - [3. Control de flujo](#3-control-de-flujo)
-    - [Condicionales](#condicionales)
-    - [Bucles](#bucles)
-  - [4. Estructuras de datos](#4-estructuras-de-datos)
-    - [Listas](#listas)
-    - [Tuplas](#tuplas)
-    - [Conjuntos](#conjuntos)
-    - [Diccionarios](#diccionarios)
-  - [5. Funciones](#5-funciones)
-  - [6. Programación orientada a objetos (POO)](#6-programación-orientada-a-objetos-poo)
-  - [7. Módulos y paquetes](#7-módulos-y-paquetes)
-  - [8. Archivos](#8-archivos)
-  - [9. Librerías populares (por áreas)](#9-librerías-populares-por-áreas)
-  - [10. Conceptos avanzados](#10-conceptos-avanzados)
-  - [11. Herramientas y entorno](#11-herramientas-y-entorno)
+  - [Resumen](#resumen)
+  - [️TCP (Transmission Control Protocol)](#️tcp-transmission-control-protocol)
+    - [Servidor TCP](#servidor-tcp)
+    - [Cliente TCP](#cliente-tcp)
+  - [UDP (User Datagram Protocol)](#udp-user-datagram-protocol)
+    - [Servidor UDP](#servidor-udp)
+    - [Cliente UDP](#cliente-udp)
+  - [Diferencias rápidas](#diferencias-rápidas)
 
 [Regresar a la Guía Principal](./../../readme.md#5-python)
 
 ---
 
-## 1. ¿Qué es Python?
+## Resumen
 
-**Python** es un lenguaje de programación:
+Los **sockets** permiten la **comunicación entre computadoras o procesos** a través de una red (como Internet o una LAN).
 
-- **Interpretado** (no necesitas compilar).
-- **De alto nivel** (fácil de leer).
-- **Multiparadigma** (permite programación estructurada, orientada a objetos y funcional).
-- **De propósito general** (sirve para web, IA, hacking, data science, automatización, etc.).
+Python ofrece el módulo `socket` para manejar conexiones **TCP** (orientadas a conexión) y **UDP** (sin conexión).
 
-Ejemplo básico:
+---
+
+## ️TCP (Transmission Control Protocol)
+
+- Conexión establecida entre cliente y servidor (3-way handshake).
+- Garantiza entrega, orden y fiabilidad.
+- Ideal para chats, transferencias, HTTP, etc.
+
+### Servidor TCP
 
 ``` python
-print("Hola, mundo!")
+# servidor_tcp.py
+import socket
+
+HOST = '127.0.0.1'   # Dirección local
+PORT = 5000          # Puerto del servidor
+
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+    s.bind((HOST, PORT))     # Asociar dirección y puerto
+    s.listen()               # Escuchar conexiones
+    print("Servidor TCP esperando conexión...")
+    conn, addr = s.accept()  # Aceptar cliente
+    with conn:
+        print("Conectado a:", addr)
+        while True:
+            data = conn.recv(1024)      # Recibir datos
+            if not data:
+                break
+            print("Cliente dice:", data.decode())
+            conn.sendall(b"Mensaje recibido")
+```
+
+### Cliente TCP
+
+``` python
+# cliente_tcp.py
+import socket
+
+HOST = '127.0.0.1'
+PORT = 5000
+
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+    s.connect((HOST, PORT))
+    s.sendall(b"Hola servidor TCP")
+    data = s.recv(1024)
+    print("Servidor responde:", data.decode())
 ```
 
 ---
 
-## 2. Sintaxis básica
+## UDP (User Datagram Protocol)
 
-### Variables y tipos de datos
+- No hay conexión, se envían “paquetes” sin confirmar recepción.
+- Más rápido pero menos confiable.
+- Ideal para streaming, juegos, mensajes cortos.
+
+### Servidor UDP
 
 ``` python
-nombre = "Francisco"
-edad = 17
-altura = 1.75
-es_estudiante = True
+# servidor_udp.py
+import socket
+
+HOST = '127.0.0.1'
+PORT = 6000
+
+with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+    s.bind((HOST, PORT))
+    print("Servidor UDP esperando mensajes...")
+    while True:
+        data, addr = s.recvfrom(1024)
+        print("Mensaje de", addr, ":", data.decode())
+        s.sendto(b"Mensaje recibido", addr)
 ```
 
-Tipos básicos:
-
-- `int`: números enteros
-- `float`: decimales
-- `str`: texto
-- `bool`: verdadero/falso
-
-### Operadores
+### Cliente UDP
 
 ``` python
-a = 5
-b = 2
-print(a + b)  # Suma
-print(a ** b) # Potencia
-print(a // b) # División entera
-```
+# cliente_udp.py
+import socket
 
----
+HOST = '127.0.0.1'
+PORT = 6000
 
-## 3. Control de flujo
-
-### Condicionales
-
-``` python
-if edad >= 18:
-    print("Eres adulto")
-elif edad >= 13:
-    print("Eres adolescente")
-else:
-    print("Eres niño")
-```
-
-### Bucles
-
-``` python
-for i in range(5):
-    print(i)  # Imprime 0 a 4
-
-while edad < 18:
-    edad += 1
+with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+    s.sendto(b"Hola servidor UDP", (HOST, PORT))
+    data, _ = s.recvfrom(1024)
+    print("Servidor responde:", data.decode())
 ```
 
 ---
 
-## 4. Estructuras de datos
+## Diferencias rápidas
 
-### Listas
-
-``` python
-nombres = ["Ana", "Luis", "Carlos"]
-nombres.append("Sofía")
-print(nombres[0])  # "Ana"
-```
-
-### Tuplas
-
-``` python
-coordenadas = (10, 20)
-```
-
-### Conjuntos
-
-``` python
-numeros = {1, 2, 3, 3}
-print(numeros)  # {1, 2, 3} (no repite)
-```
-
-### Diccionarios
-
-``` python
-persona = {"nombre": "Francisco", "edad": 17}
-print(persona["nombre"])
-```
-
----
-
-## 5. Funciones
-
-``` python
-def saludar(nombre):
-    return f"Hola, {nombre}"
-
-print(saludar("Francisco"))
-```
-
----
-
-## 6. Programación orientada a objetos (POO)
-
-``` python
-class Persona:
-    def __init__(self, nombre, edad):
-        self.nombre = nombre
-        self.edad = edad
-    
-    def saludar(self):
-        print(f"Hola, soy {self.nombre}")
-
-p1 = Persona("Francisco", 17)
-p1.saludar()
-```
-
----
-
-## 7. Módulos y paquetes
-
-``` python
-import math
-print(math.sqrt(16))  # 4.0
-```
-
-También puedes crear tus propios módulos (`mimodulo.py`) y luego:
-
-``` python
-import mimodulo
-```
-
----
-
-## 8. Archivos
-
-``` python
-with open("datos.txt", "w") as archivo:
-    archivo.write("Hola mundo")
-
-with open("datos.txt", "r") as archivo:
-    print(archivo.read())
-```
-
----
-
-## 9. Librerías populares (por áreas)
-
-| Área                         | Librerías                                                |
-| ---------------------------- | -------------------------------------------------------- |
-| **IA / Machine Learning**    | `numpy`, `pandas`, `scikit-learn`, `tensorflow`, `torch` |
-| **Hacking / Ciberseguridad** | `scapy`, `socket`, `requests`, `paramiko`                |
-| **Desarrollo web**           | `flask`, `django`, `fastapi`                             |
-| **Automatización**           | `os`, `shutil`, `subprocess`, `pyautogui`, `selenium`    |
-| **Ciencia de datos**         | `matplotlib`, `seaborn`, `pandas`                        |
-| **Videojuegos**              | `pygame`                                                 |
-| **Bots / APIs**              | `discord.py`, `telebot`, `requests`                      |
-
----
-
-## 10. Conceptos avanzados
-
-- **List comprehensions:**
-
-  ``` python
-  cuadrados = [x**2 for x in range(5)]
-  ```
-  
-- **Funciones lambda:**
-
-  ``` python
-  doble = lambda x: x*2
-  ```
-
-- **Decoradores**
-- **Generadores (`yield`)**
-- **Manejo de errores (`try/except`)**
-- **Multithreading y multiprocessing**
-- **Expresiones regulares (`re`)**
-
----
-
-## 11. Herramientas y entorno
-
-- **Ejecutar:** `python archivo.py`
-- **Gestor de paquetes:** `pip install nombre_paquete`
-- **Entornos virtuales:**
-
-  ``` bash
-  python -m venv entorno
-  source entorno/bin/activate  # Linux
-  entorno\Scripts\activate     # Windows
-  ```
+| Protocolo | Conexión | Fiabilidad | Velocidad | Uso típico              |
+| --------- | -------- | ---------- | --------- | ----------------------- |
+| TCP       | Sí       | Alta       | Media     | Web, chat, FTP          |
+| UDP       | No       | Baja       | Alta      | Juegos, streaming, VoIP |
 
 ---
 
