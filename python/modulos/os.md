@@ -30,7 +30,7 @@
   - [9. Ejemplo: crear un script portable](#9-ejemplo-crear-un-script-portable)
   - [10. Resumen de funciones más útiles](#10-resumen-de-funciones-más-útiles)
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 ---
 
@@ -238,6 +238,6 @@ print("Pantalla limpia 😎")
 
 ---
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 > **Autor:** Fravelz

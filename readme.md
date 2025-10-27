@@ -228,7 +228,7 @@ Notas:
 
 - [Ir a decorador @property](./python/property.md)
 
-Módulos y librerías resumen corto de cada uno:
+Módulos y librerías resumen de cada uno:
 
 - [Ir a Os](./python/modulos/os.md)
 

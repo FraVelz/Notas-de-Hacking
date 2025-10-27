@@ -26,7 +26,7 @@
   - [10. Conceptos avanzados](#10-conceptos-avanzados)
   - [11. Herramientas y entorno](#11-herramientas-y-entorno)
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 ---
 
@@ -239,7 +239,6 @@ with open("datos.txt", "r") as archivo:
 
 ---
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 > **Autor:** Fravelz
-

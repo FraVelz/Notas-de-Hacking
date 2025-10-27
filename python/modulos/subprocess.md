@@ -22,7 +22,7 @@
   - [12. Ejemplo completo: automatizador de sistema](#12-ejemplo-completo-automatizador-de-sistema)
   - [13. Resumen general](#13-resumen-general)
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 ---
 
@@ -149,9 +149,9 @@ print("Archivos .py:\n", salida)
 
 👉 Aquí:
 
-* `Popen()` crea procesos manualmente.
-* `stdout=subprocess.PIPE` permite conectar procesos.
-* `communicate()` espera y obtiene la salida.
+- `Popen()` crea procesos manualmente.
+- `stdout=subprocess.PIPE` permite conectar procesos.
+- `communicate()` espera y obtiene la salida.
 
 ---
 
@@ -253,7 +253,6 @@ for cmd in comandos:
 
 ---
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 > **Autor:** Fravelz
-
