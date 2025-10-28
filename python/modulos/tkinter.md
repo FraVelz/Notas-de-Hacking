@@ -25,7 +25,7 @@
   - [Ejemplo completo](#ejemplo-completo)
   - [Resumen rápido](#resumen-rápido)
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 ---
 
@@ -267,6 +267,6 @@ ventana.mainloop()
 
 ---
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 > **Autor:** Fravelz
