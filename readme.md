@@ -89,7 +89,7 @@ Todo lo deberías tener más o menos así en VirtualBox:
 
 Estos temas están relacionados porque los comandos que aprendes en Linux también se pueden usar dentro de los archivos de Bash Script. En otras palabras, Bash actúa como una extensión del sistema que te permite automatizar esos comandos, combinarlos y ejecutarlos de forma secuencial o condicional sin tener que escribirlos uno por uno en la terminal.
 
-**1. Primero tener los fundamentos de como utilizar la terminal de linux:**
+### 1. Linux (comandos por secciones)
 
 1. [Ir a Comandos básicos de Linux](./linux/comandos-linux.md)
 
@@ -117,11 +117,11 @@ Recursos extras:
 
 - [Ir a /www.bonaval.com/ Comandos Basicos de Linux](https://www.bonaval.com/kb/cheats-chuletas/comandos-basicos-linux)
 
-**2. Comandos linux Individuales:**
+### 2. Linux (comandos individuales)
 
 - [Ir a comando less](./linux/comandos/less.md)
 
-**3. Luego comenzar a aprender temas de bash script puedes leer las siguientes notas:**
+### 3. Bash Script
 
 **Básico:**
 
@@ -145,6 +145,10 @@ O si prefieres video de YouTube:
 - [Ir a curso de bash script desde cero - Fazt (2h 23m)](https:/www.youtube.com/watch?v=H4ayPYcZEfI)
 
 - [Buscar curso de bash script desde cero](https:/www.youtube.com/results?search_query=curso+de+bash+script+desde+cero)
+
+### 4. Practica general
+
+- [Ir a Practicar con bandit](./linux/bandit-resolucion.md)
 
 ---
 
