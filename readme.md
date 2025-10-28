@@ -230,23 +230,27 @@ Notas:
 
 Módulos y librerías resumen de cada uno:
 
-- [Ir a Os](./python/modulos/os.md)
+- [Ir a Os (automatizar)](./python/modulos/os.md)
 
-- [Ir a Subprocess](./python/modulos/subprocess.md)
+- [Ir a Subprocess (automatizar)](./python/modulos/subprocess.md)
 
-- [Ir a Sys](./python/modulos/sys.md)
+- [Ir a Re (uso avanzado de strings)](./python/modulos/re.md)
 
-- [Ir a Sockets](./python/modulos/sockets.md)
+- [Ir a Sys (funciones del intérprete al programa)](./python/modulos/sys.md)
 
-- [Ir a Threading](./python/modulos/threading.md)
+- [Ir a Sockets (manejo de redes)](./python/modulos/sockets.md)
+
+- [Ir a requesta (crear peticiones, atrevés de red)](./python/modulos/request.md)
+
+- [Ir a Threading (manejo de hilos, procesos paralelos básicos)](./python/modulos/threading.md)
+
+- [Ir a Multiprocessing (manejo de hilos, procesos paralelos avanzados)](./python/modulos/multiprocessing.md)
+
+...
 
 Video de YouTube - python desde cero:
 
 - [Ir a curso de Python Básico Completo - YoSoyDalto (8h)](https://www.youtube.com/watch?v=nKPbfIU442g)
-
-Biblioteca Scapy:
-
-...
 
 ---
 
@@ -298,6 +302,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.2.1
+**Actualización:** 0.2.2
 
 **Autor:** Fravelz

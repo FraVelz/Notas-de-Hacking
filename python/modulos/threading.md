@@ -35,7 +35,7 @@
   - [16) Limitaciones y alternativas](#16-limitaciones-y-alternativas)
   - [17) Resumen](#17-resumen)
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 ---
 
@@ -438,6 +438,6 @@ print(results)
 
 ---
 
-[Regresar a la Guía Principal](./../readme.md#5-python)
+[Regresar a la Guía Principal](./../../readme.md#5-python)
 
 > **Autor:** Fravelz
