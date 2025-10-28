@@ -11,6 +11,10 @@
   - [0. Conceptos Básicos](#0-conceptos-básicos)
   - [1. Virtualización](#1-virtualización)
   - [2. Linux y Bash Script](#2-linux-y-bash-script)
+    - [1. Linux (comandos por secciones)](#1-linux-comandos-por-secciones)
+    - [2. Linux (comandos individuales)](#2-linux-comandos-individuales)
+    - [3. Bash Script](#3-bash-script)
+    - [4. Practica general](#4-practica-general)
   - [3. Windows](#3-windows)
   - [4. Redes](#4-redes)
   - [5. Python](#5-python)
@@ -224,13 +228,15 @@ Notas:
 
 - [Ir a resumen de Python básico](./python/todo-python.md)
 
-- [Ir a variables privadas y protegidas en clases](./python/variables-clases.md)
+- [Ir a resumen de Clases en Python](./python/clases-python.md)
 
-- [Ir a Getters y Setters](./python/getter-setter.md)
+- [Ir a variables privadas y protegidas (clases en Python)](./python/variables-clases.md)
 
-- [Ir a decorador @classmethod](./python/classmethod.md)
+- [Ir a Getters y Setters (clases en Python)](./python/getter-setter.md)
 
-- [Ir a decorador @property](./python/property.md)
+- [Ir a decorador @classmethod (clases en Python)](./python/classmethod.md)
+
+- [Ir a decorador @property (clases en Python)](./python/property.md)
 
 Módulos y librerías resumen de cada uno:
 
@@ -244,11 +250,13 @@ Módulos y librerías resumen de cada uno:
 
 - [Ir a Sockets (manejo de redes)](./python/modulos/sockets.md)
 
-- [Ir a requesta (crear peticiones, atrevés de red)](./python/modulos/request.md)
+- [Ir a request (crear peticiones, atrevés de red)](./python/modulos/request.md)
 
 - [Ir a Threading (manejo de hilos, procesos paralelos básicos)](./python/modulos/threading.md)
 
 - [Ir a Multiprocessing (manejo de hilos, procesos paralelos avanzados)](./python/modulos/multiprocessing.md)
+
+- [Ir a Tkinter (Crear interfaces graficas)](./python/modulos/tkinter.md)
 
 ...
 

@@ -13,7 +13,7 @@
   - [Bandit3](#bandit3)
   - [Bandit4](#bandit4)
   - [Bandit5](#bandit5)
-  - [Bandit6](#bandit6)
+  - [Bandit6 (contiene clave siguiente)](#bandit6-contiene-clave-siguiente)
 
 ---
 
@@ -164,7 +164,7 @@ Terminal:
 
 ---
 
-## Bandit6
+## Bandit6 (contiene clave siguiente)
 
 **Pista:**
 
@@ -180,6 +180,15 @@ Terminal:
   ```
 
   Mostrará la dirección del archivo que tendrá la clave.
+
+</details>
+
+<details>
+  <summary>Clave para el siguiente</summary>
+
+  ``` bash
+  morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+  ```
 
 </details>
 
