@@ -125,6 +125,12 @@ Recursos extras:
 
 - [Ir a comando less](./linux/comandos/less.md)
 
+- [Ir a comando ncat](./linux/comandos/ncat.md)
+
+- [Ir a comando netcat](./linux/comandos/netcat.md)
+
+- [Ir a comando which](./linux/comandos/which.md)
+
 ### 3. Bash Script
 
 **Básico:**
@@ -314,6 +320,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.2.2
+**Actualización:** 0.2.3
 
 **Autor:** Fravelz

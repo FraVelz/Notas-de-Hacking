@@ -22,7 +22,8 @@
   - [Bandit12](#bandit12)
   - [Bandit13](#bandit13)
   - [Bandit14](#bandit14)
-  - [Bandit15](#bandit15)
+  - [Bandit15 (contiene clave para el siguiente)](#bandit15-contiene-clave-para-el-siguiente)
+  - [Bandit16](#bandit16)
 
 ---
 
@@ -74,8 +75,9 @@ Aunque, en la página oficial, ya hay material, para aprender, y pistas de como 
 | Rango               | Dificultad y Temática                           |
 | ------------------- | ----------------------------------------------- |
 | bandit0 a bandit6   | fácil, conceptos básicos y filtrado de archivos |
-| bandit6 a bandit7   | fácil, filtrado de texto en archivos            |
+| bandit7 a bandit9   | fácil, filtrado de texto en archivos            |
 | bandit10 a bandit13 | fácil-intermedio, decodificación                |
+| bandit14 a bandit13 | fácil-intermedio, redes |
 
 Página web:
 
@@ -369,7 +371,7 @@ Terminal:
   ssh -i bandit14.key bandit14@bandit.labs.overthewire.org -p 2220
   ```
 
-  Se dan los permisos correspondientes, donde la clave no debe ser accesible para otros, y luego se utiliza el comando ssh todo igual, pero agregando la línea `-i nombre_clave`.
+  Se dan los permisos correspondientes, donde la clave solo pueda ser leída, y manipulada por el usuario, y luego se utiliza el comando ssh todo igual, pero agregando la línea `-i nombre_clave`.
 
   Ya estarías en el nivel bandit14.
 
@@ -390,15 +392,43 @@ Terminal:
   nc localhost 30000
   ```
 
-  Contectando al protocolo `locahost` y puerto `30000`, luego pegas la clave y te pasara la clave, del siguiente nivel.
+  Conectando al protocolo `locahost` y puerto `30000`, luego pegas la clave y te pasara la clave, del siguiente nivel.
   
 </details>
 
 ---
 
-## Bandit15
+## Bandit15 (contiene clave para el siguiente)
 
-**Pista:** ...
+**Pista:** La contraseña del siguiente nivel se puede recuperar enviando la contraseña del nivel actual al puerto 30001 del host local mediante cifrado SSL/TLS.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  ``` bash
+  ncat --ssl 127.0.0.1 30001
+  ```
+
+  Y pegas la clave del usuario actual, te dará la clave para el siguiente.
+
+  ...
+
+</details>
+
+<details>
+  <summary>Clave para el siguiente</summary>
+
+  ``` bash
+  kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
+  ```
+
+</details>
+
+---
+
+## Bandit16
+
+**Pista:** Las credenciales para el siguiente nivel se pueden recuperar mediante la presentación de la Contraseña del nivel actual a un puerto en localhost en el rango 31000 a 32000. Primero averigüe cuál de estos puertos tiene un servidor Escuchándolos. A continuación, averigüe cuáles de ellos hablan SSL/TLS y cuáles No lo hagas. Solo hay 1 servidor que dará las siguientes credenciales, el Otros simplemente te enviarán lo que sea que le envíes.
 
 <details>
   <summary>Posible solucion</summary>

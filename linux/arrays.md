@@ -11,7 +11,7 @@
   - [3. Mostrar todos los elementos](#3-mostrar-todos-los-elementos)
   - [4. Tamaño del array](#4-tamaño-del-array)
   - [5. Recorrer arrays](#5-recorrer-arrays)
-    - [Con `for`:](#con-for)
+    - [Con for](#con-for)
     - [Con índices](#con-índices)
   - [6. Añadir y modificar elementos](#6-añadir-y-modificar-elementos)
   - [7. Eliminar elementos](#7-eliminar-elementos)
@@ -71,7 +71,7 @@ echo "${#nombres[@]}"  # 3
 
 ## 5. Recorrer arrays
 
-### Con `for`:
+### Con for
 
 ```bash
 for nombre in "${nombres[@]}"; do
