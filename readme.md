@@ -131,6 +131,10 @@ Recursos extras:
 
 - [Ir a comando which](./linux/comandos/which.md)
 
+- [Ir a comando wc](./linux/comandos/wc.md)
+
+- [Ir a comando diff](./linux/comandos/diff.md)
+
 ### 3. Bash Script
 
 **Básico:**

@@ -1,10 +1,10 @@
-# Netcat en Bash
+# Netcat en Linux
 
 ---
 
 ## Temario
 
-- [Netcat en Bash](#netcat-en-bash)
+- [Netcat en Linux](#netcat-en-linux)
   - [Temario](#temario)
   - [¿Qué es Netcat?](#qué-es-netcat)
   - [Instalación](#instalación)

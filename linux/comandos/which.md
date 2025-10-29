@@ -1,10 +1,10 @@
-# Which en bash
+# Which en Linux
 
 ---
 
 ## Temario
 
-- [Which en bash](#which-en-bash)
+- [Which en Linux](#which-en-linux)
   - [Temario](#temario)
   - [¿Que es el comando which?](#que-es-el-comando-which)
     - [Ejemplo básico](#ejemplo-básico)

@@ -24,6 +24,19 @@
   - [Bandit14](#bandit14)
   - [Bandit15 (contiene clave para el siguiente)](#bandit15-contiene-clave-para-el-siguiente)
   - [Bandit16](#bandit16)
+  - [Bandit17](#bandit17)
+  - [Bandit18](#bandit18)
+  - [Bandit19 (contiene clave para el siguiente)](#bandit19-contiene-clave-para-el-siguiente)
+  - [Bandit20](#bandit20)
+  - [Bandit21](#bandit21)
+  - [Bandit22](#bandit22)
+  - [Bandit23 (contiene clave para el siguiente)](#bandit23-contiene-clave-para-el-siguiente)
+  - [Bandit24](#bandit24)
+  - [Bandit25](#bandit25)
+  - [Bandit26](#bandit26)
+  - [Bandit27 (contiene clave)](#bandit27-contiene-clave)
+
+[Regresar a la guía principal](./../readme.md#2-linux-y-bash-script)
 
 ---
 
@@ -77,7 +90,8 @@ Aunque, en la página oficial, ya hay material, para aprender, y pistas de como 
 | bandit0 a bandit6   | fácil, conceptos básicos y filtrado de archivos |
 | bandit7 a bandit9   | fácil, filtrado de texto en archivos            |
 | bandit10 a bandit13 | fácil-intermedio, decodificación                |
-| bandit14 a bandit13 | fácil-intermedio, redes |
+| bandit14 a ...      | fácil-intermedio, redes                         |
+| ...                 | ...                                             |
 
 Página web:
 
@@ -434,10 +448,228 @@ Terminal:
   <summary>Posible solucion</summary>
 
   ``` bash
-  ...
+  nmap --open -T5 -v -n -p31000-32000 127.0.0.1
   ```
 
+  Por el protocolo tcp, buscar puertos abiertos (`nmap --open`), controlar el temporizador y rendimiento del escaneo `-T5` existen (`-T0` lento, pero revisa bien, hasta, `-T5` rápido para el escaneo) `-v` modo verbose que sirve para que vaya mostrando el resultado antes de mostrar todo por consola, `-n` para no aplicar resolución dns, `-p31000-32000` el rango, y el `127.0.0.1` es el puerto.
+  
+  ``` bash
+  ncat --ssl 127.0.0.1 <puerto>
+  ```
+
+  Para conectarse con cifrado a dicho puertos, pegando la clave, y alguno de ellos dará la clave para el siguiente nivel.
+
+</details>
+
+---
+
+## Bandit17
+
+**Pista:** En el directorio principal hay dos archivos: passwords.old y passwords.new. La contraseña para el siguiente nivel se encuentra en passwords.new y es la única línea que ha cambiado entre passwords.old y passwords.new.
+
+**NOTA:** Si has resuelto este nivel y ves «¡Adiós!» al intentar iniciar sesión en bandit18, esto se debe al siguiente nivel, bandit19.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  ``` bash
+  diff passwords.old passwords.new
+  ```
+
+  Muestra las diferencias entre los dos archivos.
+
+</details>
+
+---
+
+## Bandit18
+
+**Pista:** La contraseña para el siguiente nivel se almacena en un archivo "readme" en el directorio personal. Lamentablemente, alguien modificó .bashrc para cerrar sesión al iniciar sesión con SSH.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  ``` bash
+  entrar al con ssh pero agregando al final bash para ejecutar la terminal bash
+  ```
+
+  Esto es como una especie de inyección de código antes que se ejecute el .bashrc
+
+</details>
+
+---
+
+## Bandit19 (contiene clave para el siguiente)
+
+**Pista:** Para acceder al siguiente nivel, debes usar el binario setuid en tu directorio personal. Ejecútalo sin argumentos para ver cómo usarlo. La contraseña para este nivel se encuentra en la ubicación habitual (/etc/bandit_pass), después de haber usado el binario setuid.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  ``` bash
+  entrar al con ssh pero agregando al final bash para ejecutar la terminal bash
+  ```
+
+  Esto es como una especie de inyección de código antes que se ejecute el .bashrc, y leer el `readme`.
+
+</details>
+
+<details>
+  <summary>Clave para el siguiente</summary>
+
+  ``` bash
+  0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
+  ```
+
+</details>
+
+---
+
+## Bandit20
+
+**Pista:** En el directorio personal hay un binario setuid que realiza lo siguiente: se conecta a localhost en el puerto que especifiques como argumento de línea de comandos. Luego, lee una línea de texto de la conexión y la compara con la contraseña del nivel anterior (bandit20). Si la contraseña es correcta, transmite la contraseña del siguiente nivel (bandit21).
+
+**NOTA:** Intenta conectarte a tu propio demonio de red para comprobar si funciona como esperas.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Abres 2 terminales.
+
+  ``` bash
+  ./archivo
+  ```
+
+  En una ejecutas el archivo y en la otra ejecutas el comando para abrir un puerto con el comando nc y envías la clave anterior en este comando.
+
+  ``` bash
+  nc -nlvp 1234
+  ```
+
+  Te debería devolver el archivo donde ejecutaste esta clave.
+
+</details>
+
+---
+
+## Bandit21
+
+**Pista:** Un programa se ejecuta automáticamente a intervalos regulares mediante cron, el programador de tareas basado en tiempo. Consulte el archivo /etc/cron.d/ para ver la configuración y comprobar qué comando se está ejecutando.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Entrar al directorio, ver el código de los archivos y ver el archivo relacionado con el siguiente nivel, dentro de ese archivo hay un script, ver el script y verás que ese script copia la clave de un archivo que no tienes permisos para leer a otro que sí.
+
+</details>
+
+---
+
+## Bandit22
+
+**Pista:** Un programa se ejecuta automáticamente a intervalos regulares mediante cron, el programador de tareas basado en tiempo. Consulte el archivo /etc/cron.d/ para ver la configuración y el comando que se está ejecutando.
+
+**NOTA:** Analizar scripts de shell escritos por otros es una habilidad muy útil. El script de este nivel está diseñado para ser fácil de leer. Si tiene problemas para comprender su funcionamiento, intente ejecutarlo para ver la información de depuración que muestra.
+
+<details>
+  <summary>Posible solucion</summary>
+  Lo mismo que el anterior nivel, pero jugar un poco con bash, y donde esta la variable del usuario colocar el usuario futuro que es bandit23.
+</details>
+
+---
+
+## Bandit23 (contiene clave para el siguiente)
+
+**Pista:** Un programa se ejecuta automáticamente a intervalos regulares mediante cron, el programador de tareas basado en tiempo. Consulta el archivo /etc/cron.d/ para ver la configuración y el comando que se está ejecutando.
+
+**NOTA:** Este nivel requiere que crees tu primer script de shell. ¡Es un gran paso y deberías sentirte orgulloso/a cuando lo logres!
+
+**NOTA 2:** Ten en cuenta que tu script de shell se elimina una vez ejecutado, así que quizá quieras guardar una copia.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Analizar el script del usuario, y crear un archivo en una ruta temporal `mktemp -p`, y copiarla donde el script ejecuta los archivos.
+
+</details>
+
+<details>
+  <summary>Clave para el siguiente</summary>
+
+  ``` bash
+  gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
+  ```
+
+</details>
+
+---
+
+## Bandit24
+
+**Pista:** Un demonio está escuchando en el puerto 30002 y te proporcionará la contraseña de bandit25 si le das la contraseña de bandit24 y un código PIN secreto de 4 dígitos. No hay forma de obtener el código PIN excepto probando las 10 000 combinaciones posibles, un método conocido como fuerza bruta.
+
+No necesitas crear nuevas conexiones cada vez.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  crear un bucle para hacer todas las combinaciones posibles y redirigirlas a un archivo, el archivo (en directorio temporar) lo rediriges, a `nc` utilizando la informacion dada, y filtrar para eliminar las opciones que tengan `Wrong`.
+
+</details>
+
+[Web para practicar expresiones tareas Cron](https://www.site24x7.com/es/tools/crontab/cron-generator.html)
+
+---
+
+## Bandit25
+
+**Pista:** Iniciar sesión en bandit26 desde bandit25 debería ser bastante sencillo… El shell del usuario bandit26 no es /bin/bash, sino otro. Averigua cuál es, cómo funciona y cómo salir de él.
+
+NOTA: Si eres usuario de Windows y normalmente usas PowerShell para conectarte por SSH a bandit, ten en cuenta que PowerShell suele causar problemas con la solución propuesta para este nivel. Deberías usar la línea de comandos.
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Entrar en el modo visual del archivo more, que se ejecuta y con `:set shell=/bin/bash` y `:shell` obtener la shell.
+
+</details>
+
+---
+
+## Bandit26
+
+**Pista:** ¡Buen trabajo consiguiendo una shell! ¡Ahora date prisa y consigue la contraseña para bandit27!
+
+<details>
+  <summary>Posible solucion</summary>
+
+  el nivel es similar a uno en el pasado, pero ahora busca utilizar `cat` directamente.
+
+</details>
+
+---
+
+## Bandit27 (contiene clave)
+
+**Pista:** Existe un repositorio Git en `ssh://bandit27-git@bandit.labs.overthewire.org/home/bandit27-git/repo` a través del puerto 2220. La contraseña del usuario bandit27-git es la misma que la del usuario bandit27.
+
+Clona el repositorio y busca la contraseña para el siguiente nivel.
+
+``` bash
+ssh://bandit27-git@bandit.labs.overthewire.org/home/bandit27-git/repo
+```
+
+<details>
+  <summary>Posible solucion</summary>
   ...
+</details>
+
+<details>
+  <summary>Clave Propia</summary>
+
+  ``` bash
+  upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
+  ```
 
 </details>
 
@@ -446,5 +678,7 @@ Terminal:
 ...
 
 ---
+
+[Regresar a la guía principal](./../readme.md#2-linux-y-bash-script)
 
 > **Autor:** Fravelz

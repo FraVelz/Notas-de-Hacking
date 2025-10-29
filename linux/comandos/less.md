@@ -1,10 +1,10 @@
-# Comando Less
+# Less en Linux
 
 ---
 
 ## Temario
 
-- [Comando Less](#comando-less)
+- [Less en Linux](#less-en-linux)
   - [Temario](#temario)
     - [¿Qué hace exactamente?](#qué-hace-exactamente)
     - [Controles básicos dentro de `less`](#controles-básicos-dentro-de-less)

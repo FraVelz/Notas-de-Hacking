@@ -1,10 +1,10 @@
-# Ncat en Bash
+# Ncat en Linux
 
 ---
 
 ## Temario
 
-- [Ncat en Bash](#ncat-en-bash)
+- [Ncat en Linux](#ncat-en-linux)
   - [Temario](#temario)
   - [¿Qué hace ecat?](#qué-hace-ecat)
   - [Usos típicos](#usos-típicos)
