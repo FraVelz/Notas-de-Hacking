@@ -34,7 +34,12 @@
   - [Bandit24](#bandit24)
   - [Bandit25](#bandit25)
   - [Bandit26](#bandit26)
-  - [Bandit27 (contiene clave)](#bandit27-contiene-clave)
+  - [Bandit27 (contiene clave propia)](#bandit27-contiene-clave-propia)
+  - [Bandit28](#bandit28)
+  - [Bandit29](#bandit29)
+  - [Bandit30](#bandit30)
+  - [Bandit31](#bandit31)
+  - [Bandit32](#bandit32)
 
 [Regresar a la guía principal](./../readme.md#2-linux-y-bash-script)
 
@@ -649,19 +654,21 @@ NOTA: Si eres usuario de Windows y normalmente usas PowerShell para conectarte p
 
 ---
 
-## Bandit27 (contiene clave)
+## Bandit27 (contiene clave propia)
 
 **Pista:** Existe un repositorio Git en `ssh://bandit27-git@bandit.labs.overthewire.org/home/bandit27-git/repo` a través del puerto 2220. La contraseña del usuario bandit27-git es la misma que la del usuario bandit27.
 
 Clona el repositorio y busca la contraseña para el siguiente nivel.
 
 ``` bash
-ssh://bandit27-git@bandit.labs.overthewire.org/home/bandit27-git/repo
+ssh://bandit27-git@bandit.labs.overthewire.org:2220/home/bandit27-git/repo
 ```
 
 <details>
   <summary>Posible solucion</summary>
-  ...
+
+  Puede que la conexión no funcione desde la terminal de bandit en el formato `protocolo://usuario@url:puerto/ruta`, tienes que clonar en un terminal personal, y luego colocar la clave del nivel actual, luego en el archivo readme estará la clave del siguiente nivel.
+
 </details>
 
 <details>
@@ -675,7 +682,116 @@ ssh://bandit27-git@bandit.labs.overthewire.org/home/bandit27-git/repo
 
 ---
 
-...
+## Bandit28
+
+**Pista:** Existe un repositorio Git en ssh://bandit28-git@bandit.labs.overthewire.org/home/bandit28-git/repo a través del puerto 2220. La contraseña del usuario bandit28-git es la misma que la del usuario bandit28.
+
+Clona el repositorio y busca la contraseña para el siguiente nivel.
+
+``` bash
+ssh://bandit28-git@bandit.labs.overthewire.org/home/bandit28-git/repo
+```
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Clonar repo, colocar la clave, y revisar commits pasados.
+
+  Comandos importantes:
+
+  ``` bash
+  git log
+  git show <identificador>
+  ```
+
+</details>
+
+---
+
+## Bandit29
+
+**Pista:** Existe un repositorio Git en ssh://bandit29-git@bandit.labs.overthewire.org/home/bandit29-git/repo a través del puerto 2220. La contraseña del usuario bandit29-git es la misma que la del usuario bandit29.
+
+Clona el repositorio y busca la contraseña para el siguiente nivel.
+
+``` bash
+ssh://bandit29-git@bandit.labs.overthewire.org/home/bandit29-git/repo
+```
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Buscar ramas, y mirar ramas según el enunciado, viendo el archivo readme.
+
+  Comandos importantes:
+
+  ``` bash
+  git branch
+  git switch <rama>
+  ```
+
+</details>
+
+---
+
+## Bandit30
+
+**Pista:** Existe un repositorio Git en ssh://bandit30-git@bandit.labs.overthewire.org/home/bandit30-git/repo a través del puerto 2220. La contraseña del usuario bandit30-git es la misma que la del usuario bandit30.
+
+Clona el repositorio y busca la contraseña para el siguiente nivel.
+
+``` bash
+ssh://bandit30-git@bandit.labs.overthewire.org/home/bandit30-git/repo
+```
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Comandos importantes:
+
+  ``` bash
+  git tag
+  git show <tag>
+  ```
+
+</details>
+
+---
+
+## Bandit31
+
+**Pista:** Hay un repositorio de gits en ssh://bandit31-git@bandit.labs.overthewire.org/home/bandit31-git/repo Vía el puerto 2220. La contraseña para el usuario bandit31-gitEs lo mismo que para el usuario bandit31.
+
+Clone el repositorio y busque la contraseña para el siguiente nivel.
+
+``` bash
+ssh://bandit31-git@bandit.labs.overthewire.org/home/bandit31-git/repo
+```
+
+<details>
+  <summary>Posible solucion</summary>
+
+  Seguir los pasos dados en el archivo del repositorio.
+
+</details>
+
+---
+
+## Bandit32
+
+**Pista:** Después de todo este rollo de Git, es hora de otra escapada. ¡Buena suerte!
+
+``` bash
+ssh://bandit31-git@bandit.labs.overthewire.org/home/bandit31-git/repo
+```
+
+<details>
+  <summary>Posible solucion</summary>
+  Entrar con ssh como normalmente, y conseguir una terminal shell con `$0` y luego una bash `bash`.
+
+  Fin de los niveles actualmente.
+
+</details>
 
 ---
 

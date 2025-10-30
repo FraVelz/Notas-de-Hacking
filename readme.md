@@ -135,6 +135,10 @@ Recursos extras:
 
 - [Ir a comando diff](./linux/comandos/diff.md)
 
+- [Ir a comando xxd](./linux/comandos/xxd.md)
+
+- [Ir a comando cifrado cesar con tr](./linux/comandos/cifrado-cesar-tr.md)
+
 ### 3. Bash Script
 
 **Básico:**
@@ -324,6 +328,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.2.3
+**Actualización:** 0.2.4
 
 **Autor:** Fravelz
