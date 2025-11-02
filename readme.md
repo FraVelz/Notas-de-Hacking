@@ -226,6 +226,10 @@ Archivos para leer de redes:
 
 - Parte Práctica (herramientas): [Ir a Herramientas de Redes](./redes/herramientas.md)
 
+- Subnetting: [Ir a subnetting](./redes/subnetting.md)
+
+- Cidrs y Hosts: [Ir a cidrs y hosts](./redes/cidrs-hosts.md)
+
 Cursos videos de YouTube:
 
 - [Ir curso de YouTube Contando bits - Redes Informáticas](https:/www.youtube.com/watch?v=OLSKCWjI778)
@@ -328,6 +332,6 @@ Notas de cada actualización, y mucho más:
 
 [Ir a notas de Actualización](./otros/notas-actualizacion.md)
 
-**Actualización:** 0.2.4
+**Actualización:** 0.2.5
 
 **Autor:** Fravelz
